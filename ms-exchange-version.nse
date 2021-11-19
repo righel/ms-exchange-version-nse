@@ -43,7 +43,7 @@ local function get_build_via_exporttool(host, port, build)
 
     local response = http.get(host.ip, port, "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application", http_options)
     if response.status == 200 then
-        version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d.%d+.%d+)"')
+        version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d+.%d+.%d+)"')
         if (version ~= nil) then return version end
     end
 
@@ -52,7 +52,10 @@ local function get_build_via_exporttool(host, port, build)
     if (version == nil) then
         for _, v in ipairs(possible_versions) do
             http.get(host.ip, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
-            if response.status == 200 then return v.build end
+            if response.status == 200 then 
+                version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d+.%d+.%d+)"')
+                if (version ~= nil) then return version end
+            end
         end
     end
 
