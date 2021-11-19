@@ -70,9 +70,9 @@ local function get_owa_build(host, port)
     -- method 2: get build from OWA path
     response = http.get(host.ip, port, "/owa", http_options)
     local build = nil
-    build = string.match(response.body, '/owa/auth/(%d+.%d.%d+)')
+    build = string.match(response.body, '/owa/auth/(%d+.%d+.%d+)')
     if (build == nil) then
-        build = string.match(response.body, '/owa/(%d+.%d.%d+)')
+        build = string.match(response.body, '/owa/(%d+.%d+.%d+)')
     end
     if (build ~= nil) then
         -- method 3: get build from exporttool
