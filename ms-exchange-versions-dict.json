@@ -1,0 +1,5712 @@
+{
+    "14.0.639": [
+        {
+            "build": "14.0.639.21",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-09",
+            "version": "2010 RTM (Exchange \u201914\u2019)"
+        }
+    ],
+    "14.0.639.21": [
+        {
+            "build": "14.0.639.21",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-09",
+            "version": "2010 RTM (Exchange \u201914\u2019)"
+        }
+    ],
+    "14.0.682": [
+        {
+            "build": "14.0.682.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB976573",
+            "release": "Dec-09",
+            "version": "2010 RU1"
+        }
+    ],
+    "14.0.682.1": [
+        {
+            "build": "14.0.682.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB976573",
+            "release": "Dec-09",
+            "version": "2010 RU1"
+        }
+    ],
+    "14.0.689": [
+        {
+            "build": "14.0.689.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB979611",
+            "release": "Mar-10",
+            "version": "2010 RU2"
+        }
+    ],
+    "14.0.689.0": [
+        {
+            "build": "14.0.689.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB979611",
+            "release": "Mar-10",
+            "version": "2010 RU2"
+        }
+    ],
+    "14.0.694": [
+        {
+            "build": "14.0.694.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB981401",
+            "release": "Apr-10",
+            "version": "2010 RU3"
+        }
+    ],
+    "14.0.694.0": [
+        {
+            "build": "14.0.694.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB981401",
+            "release": "Apr-10",
+            "version": "2010 RU3"
+        }
+    ],
+    "14.0.702": [
+        {
+            "build": "14.0.702.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB982639",
+            "release": "Jun-10",
+            "version": "2010 RU4"
+        }
+    ],
+    "14.0.702.1": [
+        {
+            "build": "14.0.702.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB982639",
+            "release": "Jun-10",
+            "version": "2010 RU4"
+        }
+    ],
+    "14.0.726": [
+        {
+            "build": "14.0.726.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB2407113",
+            "release": "Dec-10",
+            "version": "2010 RU5"
+        }
+    ],
+    "14.0.726.0": [
+        {
+            "build": "14.0.726.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+            "info": "KB2407113",
+            "release": "Dec-10",
+            "version": "2010 RU5"
+        }
+    ],
+    "14.1.218": [
+        {
+            "build": "14.1.218.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Aug-10",
+            "version": "2010 SP1"
+        }
+    ],
+    "14.1.218.15": [
+        {
+            "build": "14.1.218.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Aug-10",
+            "version": "2010 SP1"
+        }
+    ],
+    "14.1.255": [
+        {
+            "build": "14.1.255.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2407082",
+            "release": "Oct-10",
+            "version": "2010 SP1 RU1"
+        }
+    ],
+    "14.1.255.2": [
+        {
+            "build": "14.1.255.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2407082",
+            "release": "Oct-10",
+            "version": "2010 SP1 RU1"
+        }
+    ],
+    "14.1.270": [
+        {
+            "build": "14.1.270.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2425179",
+            "release": "Dec-10",
+            "version": "2010 SP1 RU2"
+        }
+    ],
+    "14.1.270.1": [
+        {
+            "build": "14.1.270.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2425179",
+            "release": "Dec-10",
+            "version": "2010 SP1 RU2"
+        }
+    ],
+    "14.1.289": [
+        {
+            "build": "14.1.289.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2529939",
+            "release": "Apr-11",
+            "version": "2010 SP1 RU3 v3"
+        },
+        {
+            "build": "14.1.289.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2529939",
+            "release": "Feb-11",
+            "version": "2010 SP1 RU3 v1"
+        }
+    ],
+    "14.1.289.3": [
+        {
+            "build": "14.1.289.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2529939",
+            "release": "Feb-11",
+            "version": "2010 SP1 RU3 v1"
+        }
+    ],
+    "14.1.289.7": [
+        {
+            "build": "14.1.289.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2529939",
+            "release": "Apr-11",
+            "version": "2010 SP1 RU3 v3"
+        }
+    ],
+    "14.1.323": [
+        {
+            "build": "14.1.323.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2579150",
+            "release": "Jul-11",
+            "version": "2010 SP1 RU4 v2"
+        },
+        {
+            "build": "14.1.323.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2579150",
+            "release": "Jun-11",
+            "version": "2010 SP1 RU4 v1"
+        }
+    ],
+    "14.1.323.1": [
+        {
+            "build": "14.1.323.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2579150",
+            "release": "Jun-11",
+            "version": "2010 SP1 RU4 v1"
+        }
+    ],
+    "14.1.323.6": [
+        {
+            "build": "14.1.323.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2579150",
+            "release": "Jul-11",
+            "version": "2010 SP1 RU4 v2"
+        }
+    ],
+    "14.1.339": [
+        {
+            "build": "14.1.339.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2582113",
+            "release": "Aug-11",
+            "version": "2010 SP1 RU5"
+        }
+    ],
+    "14.1.339.1": [
+        {
+            "build": "14.1.339.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2582113",
+            "release": "Aug-11",
+            "version": "2010 SP1 RU5"
+        }
+    ],
+    "14.1.355": [
+        {
+            "build": "14.1.355.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2608646",
+            "release": "Oct-11",
+            "version": "2010 SP1 RU6"
+        }
+    ],
+    "14.1.355.2": [
+        {
+            "build": "14.1.355.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2608646",
+            "release": "Oct-11",
+            "version": "2010 SP1 RU6"
+        }
+    ],
+    "14.1.421": [
+        {
+            "build": "14.1.421.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Nov-12",
+            "version": "2010 SP1 RU7 v3"
+        },
+        {
+            "build": "14.1.421.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Oct-12",
+            "version": "2010 SP1 RU7 v2"
+        },
+        {
+            "build": "14.1.421.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Aug-12",
+            "version": "2010 SP1 RU7 v1"
+        }
+    ],
+    "14.1.421.0": [
+        {
+            "build": "14.1.421.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Aug-12",
+            "version": "2010 SP1 RU7 v1"
+        }
+    ],
+    "14.1.421.2": [
+        {
+            "build": "14.1.421.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Oct-12",
+            "version": "2010 SP1 RU7 v2"
+        }
+    ],
+    "14.1.421.3": [
+        {
+            "build": "14.1.421.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2778158",
+            "release": "Nov-12",
+            "version": "2010 SP1 RU7 v3"
+        }
+    ],
+    "14.1.438": [
+        {
+            "build": "14.1.438.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2787763",
+            "release": "Dec-12",
+            "version": "2010 SP1 RU8"
+        }
+    ],
+    "14.1.438.0": [
+        {
+            "build": "14.1.438.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+            "info": "KB2787763",
+            "release": "Dec-12",
+            "version": "2010 SP1 RU8"
+        }
+    ],
+    "14.2.247": [
+        {
+            "build": "14.2.247.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-11",
+            "version": "2010 SP2"
+        }
+    ],
+    "14.2.247.5": [
+        {
+            "build": "14.2.247.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-11",
+            "version": "2010 SP2"
+        }
+    ],
+    "14.2.283": [
+        {
+            "build": "14.2.283.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2645995",
+            "release": "Feb-12",
+            "version": "2010 SP2 RU1"
+        }
+    ],
+    "14.2.283.3": [
+        {
+            "build": "14.2.283.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2645995",
+            "release": "Feb-12",
+            "version": "2010 SP2 RU1"
+        }
+    ],
+    "14.2.298": [
+        {
+            "build": "14.2.298.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2661854",
+            "release": "Apr-12",
+            "version": "2010 SP2 RU2"
+        }
+    ],
+    "14.2.298.4": [
+        {
+            "build": "14.2.298.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2661854",
+            "release": "Apr-12",
+            "version": "2010 SP2 RU2"
+        }
+    ],
+    "14.2.309": [
+        {
+            "build": "14.2.309.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2685289",
+            "release": "May-12",
+            "version": "2010 SP2 RU3"
+        }
+    ],
+    "14.2.309.2": [
+        {
+            "build": "14.2.309.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2685289",
+            "release": "May-12",
+            "version": "2010 SP2 RU3"
+        }
+    ],
+    "14.2.318": [
+        {
+            "build": "14.2.318.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2706690",
+            "release": "Oct-12",
+            "version": "2010 SP2 RU4 v2"
+        },
+        {
+            "build": "14.2.318.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2706690",
+            "release": "Aug-12",
+            "version": "2010 SP2 RU4 v1"
+        }
+    ],
+    "14.2.318.2": [
+        {
+            "build": "14.2.318.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2706690",
+            "release": "Aug-12",
+            "version": "2010 SP2 RU4 v1"
+        }
+    ],
+    "14.2.318.4": [
+        {
+            "build": "14.2.318.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2706690",
+            "release": "Oct-12",
+            "version": "2010 SP2 RU4 v2"
+        }
+    ],
+    "14.2.328": [
+        {
+            "build": "14.2.328.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2785908",
+            "release": "Dec-12",
+            "version": "2010 SP2 RU5 v2"
+        },
+        {
+            "build": "14.2.328.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2785908",
+            "release": "Nov-12",
+            "version": "2010 SP2 RU5 v1"
+        }
+    ],
+    "14.2.328.10": [
+        {
+            "build": "14.2.328.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2785908",
+            "release": "Dec-12",
+            "version": "2010 SP2 RU5 v2"
+        }
+    ],
+    "14.2.328.5": [
+        {
+            "build": "14.2.328.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2785908",
+            "release": "Nov-12",
+            "version": "2010 SP2 RU5 v1"
+        }
+    ],
+    "14.2.342": [
+        {
+            "build": "14.2.342.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2746164",
+            "release": "Feb-13",
+            "version": "2010 SP2 RU6"
+        }
+    ],
+    "14.2.342.3": [
+        {
+            "build": "14.2.342.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2746164",
+            "release": "Feb-13",
+            "version": "2010 SP2 RU6"
+        }
+    ],
+    "14.2.375": [
+        {
+            "build": "14.2.375.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2874216",
+            "release": "Aug-13",
+            "version": "2010 SP2 RU7"
+        }
+    ],
+    "14.2.375.0": [
+        {
+            "build": "14.2.375.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2874216",
+            "release": "Aug-13",
+            "version": "2010 SP2 RU7"
+        }
+    ],
+    "14.2.390": [
+        {
+            "build": "14.2.390.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2903903",
+            "release": "Dec-13",
+            "version": "2010 SP2 RU8"
+        }
+    ],
+    "14.2.390.3": [
+        {
+            "build": "14.2.390.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+            "info": "KB2903903",
+            "release": "Dec-13",
+            "version": "2010 SP2 RU8"
+        }
+    ],
+    "14.3.123": [
+        {
+            "build": "14.3.123.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Feb-13",
+            "version": "2010 SP3"
+        }
+    ],
+    "14.3.123.4": [
+        {
+            "build": "14.3.123.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Feb-13",
+            "version": "2010 SP3"
+        }
+    ],
+    "14.3.146": [
+        {
+            "build": "14.3.146.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2803727",
+            "release": "May-13",
+            "version": "2010 SP3 RU1"
+        }
+    ],
+    "14.3.146.0": [
+        {
+            "build": "14.3.146.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2803727",
+            "release": "May-13",
+            "version": "2010 SP3 RU1"
+        }
+    ],
+    "14.3.158": [
+        {
+            "build": "14.3.158.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2866475",
+            "release": "Aug-13",
+            "version": "2010 SP3 RU2"
+        }
+    ],
+    "14.3.158.1": [
+        {
+            "build": "14.3.158.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2866475",
+            "release": "Aug-13",
+            "version": "2010 SP3 RU2"
+        }
+    ],
+    "14.3.169": [
+        {
+            "build": "14.3.169.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2891587",
+            "release": "Nov-13",
+            "version": "2010 SP3 RU3"
+        }
+    ],
+    "14.3.169.1": [
+        {
+            "build": "14.3.169.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2891587",
+            "release": "Nov-13",
+            "version": "2010 SP3 RU3"
+        }
+    ],
+    "14.3.174": [
+        {
+            "build": "14.3.174.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2905616",
+            "release": "Dec-13",
+            "version": "2010 SP3 RU4"
+        }
+    ],
+    "14.3.174.1": [
+        {
+            "build": "14.3.174.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2905616",
+            "release": "Dec-13",
+            "version": "2010 SP3 RU4"
+        }
+    ],
+    "14.3.181": [
+        {
+            "build": "14.3.181.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2917508",
+            "release": "Feb-14",
+            "version": "2010 SP3 RU5"
+        }
+    ],
+    "14.3.181.6": [
+        {
+            "build": "14.3.181.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2917508",
+            "release": "Feb-14",
+            "version": "2010 SP3 RU5"
+        }
+    ],
+    "14.3.195": [
+        {
+            "build": "14.3.195.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2936871",
+            "release": "May-14",
+            "version": "2010 SP3 RU6"
+        }
+    ],
+    "14.3.195.1": [
+        {
+            "build": "14.3.195.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2936871",
+            "release": "May-14",
+            "version": "2010 SP3 RU6"
+        }
+    ],
+    "14.3.210": [
+        {
+            "build": "14.3.210.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2961522",
+            "release": "Aug-14",
+            "version": "2010 SP3 RU7"
+        }
+    ],
+    "14.3.210.2": [
+        {
+            "build": "14.3.210.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2961522",
+            "release": "Aug-14",
+            "version": "2010 SP3 RU7"
+        }
+    ],
+    "14.3.224": [
+        {
+            "build": "14.3.224.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2986475",
+            "release": "Dec-14",
+            "version": "2010 SP3 RU8 v2"
+        },
+        {
+            "build": "14.3.224.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2986475",
+            "release": "Dec-14",
+            "version": "2010 SP3 RU8 v1"
+        }
+    ],
+    "14.3.224.1": [
+        {
+            "build": "14.3.224.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2986475",
+            "release": "Dec-14",
+            "version": "2010 SP3 RU8 v1"
+        }
+    ],
+    "14.3.224.2": [
+        {
+            "build": "14.3.224.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB2986475",
+            "release": "Dec-14",
+            "version": "2010 SP3 RU8 v2"
+        }
+    ],
+    "14.3.235": [
+        {
+            "build": "14.3.235.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3030085",
+            "release": "Mar-15",
+            "version": "2010 SP3 RU9"
+        }
+    ],
+    "14.3.235.1": [
+        {
+            "build": "14.3.235.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3030085",
+            "release": "Mar-15",
+            "version": "2010 SP3 RU9"
+        }
+    ],
+    "14.3.248": [
+        {
+            "build": "14.3.248.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3049853",
+            "release": "Jun-15",
+            "version": "2010 SP3 RU10"
+        }
+    ],
+    "14.3.248.2": [
+        {
+            "build": "14.3.248.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3049853",
+            "release": "Jun-15",
+            "version": "2010 SP3 RU10"
+        }
+    ],
+    "14.3.266": [
+        {
+            "build": "14.3.266.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3078674",
+            "release": "Sep-15",
+            "version": "2010 SP3 RU11"
+        }
+    ],
+    "14.3.266.1": [
+        {
+            "build": "14.3.266.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3078674",
+            "release": "Sep-15",
+            "version": "2010 SP3 RU11"
+        }
+    ],
+    "14.3.279": [
+        {
+            "build": "14.3.279.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3096066",
+            "release": "Dec-15",
+            "version": "2010 SP3 RU12"
+        }
+    ],
+    "14.3.279.2": [
+        {
+            "build": "14.3.279.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3096066",
+            "release": "Dec-15",
+            "version": "2010 SP3 RU12"
+        }
+    ],
+    "14.3.294": [
+        {
+            "build": "14.3.294.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3141339",
+            "release": "Mar-16",
+            "version": "2010 SP3 RU13"
+        }
+    ],
+    "14.3.294.0": [
+        {
+            "build": "14.3.294.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3141339",
+            "release": "Mar-16",
+            "version": "2010 SP3 RU13"
+        }
+    ],
+    "14.3.301": [
+        {
+            "build": "14.3.301.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3151097",
+            "release": "Jun-16",
+            "version": "2010 SP3 RU14"
+        }
+    ],
+    "14.3.301.0": [
+        {
+            "build": "14.3.301.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3151097",
+            "release": "Jun-16",
+            "version": "2010 SP3 RU14"
+        }
+    ],
+    "14.3.319": [
+        {
+            "build": "14.3.319.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3184728",
+            "release": "Sep-16",
+            "version": "2010 SP3 RU15"
+        }
+    ],
+    "14.3.319.2": [
+        {
+            "build": "14.3.319.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3184728",
+            "release": "Sep-16",
+            "version": "2010 SP3 RU15"
+        }
+    ],
+    "14.3.339": [
+        {
+            "build": "14.3.339.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3184730",
+            "release": "Dec-16",
+            "version": "2010 SP3 RU16"
+        }
+    ],
+    "14.3.339.0": [
+        {
+            "build": "14.3.339.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB3184730",
+            "release": "Dec-16",
+            "version": "2010 SP3 RU16"
+        }
+    ],
+    "14.3.352": [
+        {
+            "build": "14.3.352.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4011326",
+            "release": "Mar-17",
+            "version": "2010 SP3 RU17"
+        }
+    ],
+    "14.3.352.0": [
+        {
+            "build": "14.3.352.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4011326",
+            "release": "Mar-17",
+            "version": "2010 SP3 RU17"
+        }
+    ],
+    "14.3.361": [
+        {
+            "build": "14.3.361.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2010 SP3 RU18"
+        }
+    ],
+    "14.3.361.1": [
+        {
+            "build": "14.3.361.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2010 SP3 RU18"
+        }
+    ],
+    "14.3.382": [
+        {
+            "build": "14.3.382.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4035162",
+            "release": "Dec-17",
+            "version": "2010 SP3 RU19"
+        }
+    ],
+    "14.3.382.0": [
+        {
+            "build": "14.3.382.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4035162",
+            "release": "Dec-17",
+            "version": "2010 SP3 RU19"
+        }
+    ],
+    "14.3.389": [
+        {
+            "build": "14.3.389.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4073537",
+            "release": "Mar-18",
+            "version": "2010 SP3 RU20"
+        }
+    ],
+    "14.3.389.1": [
+        {
+            "build": "14.3.389.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4073537",
+            "release": "Mar-18",
+            "version": "2010 SP3 RU20"
+        }
+    ],
+    "14.3.399": [
+        {
+            "build": "14.3.399.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4091243",
+            "release": "May-18",
+            "version": "2010 SP3 RU21"
+        }
+    ],
+    "14.3.399.2": [
+        {
+            "build": "14.3.399.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4091243",
+            "release": "May-18",
+            "version": "2010 SP3 RU21"
+        }
+    ],
+    "14.3.411": [
+        {
+            "build": "14.3.411.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4295699",
+            "release": "Jun-18",
+            "version": "2010 SP3 RU22"
+        }
+    ],
+    "14.3.411.0": [
+        {
+            "build": "14.3.411.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4295699",
+            "release": "Jun-18",
+            "version": "2010 SP3 RU22"
+        }
+    ],
+    "14.3.417": [
+        {
+            "build": "14.3.417.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4340733",
+            "release": "Aug-18",
+            "version": "2010 SP3 RU23"
+        }
+    ],
+    "14.3.417.1": [
+        {
+            "build": "14.3.417.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4340733",
+            "release": "Aug-18",
+            "version": "2010 SP3 RU23"
+        }
+    ],
+    "14.3.419": [
+        {
+            "build": "14.3.419.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4458321",
+            "release": "Sep-18",
+            "version": "2010 SP3 RU24"
+        }
+    ],
+    "14.3.419.0": [
+        {
+            "build": "14.3.419.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4458321",
+            "release": "Sep-18",
+            "version": "2010 SP3 RU24"
+        }
+    ],
+    "14.3.435": [
+        {
+            "build": "14.3.435.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4468742",
+            "release": "Jan-19",
+            "version": "2010 SP3 RU25"
+        }
+    ],
+    "14.3.435.0": [
+        {
+            "build": "14.3.435.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4468742",
+            "release": "Jan-19",
+            "version": "2010 SP3 RU25"
+        }
+    ],
+    "14.3.442": [
+        {
+            "build": "14.3.442.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4487052",
+            "release": "Feb-19",
+            "version": "2010 SP3 RU26"
+        }
+    ],
+    "14.3.442.0": [
+        {
+            "build": "14.3.442.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4487052",
+            "release": "Feb-19",
+            "version": "2010 SP3 RU26"
+        }
+    ],
+    "14.3.461": [
+        {
+            "build": "14.3.461.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4503028",
+            "release": "Jun-19",
+            "version": "2010 SP3 RU28"
+        }
+    ],
+    "14.3.461.1": [
+        {
+            "build": "14.3.461.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4503028",
+            "release": "Jun-19",
+            "version": "2010 SP3 RU28"
+        }
+    ],
+    "14.3.468": [
+        {
+            "build": "14.3.468.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4509410",
+            "release": "Jul-19",
+            "version": "2010 SP3 RU29"
+        }
+    ],
+    "14.3.468.0": [
+        {
+            "build": "14.3.468.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4509410",
+            "release": "Jul-19",
+            "version": "2010 SP3 RU29"
+        }
+    ],
+    "14.3.496": [
+        {
+            "build": "14.3.496.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4536989",
+            "release": "Feb-20",
+            "version": "2010 SP3 RU30"
+        }
+    ],
+    "14.3.496.0": [
+        {
+            "build": "14.3.496.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4536989",
+            "release": "Feb-20",
+            "version": "2010 SP3 RU30"
+        }
+    ],
+    "14.3.509": [
+        {
+            "build": "14.3.509.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4593467",
+            "release": "Dec-20",
+            "version": "2010 SP3 RU31"
+        }
+    ],
+    "14.3.509.0": [
+        {
+            "build": "14.3.509.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB4593467",
+            "release": "Dec-20",
+            "version": "2010 SP3 RU31"
+        }
+    ],
+    "14.3.513": [
+        {
+            "build": "14.3.513.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2010 SP3 RU32"
+        }
+    ],
+    "14.3.513.0": [
+        {
+            "build": "14.3.513.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2010 SP3 RU32"
+        }
+    ],
+    "15.0.1044": [
+        {
+            "build": "15.0.1044.25",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB2986485",
+            "release": "Dec-14",
+            "version": "2013 CU7"
+        }
+    ],
+    "15.0.1044.25": [
+        {
+            "build": "15.0.1044.25",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB2986485",
+            "release": "Dec-14",
+            "version": "2013 CU7"
+        }
+    ],
+    "15.0.1076": [
+        {
+            "build": "15.0.1076.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB3030080",
+            "release": "Mar-15",
+            "version": "2013 CU8"
+        }
+    ],
+    "15.0.1076.9": [
+        {
+            "build": "15.0.1076.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB3030080",
+            "release": "Mar-15",
+            "version": "2013 CU8"
+        }
+    ],
+    "15.0.1104": [
+        {
+            "build": "15.0.1104.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB3049849",
+            "release": "Jun-15",
+            "version": "2013 CU9"
+        }
+    ],
+    "15.0.1104.5": [
+        {
+            "build": "15.0.1104.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB3049849",
+            "release": "Jun-15",
+            "version": "2013 CU9"
+        }
+    ],
+    "15.0.1130": [
+        {
+            "build": "15.0.1130.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB3078678",
+            "release": "Sep-15",
+            "version": "2013 CU10"
+        }
+    ],
+    "15.0.1130.7": [
+        {
+            "build": "15.0.1130.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB3078678",
+            "release": "Sep-15",
+            "version": "2013 CU10"
+        }
+    ],
+    "15.0.1156": [
+        {
+            "build": "15.0.1156.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB3099522",
+            "release": "Dec-15",
+            "version": "2013 CU11"
+        }
+    ],
+    "15.0.1156.6": [
+        {
+            "build": "15.0.1156.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB3099522",
+            "release": "Dec-15",
+            "version": "2013 CU11"
+        }
+    ],
+    "15.0.1178": [
+        {
+            "build": "15.0.1178.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB3108023 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 CU12 + KB3184736"
+        },
+        {
+            "build": "15.0.1178.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB3108023",
+            "release": "Mar-16",
+            "version": "2013 CU12"
+        }
+    ],
+    "15.0.1178.4": [
+        {
+            "build": "15.0.1178.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB3108023",
+            "release": "Mar-16",
+            "version": "2013 CU12"
+        }
+    ],
+    "15.0.1178.9": [
+        {
+            "build": "15.0.1178.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB3108023 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 CU12 + KB3184736"
+        }
+    ],
+    "15.0.1210": [
+        {
+            "build": "15.0.1210.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB3135743 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 CU13 + KB3184736"
+        },
+        {
+            "build": "15.0.1210.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB3135743",
+            "release": "Jun-16",
+            "version": "2013 CU13"
+        }
+    ],
+    "15.0.1210.3": [
+        {
+            "build": "15.0.1210.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB3135743",
+            "release": "Jun-16",
+            "version": "2013 CU13"
+        }
+    ],
+    "15.0.1210.6": [
+        {
+            "build": "15.0.1210.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB3135743 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 CU13 + KB3184736"
+        }
+    ],
+    "15.0.1236": [
+        {
+            "build": "15.0.1236.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB3177670 KB4013242",
+            "release": "Mar-17",
+            "version": "2013 CU14 + KB4013242"
+        },
+        {
+            "build": "15.0.1236.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB3177670",
+            "release": "Sep-16",
+            "version": "2013 CU14"
+        }
+    ],
+    "15.0.1236.3": [
+        {
+            "build": "15.0.1236.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB3177670",
+            "release": "Sep-16",
+            "version": "2013 CU14"
+        }
+    ],
+    "15.0.1236.6": [
+        {
+            "build": "15.0.1236.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB3177670 KB4013242",
+            "release": "Mar-17",
+            "version": "2013 CU14 + KB4013242"
+        }
+    ],
+    "15.0.1263": [
+        {
+            "build": "15.0.1263.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB3197044",
+            "release": "Dec-16",
+            "version": "2013 CU15"
+        }
+    ],
+    "15.0.1263.5": [
+        {
+            "build": "15.0.1263.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB3197044",
+            "release": "Dec-16",
+            "version": "2013 CU15"
+        }
+    ],
+    "15.0.1293": [
+        {
+            "build": "15.0.1293.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2013 CU16 + KB4018588"
+        },
+        {
+            "build": "15.0.1293.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4012112",
+            "release": "Mar-17",
+            "version": "2013 CU16"
+        }
+    ],
+    "15.0.1293.2": [
+        {
+            "build": "15.0.1293.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4012112",
+            "release": "Mar-17",
+            "version": "2013 CU16"
+        }
+    ],
+    "15.0.1293.4": [
+        {
+            "build": "15.0.1293.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2013 CU16 + KB4018588"
+        }
+    ],
+    "15.0.1320": [
+        {
+            "build": "15.0.1320.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2013 CU17 + KB4045655"
+        },
+        {
+            "build": "15.0.1320.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4012114",
+            "release": "Jun-17",
+            "version": "2013 CU17"
+        }
+    ],
+    "15.0.1320.4": [
+        {
+            "build": "15.0.1320.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4012114",
+            "release": "Jun-17",
+            "version": "2013 CU17"
+        }
+    ],
+    "15.0.1320.7": [
+        {
+            "build": "15.0.1320.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2013 CU17 + KB4045655"
+        }
+    ],
+    "15.0.1347": [
+        {
+            "build": "15.0.1347.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2013 CU18 + KB4045655"
+        },
+        {
+            "build": "15.0.1347.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4022631",
+            "release": "Sep-17",
+            "version": "2013 CU18"
+        }
+    ],
+    "15.0.1347.2": [
+        {
+            "build": "15.0.1347.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4022631",
+            "release": "Sep-17",
+            "version": "2013 CU18"
+        }
+    ],
+    "15.0.1347.3": [
+        {
+            "build": "15.0.1347.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2013 CU18 + KB4045655"
+        }
+    ],
+    "15.0.1365": [
+        {
+            "build": "15.0.1365.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4037224 KB4092041",
+            "release": "May-18",
+            "version": "2013 CU19 + KB4092041"
+        },
+        {
+            "build": "15.0.1365.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4037224",
+            "release": "Dec-17",
+            "version": "2013 CU19"
+        }
+    ],
+    "15.0.1365.1": [
+        {
+            "build": "15.0.1365.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4037224",
+            "release": "Dec-17",
+            "version": "2013 CU19"
+        }
+    ],
+    "15.0.1365.7": [
+        {
+            "build": "15.0.1365.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4037224 KB4092041",
+            "release": "May-18",
+            "version": "2013 CU19 + KB4092041"
+        }
+    ],
+    "15.0.1367": [
+        {
+            "build": "15.0.1367.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221 KB4340731",
+            "release": "Aug-18",
+            "version": "2013 CU20 + KB4340731"
+        },
+        {
+            "build": "15.0.1367.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221 KB4092041",
+            "release": "May-18",
+            "version": "2013 CU20 + KB4092041"
+        },
+        {
+            "build": "15.0.1367.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221",
+            "release": "Mar-18",
+            "version": "2013 CU20"
+        }
+    ],
+    "15.0.1367.3": [
+        {
+            "build": "15.0.1367.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221",
+            "release": "Mar-18",
+            "version": "2013 CU20"
+        }
+    ],
+    "15.0.1367.6": [
+        {
+            "build": "15.0.1367.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221 KB4092041",
+            "release": "May-18",
+            "version": "2013 CU20 + KB4092041"
+        }
+    ],
+    "15.0.1367.9": [
+        {
+            "build": "15.0.1367.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4055221 KB4340731",
+            "release": "Aug-18",
+            "version": "2013 CU20 + KB4340731"
+        }
+    ],
+    "15.0.1395": [
+        {
+            "build": "15.0.1395.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU21+KB5000871"
+        },
+        {
+            "build": "15.0.1395.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2013 CU21 + KB4471389"
+        },
+        {
+            "build": "15.0.1395.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4099855+KB4340731",
+            "release": "Aug-18",
+            "version": "2013 CU21 + KB4340731"
+        },
+        {
+            "build": "15.0.1395.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4099855",
+            "release": "Jun-18",
+            "version": "2013 CU21"
+        }
+    ],
+    "15.0.1395.10": [
+        {
+            "build": "15.0.1395.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2013 CU21 + KB4471389"
+        }
+    ],
+    "15.0.1395.12": [
+        {
+            "build": "15.0.1395.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU21+KB5000871"
+        }
+    ],
+    "15.0.1395.4": [
+        {
+            "build": "15.0.1395.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4099855",
+            "release": "Jun-18",
+            "version": "2013 CU21"
+        }
+    ],
+    "15.0.1395.7": [
+        {
+            "build": "15.0.1395.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB4099855+KB4340731",
+            "release": "Aug-18",
+            "version": "2013 CU21 + KB4340731"
+        }
+    ],
+    "15.0.1473": [
+        {
+            "build": "15.0.1473.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU22+KB5000871"
+        },
+        {
+            "build": "15.0.1473.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB4503028",
+            "release": "Jun-19",
+            "version": "2013 CU22 + KB4503028"
+        },
+        {
+            "build": "15.0.1473.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB4345836",
+            "release": "Feb-19",
+            "version": "2013 CU22"
+        }
+    ],
+    "15.0.1473.3": [
+        {
+            "build": "15.0.1473.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB4345836",
+            "release": "Feb-19",
+            "version": "2013 CU22"
+        }
+    ],
+    "15.0.1473.5": [
+        {
+            "build": "15.0.1473.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB4503028",
+            "release": "Jun-19",
+            "version": "2013 CU22 + KB4503028"
+        }
+    ],
+    "15.0.1473.6": [
+        {
+            "build": "15.0.1473.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU22+KB5000871"
+        }
+    ],
+    "15.0.1497": [
+        {
+            "build": "15.0.1497.26",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2013CU23+KB5007409"
+        },
+        {
+            "build": "15.0.1497.24",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5007011",
+            "release": "Oct-21",
+            "version": "2013CU23+KB5007011"
+        },
+        {
+            "build": "15.0.1497.23",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5004778",
+            "release": "Jun-21",
+            "version": "2013CU23+KB5004778"
+        },
+        {
+            "build": "15.0.1497.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2013CU23+KB5003435"
+        },
+        {
+            "build": "15.0.1497.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2013CU23+KB5001779"
+        },
+        {
+            "build": "15.0.1497.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU23+KB5000871"
+        },
+        {
+            "build": "15.0.1497.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4593466",
+            "release": "Dec-20",
+            "version": "2013CU23+KB4593466"
+        },
+        {
+            "build": "15.0.1497.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2013CU23+KB581424"
+        },
+        {
+            "build": "15.0.1497.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2013CU23+KB581424"
+        },
+        {
+            "build": "15.0.1497.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4536988",
+            "release": "Feb-20",
+            "version": "2013CU23+KB4536988"
+        },
+        {
+            "build": "15.0.1497.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2013CU23+ KB4523171"
+        },
+        {
+            "build": "15.0.1497.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2013 CU23 + KB4509409"
+        },
+        {
+            "build": "15.0.1497.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4489622",
+            "release": "Jun-19",
+            "version": "2013 CU23"
+        }
+    ],
+    "15.0.1497.10": [
+        {
+            "build": "15.0.1497.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4593466",
+            "release": "Dec-20",
+            "version": "2013CU23+KB4593466"
+        }
+    ],
+    "15.0.1497.12": [
+        {
+            "build": "15.0.1497.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2013CU23+KB5000871"
+        }
+    ],
+    "15.0.1497.15": [
+        {
+            "build": "15.0.1497.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2013CU23+KB5001779"
+        }
+    ],
+    "15.0.1497.18": [
+        {
+            "build": "15.0.1497.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2013CU23+KB5003435"
+        }
+    ],
+    "15.0.1497.2": [
+        {
+            "build": "15.0.1497.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4489622",
+            "release": "Jun-19",
+            "version": "2013 CU23"
+        }
+    ],
+    "15.0.1497.23": [
+        {
+            "build": "15.0.1497.23",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5004778",
+            "release": "Jun-21",
+            "version": "2013CU23+KB5004778"
+        }
+    ],
+    "15.0.1497.24": [
+        {
+            "build": "15.0.1497.24",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5007011",
+            "release": "Oct-21",
+            "version": "2013CU23+KB5007011"
+        }
+    ],
+    "15.0.1497.26": [
+        {
+            "build": "15.0.1497.26",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2013CU23+KB5007409"
+        }
+    ],
+    "15.0.1497.3": [
+        {
+            "build": "15.0.1497.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2013 CU23 + KB4509409"
+        }
+    ],
+    "15.0.1497.4": [
+        {
+            "build": "15.0.1497.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2013CU23+ KB4523171"
+        }
+    ],
+    "15.0.1497.6": [
+        {
+            "build": "15.0.1497.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4536988",
+            "release": "Feb-20",
+            "version": "2013CU23+KB4536988"
+        }
+    ],
+    "15.0.1497.7": [
+        {
+            "build": "15.0.1497.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2013CU23+KB581424"
+        }
+    ],
+    "15.0.1497.8": [
+        {
+            "build": "15.0.1497.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2013CU23+KB581424"
+        }
+    ],
+    "15.0.516": [
+        {
+            "build": "15.0.516.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-12",
+            "version": "2013 RTM (Exchange \u201915\u2019)"
+        }
+    ],
+    "15.0.516.32": [
+        {
+            "build": "15.0.516.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-12",
+            "version": "2013 RTM (Exchange \u201915\u2019)"
+        }
+    ],
+    "15.0.620": [
+        {
+            "build": "15.0.620.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB2816900 KB2874216",
+            "release": "Aug-13",
+            "version": "2013 CU1 + KB2874216v2"
+        },
+        {
+            "build": "15.0.620.29",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB2816900",
+            "release": "Apr-13",
+            "version": "2013 CU1"
+        }
+    ],
+    "15.0.620.29": [
+        {
+            "build": "15.0.620.29",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB2816900",
+            "release": "Apr-13",
+            "version": "2013 CU1"
+        }
+    ],
+    "15.0.620.34": [
+        {
+            "build": "15.0.620.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB2816900 KB2874216",
+            "release": "Aug-13",
+            "version": "2013 CU1 + KB2874216v2"
+        }
+    ],
+    "15.0.712": [
+        {
+            "build": "15.0.712.31",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928 KB2880833",
+            "release": "Dec-13",
+            "version": "2013 CU2 + KB2880833"
+        },
+        {
+            "build": "15.0.712.28",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928 KB2874216",
+            "release": "Aug-13",
+            "version": "2013 CU2 + KB2874216v2"
+        }
+    ],
+    "15.0.712.28": [
+        {
+            "build": "15.0.712.28",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928 KB2874216",
+            "release": "Aug-13",
+            "version": "2013 CU2 + KB2874216v2"
+        }
+    ],
+    "15.0.712.31": [
+        {
+            "build": "15.0.712.31",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928 KB2880833",
+            "release": "Dec-13",
+            "version": "2013 CU2 + KB2880833"
+        }
+    ],
+    "15.0.775": [
+        {
+            "build": "15.0.775.41",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB2892464 KB2880833",
+            "release": "Dec-13",
+            "version": "2013 CU3 + KB2880833"
+        },
+        {
+            "build": "15.0.775.38",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB2892464",
+            "release": "Nov-13",
+            "version": "2013 CU3"
+        }
+    ],
+    "15.0.775.38": [
+        {
+            "build": "15.0.775.38",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB2892464",
+            "release": "Nov-13",
+            "version": "2013 CU3"
+        }
+    ],
+    "15.0.775.41": [
+        {
+            "build": "15.0.775.41",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB2892464 KB2880833",
+            "release": "Dec-13",
+            "version": "2013 CU3 + KB2880833"
+        }
+    ],
+    "15.0.847": [
+        {
+            "build": "15.0.847.62",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB4018588 KB4092041",
+            "release": "May-18",
+            "version": "2013 SP1 (CU4) + KB4092041"
+        },
+        {
+            "build": "15.0.847.55",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB4018588 KB4013242",
+            "release": "Jul-17",
+            "version": "2013 SP1 (CU4) + KB4018588"
+        },
+        {
+            "build": "15.0.847.53",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB3184736 KB4013242",
+            "release": "Mar-17",
+            "version": "2013 SP1 (CU4) + KB4013242"
+        },
+        {
+            "build": "15.0.847.50",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB3184736 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 SP1 (CU4) + KB3184736"
+        },
+        {
+            "build": "15.0.847.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB2926248",
+            "release": "Feb-14",
+            "version": "2013 SP1 (CU4)"
+        }
+    ],
+    "15.0.847.32": [
+        {
+            "build": "15.0.847.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB2926248",
+            "release": "Feb-14",
+            "version": "2013 SP1 (CU4)"
+        }
+    ],
+    "15.0.847.50": [
+        {
+            "build": "15.0.847.50",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB3184736 KB3184736",
+            "release": "Sep-16",
+            "version": "2013 SP1 (CU4) + KB3184736"
+        }
+    ],
+    "15.0.847.53": [
+        {
+            "build": "15.0.847.53",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB3184736 KB4013242",
+            "release": "Mar-17",
+            "version": "2013 SP1 (CU4) + KB4013242"
+        }
+    ],
+    "15.0.847.55": [
+        {
+            "build": "15.0.847.55",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB4018588 KB4013242",
+            "release": "Jul-17",
+            "version": "2013 SP1 (CU4) + KB4018588"
+        }
+    ],
+    "15.0.847.62": [
+        {
+            "build": "15.0.847.62",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+            "info": "KB4018588 KB4092041",
+            "release": "May-18",
+            "version": "2013 SP1 (CU4) + KB4092041"
+        }
+    ],
+    "15.0.913": [
+        {
+            "build": "15.0.913.22",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB2936880",
+            "release": "May-14",
+            "version": "2013 CU5"
+        }
+    ],
+    "15.0.913.22": [
+        {
+            "build": "15.0.913.22",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB2936880",
+            "release": "May-14",
+            "version": "2013 CU5"
+        }
+    ],
+    "15.0.995": [
+        {
+            "build": "15.0.995.29",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB2961810",
+            "release": "Aug-14",
+            "version": "2013 CU6"
+        }
+    ],
+    "15.0.995.29": [
+        {
+            "build": "15.0.995.29",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB2961810",
+            "release": "Aug-14",
+            "version": "2013 CU6"
+        }
+    ],
+    "15.1.1034": [
+        {
+            "build": "15.1.1034.33",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2016 CU6 + KB4045655"
+        },
+        {
+            "build": "15.1.1034.26",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4012108",
+            "release": "Jun-17",
+            "version": "2016 CU6"
+        }
+    ],
+    "15.1.1034.26": [
+        {
+            "build": "15.1.1034.26",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4012108",
+            "release": "Jun-17",
+            "version": "2016 CU6"
+        }
+    ],
+    "15.1.1034.33": [
+        {
+            "build": "15.1.1034.33",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2016 CU6 + KB4045655"
+        }
+    ],
+    "15.1.1261": [
+        {
+            "build": "15.1.1261.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2016 CU7 + KB4045655"
+        },
+        {
+            "build": "15.1.1261.35",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4018115",
+            "release": "Sep-17",
+            "version": "2016 CU7"
+        }
+    ],
+    "15.1.1261.35": [
+        {
+            "build": "15.1.1261.35",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4018115",
+            "release": "Sep-17",
+            "version": "2016 CU7"
+        }
+    ],
+    "15.1.1261.37": [
+        {
+            "build": "15.1.1261.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4045655",
+            "release": "Dec-17",
+            "version": "2016 CU7 + KB4045655"
+        }
+    ],
+    "15.1.1415": [
+        {
+            "build": "15.1.1415.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU8+KB5000871"
+        },
+        {
+            "build": "15.1.1415.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4035145 KB4092041",
+            "release": "May-18",
+            "version": "2016 CU8 + KB4092041"
+        },
+        {
+            "build": "15.1.1415.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4035145",
+            "release": "Dec-17",
+            "version": "2016 CU8"
+        }
+    ],
+    "15.1.1415.10": [
+        {
+            "build": "15.1.1415.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU8+KB5000871"
+        }
+    ],
+    "15.1.1415.2": [
+        {
+            "build": "15.1.1415.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4035145",
+            "release": "Dec-17",
+            "version": "2016 CU8"
+        }
+    ],
+    "15.1.1415.7": [
+        {
+            "build": "15.1.1415.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4035145 KB4092041",
+            "release": "May-18",
+            "version": "2016 CU8 + KB4092041"
+        }
+    ],
+    "15.1.1466": [
+        {
+            "build": "15.1.1466.16",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU9+KB5000871"
+        },
+        {
+            "build": "15.1.1466.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222+KB4340731",
+            "release": "Aug-18",
+            "version": "2016 CU9 + KB4340731"
+        },
+        {
+            "build": "15.1.1466.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222 KB4092041",
+            "release": "May-18",
+            "version": "2016 CU9 + KB4092041"
+        },
+        {
+            "build": "15.1.1466.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222",
+            "release": "Mar-18",
+            "version": "2016 CU9"
+        }
+    ],
+    "15.1.1466.10": [
+        {
+            "build": "15.1.1466.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222+KB4340731",
+            "release": "Aug-18",
+            "version": "2016 CU9 + KB4340731"
+        }
+    ],
+    "15.1.1466.16": [
+        {
+            "build": "15.1.1466.16",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU9+KB5000871"
+        }
+    ],
+    "15.1.1466.3": [
+        {
+            "build": "15.1.1466.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222",
+            "release": "Mar-18",
+            "version": "2016 CU9"
+        }
+    ],
+    "15.1.1466.8": [
+        {
+            "build": "15.1.1466.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4055222 KB4092041",
+            "release": "May-18",
+            "version": "2016 CU9 + KB4092041"
+        }
+    ],
+    "15.1.1531": [
+        {
+            "build": "15.1.1531.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU10+KB5000871"
+        },
+        {
+            "build": "15.1.1531.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2016 CU10 +KB4471389"
+        },
+        {
+            "build": "15.1.1531.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4468741",
+            "release": "Dec-18",
+            "version": "2016 CU10 + KB4468741"
+        },
+        {
+            "build": "15.1.1531.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4099852+KB4340731",
+            "release": "Aug-18",
+            "version": "2016 CU10 + KB4340731"
+        },
+        {
+            "build": "15.1.1531.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4099852",
+            "release": "Jun-18",
+            "version": "2016 CU10"
+        }
+    ],
+    "15.1.1531.10": [
+        {
+            "build": "15.1.1531.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2016 CU10 +KB4471389"
+        }
+    ],
+    "15.1.1531.12": [
+        {
+            "build": "15.1.1531.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU10+KB5000871"
+        }
+    ],
+    "15.1.1531.3": [
+        {
+            "build": "15.1.1531.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4099852",
+            "release": "Jun-18",
+            "version": "2016 CU10"
+        }
+    ],
+    "15.1.1531.6": [
+        {
+            "build": "15.1.1531.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4099852+KB4340731",
+            "release": "Aug-18",
+            "version": "2016 CU10 + KB4340731"
+        }
+    ],
+    "15.1.1531.8": [
+        {
+            "build": "15.1.1531.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB4468741",
+            "release": "Dec-18",
+            "version": "2016 CU10 + KB4468741"
+        }
+    ],
+    "15.1.1591": [
+        {
+            "build": "15.1.1591.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU11+KB5000871"
+        },
+        {
+            "build": "15.1.1591.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2016 CU11 + KB4503027"
+        },
+        {
+            "build": "15.1.1591.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2016 CU11 + KB4471389"
+        },
+        {
+            "build": "15.1.1591.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4468741",
+            "release": "Dec-18",
+            "version": "2016 CU11 + KB4468741"
+        },
+        {
+            "build": "15.1.1591.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4134118",
+            "release": "Oct-18",
+            "version": "2016 CU11"
+        }
+    ],
+    "15.1.1591.10": [
+        {
+            "build": "15.1.1591.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4134118",
+            "release": "Oct-18",
+            "version": "2016 CU11"
+        }
+    ],
+    "15.1.1591.11": [
+        {
+            "build": "15.1.1591.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4468741",
+            "release": "Dec-18",
+            "version": "2016 CU11 + KB4468741"
+        }
+    ],
+    "15.1.1591.13": [
+        {
+            "build": "15.1.1591.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2016 CU11 + KB4471389"
+        }
+    ],
+    "15.1.1591.17": [
+        {
+            "build": "15.1.1591.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2016 CU11 + KB4503027"
+        }
+    ],
+    "15.1.1591.18": [
+        {
+            "build": "15.1.1591.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU11+KB5000871"
+        }
+    ],
+    "15.1.1713": [
+        {
+            "build": "15.1.1713.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU12+KB5000871"
+        },
+        {
+            "build": "15.1.1713.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2016CU1+ KB4515832"
+        },
+        {
+            "build": "15.1.1713.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2016 CU13 + KB4509409"
+        },
+        {
+            "build": "15.1.1713.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2016 CU12 + KB4503027"
+        },
+        {
+            "build": "15.1.1713.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB4471392",
+            "release": "Feb-19",
+            "version": "2016 CU12"
+        }
+    ],
+    "15.1.1713.10": [
+        {
+            "build": "15.1.1713.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU12+KB5000871"
+        }
+    ],
+    "15.1.1713.5": [
+        {
+            "build": "15.1.1713.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB4471392",
+            "release": "Feb-19",
+            "version": "2016 CU12"
+        }
+    ],
+    "15.1.1713.7": [
+        {
+            "build": "15.1.1713.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2016 CU12 + KB4503027"
+        }
+    ],
+    "15.1.1713.8": [
+        {
+            "build": "15.1.1713.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2016 CU13 + KB4509409"
+        }
+    ],
+    "15.1.1713.9": [
+        {
+            "build": "15.1.1713.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2016CU1+ KB4515832"
+        }
+    ],
+    "15.1.1779": [
+        {
+            "build": "15.1.1779.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU13+KB5000871"
+        },
+        {
+            "build": "15.1.1779.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2016CU13+ KB4523171"
+        },
+        {
+            "build": "15.1.1779.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2016CU13+ KB4515832"
+        },
+        {
+            "build": "15.1.1779.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2016 CU13 + KB4509409"
+        },
+        {
+            "build": "15.1.1779.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4488406",
+            "release": "Jun-19",
+            "version": "2016 CU13"
+        }
+    ],
+    "15.1.1779.2": [
+        {
+            "build": "15.1.1779.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4488406",
+            "release": "Jun-19",
+            "version": "2016 CU13"
+        }
+    ],
+    "15.1.1779.4": [
+        {
+            "build": "15.1.1779.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4509409",
+            "release": "Jul-19",
+            "version": "2016 CU13 + KB4509409"
+        }
+    ],
+    "15.1.1779.5": [
+        {
+            "build": "15.1.1779.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2016CU13+ KB4515832"
+        }
+    ],
+    "15.1.1779.7": [
+        {
+            "build": "15.1.1779.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2016CU13+ KB4523171"
+        }
+    ],
+    "15.1.1779.8": [
+        {
+            "build": "15.1.1779.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU13+KB5000871"
+        }
+    ],
+    "15.1.1847": [
+        {
+            "build": "15.1.1847.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU14+KB5000871"
+        },
+        {
+            "build": "15.1.1847.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2016CU14+KB4536987"
+        },
+        {
+            "build": "15.1.1847.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2016CU14+ KB4523171"
+        },
+        {
+            "build": "15.1.1847.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4514140",
+            "release": "Sep-19",
+            "version": "2016CU14"
+        }
+    ],
+    "15.1.1847.12": [
+        {
+            "build": "15.1.1847.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU14+KB5000871"
+        }
+    ],
+    "15.1.1847.3": [
+        {
+            "build": "15.1.1847.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4514140",
+            "release": "Sep-19",
+            "version": "2016CU14"
+        }
+    ],
+    "15.1.1847.5": [
+        {
+            "build": "15.1.1847.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2016CU14+ KB4523171"
+        }
+    ],
+    "15.1.1847.7": [
+        {
+            "build": "15.1.1847.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2016CU14+KB4536987"
+        }
+    ],
+    "15.1.1913": [
+        {
+            "build": "15.1.1913.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU15+KB5000871"
+        },
+        {
+            "build": "15.1.1913.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2016CU15+KB4536987"
+        },
+        {
+            "build": "15.1.1913.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB4522150",
+            "release": "Dec-19",
+            "version": "2016CU15"
+        }
+    ],
+    "15.1.1913.12": [
+        {
+            "build": "15.1.1913.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU15+KB5000871"
+        }
+    ],
+    "15.1.1913.5": [
+        {
+            "build": "15.1.1913.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB4522150",
+            "release": "Dec-19",
+            "version": "2016CU15"
+        }
+    ],
+    "15.1.1913.7": [
+        {
+            "build": "15.1.1913.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2016CU15+KB4536987"
+        }
+    ],
+    "15.1.1979": [
+        {
+            "build": "15.1.1979.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU16+KB5000871"
+        },
+        {
+            "build": "15.1.1979.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2016CU16+KB4577352"
+        },
+        {
+            "build": "15.1.1979.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4537678",
+            "release": "Mar-20",
+            "version": "2016CU16"
+        }
+    ],
+    "15.1.1979.3": [
+        {
+            "build": "15.1.1979.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4537678",
+            "release": "Mar-20",
+            "version": "2016CU16"
+        }
+    ],
+    "15.1.1979.6": [
+        {
+            "build": "15.1.1979.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2016CU16+KB4577352"
+        }
+    ],
+    "15.1.1979.8": [
+        {
+            "build": "15.1.1979.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU16+KB5000871"
+        }
+    ],
+    "15.1.2044": [
+        {
+            "build": "15.1.2044.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU17+KB5000871"
+        },
+        {
+            "build": "15.1.2044.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2016CU17+KB4593465"
+        },
+        {
+            "build": "15.1.2044.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU7+KB581424"
+        },
+        {
+            "build": "15.1.2044.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2016CU17+KB581424"
+        },
+        {
+            "build": "15.1.2044.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2016CU17+KB4577352"
+        },
+        {
+            "build": "15.1.2044.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4556414",
+            "release": "Jun-20",
+            "version": "2016CU17"
+        }
+    ],
+    "15.1.2044.12": [
+        {
+            "build": "15.1.2044.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2016CU17+KB4593465"
+        }
+    ],
+    "15.1.2044.13": [
+        {
+            "build": "15.1.2044.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU17+KB5000871"
+        }
+    ],
+    "15.1.2044.4": [
+        {
+            "build": "15.1.2044.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4556414",
+            "release": "Jun-20",
+            "version": "2016CU17"
+        }
+    ],
+    "15.1.2044.6": [
+        {
+            "build": "15.1.2044.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2016CU17+KB4577352"
+        }
+    ],
+    "15.1.2044.7": [
+        {
+            "build": "15.1.2044.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2016CU17+KB581424"
+        }
+    ],
+    "15.1.2044.8": [
+        {
+            "build": "15.1.2044.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU7+KB581424"
+        }
+    ],
+    "15.1.2106": [
+        {
+            "build": "15.1.2106.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU18+KB5000871"
+        },
+        {
+            "build": "15.1.2106.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2016CU18+KB4602269"
+        },
+        {
+            "build": "15.1.2106.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2016CU18+KB4593465"
+        },
+        {
+            "build": "15.1.2106.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2016CU18+KB581424"
+        },
+        {
+            "build": "15.1.2106.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2016CU18+KB581424"
+        },
+        {
+            "build": "15.1.2106.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4571788",
+            "release": "Sep-20",
+            "version": "2016CU18"
+        }
+    ],
+    "15.1.2106.13": [
+        {
+            "build": "15.1.2106.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU18+KB5000871"
+        }
+    ],
+    "15.1.2106.2": [
+        {
+            "build": "15.1.2106.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4571788",
+            "release": "Sep-20",
+            "version": "2016CU18"
+        }
+    ],
+    "15.1.2106.3": [
+        {
+            "build": "15.1.2106.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2016CU18+KB581424"
+        }
+    ],
+    "15.1.2106.4": [
+        {
+            "build": "15.1.2106.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2016CU18+KB581424"
+        }
+    ],
+    "15.1.2106.6": [
+        {
+            "build": "15.1.2106.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2016CU18+KB4593465"
+        }
+    ],
+    "15.1.2106.8": [
+        {
+            "build": "15.1.2106.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2016CU18+KB4602269"
+        }
+    ],
+    "15.1.2176": [
+        {
+            "build": "15.1.2176.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2016CU19+KB5003435"
+        },
+        {
+            "build": "15.1.2176.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2016CU19+KB5001779"
+        },
+        {
+            "build": "15.1.2176.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU19+KB5000871"
+        },
+        {
+            "build": "15.1.2176.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2016CU19+KB4602269"
+        },
+        {
+            "build": "15.1.2176.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4588884",
+            "release": "Dec-20",
+            "version": "2016CU19"
+        }
+    ],
+    "15.1.2176.12": [
+        {
+            "build": "15.1.2176.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2016CU19+KB5001779"
+        }
+    ],
+    "15.1.2176.14": [
+        {
+            "build": "15.1.2176.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2016CU19+KB5003435"
+        }
+    ],
+    "15.1.2176.2": [
+        {
+            "build": "15.1.2176.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4588884",
+            "release": "Dec-20",
+            "version": "2016CU19"
+        }
+    ],
+    "15.1.2176.4": [
+        {
+            "build": "15.1.2176.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2016CU19+KB4602269"
+        }
+    ],
+    "15.1.2176.9": [
+        {
+            "build": "15.1.2176.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2016CU19+KB5000871"
+        }
+    ],
+    "15.1.2242": [
+        {
+            "build": "15.1.2242.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5004779",
+            "release": "Jun-21",
+            "version": "2016CU20+KB5004779"
+        },
+        {
+            "build": "15.1.2242.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2016CU20+KB5003435"
+        },
+        {
+            "build": "15.1.2242.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2016CU20+KB5001779"
+        },
+        {
+            "build": "15.1.2242.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4602569",
+            "release": "Mar-21",
+            "version": "2016CU20"
+        }
+    ],
+    "15.1.2242.10": [
+        {
+            "build": "15.1.2242.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2016CU20+KB5003435"
+        }
+    ],
+    "15.1.2242.12": [
+        {
+            "build": "15.1.2242.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5004779",
+            "release": "Jun-21",
+            "version": "2016CU20+KB5004779"
+        }
+    ],
+    "15.1.2242.4": [
+        {
+            "build": "15.1.2242.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB4602569",
+            "release": "Mar-21",
+            "version": "2016CU20"
+        }
+    ],
+    "15.1.2242.8": [
+        {
+            "build": "15.1.2242.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2016CU20+KB5001779"
+        }
+    ],
+    "15.1.225": [
+        {
+            "build": "15.1.225.42",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-15",
+            "version": "2016 RTM"
+        },
+        {
+            "build": "15.1.225.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Jul-15",
+            "version": "2016 Preview"
+        }
+    ],
+    "15.1.225.17": [
+        {
+            "build": "15.1.225.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Jul-15",
+            "version": "2016 Preview"
+        }
+    ],
+    "15.1.225.42": [
+        {
+            "build": "15.1.225.42",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-15",
+            "version": "2016 RTM"
+        }
+    ],
+    "15.1.2308": [
+        {
+            "build": "15.1.2308.20",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2016CU21+KB5007409"
+        },
+        {
+            "build": "15.1.2308.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2016CU21+KB5007012"
+        },
+        {
+            "build": "15.1.2308.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5004779",
+            "release": "Jun-21",
+            "version": "2016CU21+KB5004779"
+        },
+        {
+            "build": "15.1.2308.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5003611",
+            "release": "Jun-21",
+            "version": "2016CU21"
+        }
+    ],
+    "15.1.2308.14": [
+        {
+            "build": "15.1.2308.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5004779",
+            "release": "Jun-21",
+            "version": "2016CU21+KB5004779"
+        }
+    ],
+    "15.1.2308.15": [
+        {
+            "build": "15.1.2308.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2016CU21+KB5007012"
+        }
+    ],
+    "15.1.2308.20": [
+        {
+            "build": "15.1.2308.20",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2016CU21+KB5007409"
+        }
+    ],
+    "15.1.2308.8": [
+        {
+            "build": "15.1.2308.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+            "info": "KB5003611",
+            "release": "Jun-21",
+            "version": "2016CU21"
+        }
+    ],
+    "15.1.2375": [
+        {
+            "build": "15.1.2375.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2016CU22+KB5007409"
+        },
+        {
+            "build": "15.1.2375.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2016CU22+KB5007012"
+        },
+        {
+            "build": "15.1.2375.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5005333",
+            "release": "Sep-21",
+            "version": "2016CU22"
+        }
+    ],
+    "15.1.2375.12": [
+        {
+            "build": "15.1.2375.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2016CU22+KB5007012"
+        }
+    ],
+    "15.1.2375.17": [
+        {
+            "build": "15.1.2375.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2016CU22+KB5007409"
+        }
+    ],
+    "15.1.2375.7": [
+        {
+            "build": "15.1.2375.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+            "info": "KB5005333",
+            "release": "Sep-21",
+            "version": "2016CU22"
+        }
+    ],
+    "15.1.396": [
+        {
+            "build": "15.1.396.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB3134844 KB3184736",
+            "release": "Sep-16",
+            "version": "2016 CU1 + KB3184736"
+        },
+        {
+            "build": "15.1.396.30",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB3134844",
+            "release": "Mar-16",
+            "version": "2016 CU1"
+        }
+    ],
+    "15.1.396.30": [
+        {
+            "build": "15.1.396.30",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB3134844",
+            "release": "Mar-16",
+            "version": "2016 CU1"
+        }
+    ],
+    "15.1.396.37": [
+        {
+            "build": "15.1.396.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB3134844 KB3184736",
+            "release": "Sep-16",
+            "version": "2016 CU1 + KB3184736"
+        }
+    ],
+    "15.1.466": [
+        {
+            "build": "15.1.466.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB3135742 KB3184736",
+            "release": "Sep-16",
+            "version": "2016 CU2 + KB3184736"
+        },
+        {
+            "build": "15.1.466.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB3135742",
+            "release": "Jun-16",
+            "version": "2016 CU2"
+        }
+    ],
+    "15.1.466.34": [
+        {
+            "build": "15.1.466.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB3135742",
+            "release": "Jun-16",
+            "version": "2016 CU2"
+        }
+    ],
+    "15.1.466.37": [
+        {
+            "build": "15.1.466.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB3135742 KB3184736",
+            "release": "Sep-16",
+            "version": "2016 CU2 + KB3184736"
+        }
+    ],
+    "15.1.544": [
+        {
+            "build": "15.1.544.30",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB3152589 KB4013242",
+            "release": "Mar-17",
+            "version": "2016 CU3 + KB4013242"
+        },
+        {
+            "build": "15.1.544.27",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB3152589",
+            "release": "Sep-16",
+            "version": "2016 CU3"
+        }
+    ],
+    "15.1.544.27": [
+        {
+            "build": "15.1.544.27",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB3152589",
+            "release": "Sep-16",
+            "version": "2016 CU3"
+        }
+    ],
+    "15.1.544.30": [
+        {
+            "build": "15.1.544.30",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB3152589 KB4013242",
+            "release": "Mar-17",
+            "version": "2016 CU3 + KB4013242"
+        }
+    ],
+    "15.1.669": [
+        {
+            "build": "15.1.669.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB3177106",
+            "release": "Dec-16",
+            "version": "2016 CU4"
+        }
+    ],
+    "15.1.669.32": [
+        {
+            "build": "15.1.669.32",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB3177106",
+            "release": "Dec-16",
+            "version": "2016 CU4"
+        }
+    ],
+    "15.1.845": [
+        {
+            "build": "15.1.845.36",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2016 CU5 + KB4018588"
+        },
+        {
+            "build": "15.1.845.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4012106",
+            "release": "Mar-17",
+            "version": "2016 CU5"
+        }
+    ],
+    "15.1.845.34": [
+        {
+            "build": "15.1.845.34",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4012106",
+            "release": "Mar-17",
+            "version": "2016 CU5"
+        }
+    ],
+    "15.1.845.36": [
+        {
+            "build": "15.1.845.36",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4018588",
+            "release": "Jul-17",
+            "version": "2016 CU5 + KB4018588"
+        }
+    ],
+    "15.2.191": [
+        {
+            "build": "15.2.191.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "\u2013",
+            "release": "Jul-18",
+            "version": "2019 Preview"
+        }
+    ],
+    "15.2.191.1": [
+        {
+            "build": "15.2.191.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "\u2013",
+            "release": "Jul-18",
+            "version": "2019 Preview"
+        }
+    ],
+    "15.2.221": [
+        {
+            "build": "15.2.221.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019+KB5000871"
+        },
+        {
+            "build": "15.2.221.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2019 + KB4503027"
+        },
+        {
+            "build": "15.2.221.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2019 + KB4471389"
+        },
+        {
+            "build": "15.2.221.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-18",
+            "version": "2019 RTM"
+        }
+    ],
+    "15.2.221.12": [
+        {
+            "build": "15.2.221.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Oct-18",
+            "version": "2019 RTM"
+        }
+    ],
+    "15.2.221.14": [
+        {
+            "build": "15.2.221.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB4471389",
+            "release": "Jan-19",
+            "version": "2019 + KB4471389"
+        }
+    ],
+    "15.2.221.17": [
+        {
+            "build": "15.2.221.17",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2019 + KB4503027"
+        }
+    ],
+    "15.2.221.18": [
+        {
+            "build": "15.2.221.18",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:*:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019+KB5000871"
+        }
+    ],
+    "15.2.330": [
+        {
+            "build": "15.2.330.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU1+KB5000871"
+        },
+        {
+            "build": "15.2.330.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2019CU1+ KB4515832"
+        },
+        {
+            "build": "15.2.330.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4509408",
+            "release": "Jul-19",
+            "version": "2019CU1 + KB4509408"
+        },
+        {
+            "build": "15.2.330.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2019 CU1 + KB4503027"
+        },
+        {
+            "build": "15.2.330.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4471391",
+            "release": "Feb-19",
+            "version": "2019 CU1"
+        }
+    ],
+    "15.2.330.10": [
+        {
+            "build": "15.2.330.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2019CU1+ KB4515832"
+        }
+    ],
+    "15.2.330.11": [
+        {
+            "build": "15.2.330.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU1+KB5000871"
+        }
+    ],
+    "15.2.330.5": [
+        {
+            "build": "15.2.330.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4471391",
+            "release": "Feb-19",
+            "version": "2019 CU1"
+        }
+    ],
+    "15.2.330.8": [
+        {
+            "build": "15.2.330.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4503027",
+            "release": "Jun-19",
+            "version": "2019 CU1 + KB4503027"
+        }
+    ],
+    "15.2.330.9": [
+        {
+            "build": "15.2.330.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+            "info": "KB4509408",
+            "release": "Jul-19",
+            "version": "2019CU1 + KB4509408"
+        }
+    ],
+    "15.2.397": [
+        {
+            "build": "15.2.397.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU2+KB5000871"
+        },
+        {
+            "build": "15.2.397.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2019CU2+ KB4523171"
+        },
+        {
+            "build": "15.2.397.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2019CU2+ KB4515832"
+        },
+        {
+            "build": "15.2.397.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4509408",
+            "release": "Jul-19",
+            "version": "2019CU2 + KB4509408"
+        },
+        {
+            "build": "15.2.397.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4488401",
+            "release": "Jun-19",
+            "version": "2019 CU2"
+        }
+    ],
+    "15.2.397.11": [
+        {
+            "build": "15.2.397.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU2+KB5000871"
+        }
+    ],
+    "15.2.397.3": [
+        {
+            "build": "15.2.397.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4488401",
+            "release": "Jun-19",
+            "version": "2019 CU2"
+        }
+    ],
+    "15.2.397.5": [
+        {
+            "build": "15.2.397.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4509408",
+            "release": "Jul-19",
+            "version": "2019CU2 + KB4509408"
+        }
+    ],
+    "15.2.397.6": [
+        {
+            "build": "15.2.397.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4515832",
+            "release": "Sep-19",
+            "version": "2019CU2+ KB4515832"
+        }
+    ],
+    "15.2.397.9": [
+        {
+            "build": "15.2.397.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2019CU2+ KB4523171"
+        }
+    ],
+    "15.2.464": [
+        {
+            "build": "15.2.464.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU3+KB5000871"
+        },
+        {
+            "build": "15.2.464.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2019CU3+KB4536987"
+        },
+        {
+            "build": "15.2.464.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2019CU3+ KB4523171"
+        },
+        {
+            "build": "15.2.464.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4514141",
+            "release": "Sep-19",
+            "version": "2019CU3"
+        }
+    ],
+    "15.2.464.11": [
+        {
+            "build": "15.2.464.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2019CU3+KB4536987"
+        }
+    ],
+    "15.2.464.15": [
+        {
+            "build": "15.2.464.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU3+KB5000871"
+        }
+    ],
+    "15.2.464.5": [
+        {
+            "build": "15.2.464.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4514141",
+            "release": "Sep-19",
+            "version": "2019CU3"
+        }
+    ],
+    "15.2.464.7": [
+        {
+            "build": "15.2.464.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+            "info": "KB4523171",
+            "release": "Nov-19",
+            "version": "2019CU3+ KB4523171"
+        }
+    ],
+    "15.2.529": [
+        {
+            "build": "15.2.529.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU4+KB5000871"
+        },
+        {
+            "build": "15.2.529.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2019CU4+KB4536987"
+        },
+        {
+            "build": "15.2.529.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB4522149",
+            "release": "Dec-19",
+            "version": "2019CU4"
+        }
+    ],
+    "15.2.529.13": [
+        {
+            "build": "15.2.529.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU4+KB5000871"
+        }
+    ],
+    "15.2.529.5": [
+        {
+            "build": "15.2.529.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB4522149",
+            "release": "Dec-19",
+            "version": "2019CU4"
+        }
+    ],
+    "15.2.529.8": [
+        {
+            "build": "15.2.529.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+            "info": "KB4536987",
+            "release": "Feb-20",
+            "version": "2019CU4+KB4536987"
+        }
+    ],
+    "15.2.595": [
+        {
+            "build": "15.2.595.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU5+KB5000871"
+        },
+        {
+            "build": "15.2.595.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2019CU5+KB4577352"
+        },
+        {
+            "build": "15.2.595.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4537677",
+            "release": "Mar-20",
+            "version": "2019CU5"
+        }
+    ],
+    "15.2.595.3": [
+        {
+            "build": "15.2.595.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4537677",
+            "release": "Mar-20",
+            "version": "2019CU5"
+        }
+    ],
+    "15.2.595.6": [
+        {
+            "build": "15.2.595.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2019CU5+KB4577352"
+        }
+    ],
+    "15.2.595.8": [
+        {
+            "build": "15.2.595.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU5+KB5000871"
+        }
+    ],
+    "15.2.659": [
+        {
+            "build": "15.2.659.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU6+KB5000871"
+        },
+        {
+            "build": "15.2.659.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2019CU6+KB4593465"
+        },
+        {
+            "build": "15.2.659.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU6+KB581424"
+        },
+        {
+            "build": "15.2.659.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2019CU6+KB581424"
+        },
+        {
+            "build": "15.2.659.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2019CU6+KB4577352"
+        },
+        {
+            "build": "15.2.659.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4556415",
+            "release": "Jun-20",
+            "version": "2019CU6"
+        }
+    ],
+    "15.2.659.11": [
+        {
+            "build": "15.2.659.11",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2019CU6+KB4593465"
+        }
+    ],
+    "15.2.659.12": [
+        {
+            "build": "15.2.659.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU6+KB5000871"
+        }
+    ],
+    "15.2.659.4": [
+        {
+            "build": "15.2.659.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4556415",
+            "release": "Jun-20",
+            "version": "2019CU6"
+        }
+    ],
+    "15.2.659.6": [
+        {
+            "build": "15.2.659.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4577352",
+            "release": "Sep-20",
+            "version": "2019CU6+KB4577352"
+        }
+    ],
+    "15.2.659.7": [
+        {
+            "build": "15.2.659.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2019CU6+KB581424"
+        }
+    ],
+    "15.2.659.8": [
+        {
+            "build": "15.2.659.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU6+KB581424"
+        }
+    ],
+    "15.2.721": [
+        {
+            "build": "15.2.721.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU7+KB5000871"
+        },
+        {
+            "build": "15.2.721.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2019CU7+KB4602269"
+        },
+        {
+            "build": "15.2.721.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2019CU7+KB4593465"
+        },
+        {
+            "build": "15.2.721.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU7+KB581424"
+        },
+        {
+            "build": "15.2.721.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2019CU7+KB581424"
+        },
+        {
+            "build": "15.2.721.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4571787",
+            "release": "Sep-20",
+            "version": "2019CU7"
+        }
+    ],
+    "15.2.721.13": [
+        {
+            "build": "15.2.721.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU7+KB5000871"
+        }
+    ],
+    "15.2.721.2": [
+        {
+            "build": "15.2.721.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4571787",
+            "release": "Sep-20",
+            "version": "2019CU7"
+        }
+    ],
+    "15.2.721.3": [
+        {
+            "build": "15.2.721.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB581424",
+            "release": "Oct-20",
+            "version": "2019CU7+KB581424"
+        }
+    ],
+    "15.2.721.4": [
+        {
+            "build": "15.2.721.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4588741",
+            "release": "Nov-20",
+            "version": "2019CU7+KB581424"
+        }
+    ],
+    "15.2.721.6": [
+        {
+            "build": "15.2.721.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4593465",
+            "release": "Dec-20",
+            "version": "2019CU7+KB4593465"
+        }
+    ],
+    "15.2.721.8": [
+        {
+            "build": "15.2.721.8",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2019CU7+KB4602269"
+        }
+    ],
+    "15.2.792": [
+        {
+            "build": "15.2.792.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2019CU8+KB5003435"
+        },
+        {
+            "build": "15.2.792.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2019CU8+KB5001779"
+        },
+        {
+            "build": "15.2.792.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU8+KB5000871"
+        },
+        {
+            "build": "15.2.792.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2019CU8+KB4602269"
+        },
+        {
+            "build": "15.2.792.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4588885",
+            "release": "Dec-20",
+            "version": "2019CU8"
+        }
+    ],
+    "15.2.792.10": [
+        {
+            "build": "15.2.792.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5000871",
+            "release": "Mar-21",
+            "version": "2019CU8+KB5000871"
+        }
+    ],
+    "15.2.792.13": [
+        {
+            "build": "15.2.792.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2019CU8+KB5001779"
+        }
+    ],
+    "15.2.792.15": [
+        {
+            "build": "15.2.792.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2019CU8+KB5003435"
+        }
+    ],
+    "15.2.792.3": [
+        {
+            "build": "15.2.792.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4588885",
+            "release": "Dec-20",
+            "version": "2019CU8"
+        }
+    ],
+    "15.2.792.5": [
+        {
+            "build": "15.2.792.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+            "info": "KB4602269",
+            "release": "Feb-21",
+            "version": "2019CU8+KB4602269"
+        }
+    ],
+    "15.2.858": [
+        {
+            "build": "15.2.858.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5004780",
+            "release": "Jun-21",
+            "version": "2019CU9+KB5004780"
+        },
+        {
+            "build": "15.2.858.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2019CU9+KB5003435"
+        },
+        {
+            "build": "15.2.858.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2019CU9+KB5001779"
+        },
+        {
+            "build": "15.2.858.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4602570",
+            "release": "Mar-21",
+            "version": "2019CU9"
+        }
+    ],
+    "15.2.858.10": [
+        {
+            "build": "15.2.858.10",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5001779",
+            "release": "Apr-21",
+            "version": "2019CU9+KB5001779"
+        }
+    ],
+    "15.2.858.12": [
+        {
+            "build": "15.2.858.12",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5003435",
+            "release": "May-21",
+            "version": "2019CU9+KB5003435"
+        }
+    ],
+    "15.2.858.15": [
+        {
+            "build": "15.2.858.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB5004780",
+            "release": "Jun-21",
+            "version": "2019CU9+KB5004780"
+        }
+    ],
+    "15.2.858.2": [
+        {
+            "build": "15.2.858.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+            "info": "KB4602570",
+            "release": "Mar-21",
+            "version": "2019CU9"
+        }
+    ],
+    "15.2.922": [
+        {
+            "build": "15.2.922.19",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2019CU10+KB5007409"
+        },
+        {
+            "build": "15.2.922.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2019CU10+KB5007012"
+        },
+        {
+            "build": "15.2.922.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5004780",
+            "release": "Jun-21",
+            "version": "2019CU10+KB5004780"
+        },
+        {
+            "build": "15.2.922.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5003612",
+            "release": "Jun-21",
+            "version": "2019CU10"
+        }
+    ],
+    "15.2.922.13": [
+        {
+            "build": "15.2.922.13",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5004780",
+            "release": "Jun-21",
+            "version": "2019CU10+KB5004780"
+        }
+    ],
+    "15.2.922.14": [
+        {
+            "build": "15.2.922.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2019CU10+KB5007012"
+        }
+    ],
+    "15.2.922.19": [
+        {
+            "build": "15.2.922.19",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2019CU10+KB5007409"
+        }
+    ],
+    "15.2.922.7": [
+        {
+            "build": "15.2.922.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+            "info": "KB5003612",
+            "release": "Jun-21",
+            "version": "2019CU10"
+        }
+    ],
+    "15.2.986": [
+        {
+            "build": "15.2.986.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2019CU11+KB5007409"
+        },
+        {
+            "build": "15.2.986.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2019CU11+KB5007012"
+        },
+        {
+            "build": "15.2.986.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5005334",
+            "release": "Sep-21",
+            "version": "2019CU11"
+        }
+    ],
+    "15.2.986.14": [
+        {
+            "build": "15.2.986.14",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5007409",
+            "release": "Nov-21",
+            "version": "2019CU11+KB5007409"
+        }
+    ],
+    "15.2.986.5": [
+        {
+            "build": "15.2.986.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5005334",
+            "release": "Sep-21",
+            "version": "2019CU11"
+        }
+    ],
+    "15.2.986.9": [
+        {
+            "build": "15.2.986.9",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+            "info": "KB5007012",
+            "release": "Oct-21",
+            "version": "2019CU11+KB5007012"
+        }
+    ],
+    "4.0": [
+        {
+            "build": "4.0.996",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp5:*:*:*:*:*:*",
+            "info": "",
+            "release": "May-98",
+            "version": "4.0 SP5"
+        },
+        {
+            "build": "4.0.995",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp4:*:*:*:*:*:*",
+            "info": "",
+            "release": "Mar-97",
+            "version": "4.0 SP4"
+        },
+        {
+            "build": "4.0.994",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Oct-96",
+            "version": "4.0 SP3"
+        },
+        {
+            "build": "4.0.993",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jul-96",
+            "version": "4.0 SP2"
+        },
+        {
+            "build": "4.0.838",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "May-96",
+            "version": "4.0 SP1"
+        },
+        {
+            "build": "4.0.837",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Apr-96",
+            "version": "4.0 RTM (Touchdown)"
+        }
+    ],
+    "4.0.837": [
+        {
+            "build": "4.0.837",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Apr-96",
+            "version": "4.0 RTM (Touchdown)"
+        }
+    ],
+    "4.0.838": [
+        {
+            "build": "4.0.838",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "May-96",
+            "version": "4.0 SP1"
+        }
+    ],
+    "4.0.993": [
+        {
+            "build": "4.0.993",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jul-96",
+            "version": "4.0 SP2"
+        }
+    ],
+    "4.0.994": [
+        {
+            "build": "4.0.994",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Oct-96",
+            "version": "4.0 SP3"
+        }
+    ],
+    "4.0.995": [
+        {
+            "build": "4.0.995",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp4:*:*:*:*:*:*",
+            "info": "",
+            "release": "Mar-97",
+            "version": "4.0 SP4"
+        }
+    ],
+    "4.0.996": [
+        {
+            "build": "4.0.996",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:4.0:sp5:*:*:*:*:*:*",
+            "info": "",
+            "release": "May-98",
+            "version": "4.0 SP5"
+        }
+    ],
+    "5.0": [
+        {
+            "build": "5.0.1460",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Feb-98",
+            "version": "5.0 SP2"
+        },
+        {
+            "build": "5.0.1458",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jun-97",
+            "version": "5.0 SP1"
+        },
+        {
+            "build": "5.0.1457",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Mar-97",
+            "version": "5.0 RTM"
+        }
+    ],
+    "5.0.1457": [
+        {
+            "build": "5.0.1457",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Mar-97",
+            "version": "5.0 RTM"
+        }
+    ],
+    "5.0.1458": [
+        {
+            "build": "5.0.1458",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jun-97",
+            "version": "5.0 SP1"
+        }
+    ],
+    "5.0.1460": [
+        {
+            "build": "5.0.1460",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.0:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Feb-98",
+            "version": "5.0 SP2"
+        }
+    ],
+    "5.5": [
+        {
+            "build": "5.5.2653",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+            "info": "KB274831 KB274833",
+            "release": "Nov-00",
+            "version": "5.5 SP4"
+        },
+        {
+            "build": "5.5.2650",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Sep-99",
+            "version": "5.5 SP3"
+        },
+        {
+            "build": "5.5.2448",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Dec-98",
+            "version": "5.5 SP2"
+        },
+        {
+            "build": "5.5.2232",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-98",
+            "version": "5.5 SP1"
+        },
+        {
+            "build": "5.5.1960",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Feb-98",
+            "version": "5.5 RTM (Osmium)"
+        }
+    ],
+    "5.5.1960": [
+        {
+            "build": "5.5.1960",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Feb-98",
+            "version": "5.5 RTM (Osmium)"
+        }
+    ],
+    "5.5.2232": [
+        {
+            "build": "5.5.2232",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-98",
+            "version": "5.5 SP1"
+        }
+    ],
+    "5.5.2448": [
+        {
+            "build": "5.5.2448",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Dec-98",
+            "version": "5.5 SP2"
+        }
+    ],
+    "5.5.2650": [
+        {
+            "build": "5.5.2650",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Sep-99",
+            "version": "5.5 SP3"
+        }
+    ],
+    "5.5.2653": [
+        {
+            "build": "5.5.2653",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+            "info": "KB274831 KB274833",
+            "release": "Nov-00",
+            "version": "5.5 SP4"
+        }
+    ],
+    "5.5.2655": [
+        {
+            "build": "5.5.2655.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+            "info": "KB282533",
+            "release": "Oct-01",
+            "version": "5.5 Post SP4"
+        }
+    ],
+    "5.5.2655.37": [
+        {
+            "build": "5.5.2655.37",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+            "info": "KB282533",
+            "release": "Oct-01",
+            "version": "5.5 Post SP4"
+        }
+    ],
+    "6.0": [
+        {
+            "build": "6.0.6249",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jul-02",
+            "version": "2000 SP3"
+        },
+        {
+            "build": "6.0.5762",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Nov-01",
+            "version": "2000 SP2"
+        },
+        {
+            "build": "6.0.4712",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jun-01",
+            "version": "2000 SP1"
+        },
+        {
+            "build": "6.0.4417",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Nov-00",
+            "version": "2000 RTM (Platinum)"
+        }
+    ],
+    "6.0.4417": [
+        {
+            "build": "6.0.4417",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Nov-00",
+            "version": "2000 RTM (Platinum)"
+        }
+    ],
+    "6.0.4712": [
+        {
+            "build": "6.0.4712",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp1:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jun-01",
+            "version": "2000 SP1"
+        }
+    ],
+    "6.0.5762": [
+        {
+            "build": "6.0.5762",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Nov-01",
+            "version": "2000 SP2"
+        }
+    ],
+    "6.0.6249": [
+        {
+            "build": "6.0.6249",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Jul-02",
+            "version": "2000 SP3"
+        }
+    ],
+    "6.0.6620": [
+        {
+            "build": "6.0.6620.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "KB976703",
+            "release": "Apr-10",
+            "version": "2000 Post SP3"
+        },
+        {
+            "build": "6.0.6620.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-08",
+            "version": "2000 Post-SP3 (Mercury)"
+        }
+    ],
+    "6.0.6620.15": [
+        {
+            "build": "6.0.6620.15",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "KB976703",
+            "release": "Apr-10",
+            "version": "2000 Post SP3"
+        }
+    ],
+    "6.0.6620.7": [
+        {
+            "build": "6.0.6620.7",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-08",
+            "version": "2000 Post-SP3 (Mercury)"
+        }
+    ],
+    "6.5": [
+        {
+            "build": "6.5.7638",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB906669",
+            "release": "Oct-05",
+            "version": "2003 SP2"
+        },
+        {
+            "build": "6.5.7226",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "May-04",
+            "version": "2003 SP1"
+        },
+        {
+            "build": "6.5.6944",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Oct-03",
+            "version": "2003 RTM (Titanium)"
+        }
+    ],
+    "6.5.6944": [
+        {
+            "build": "6.5.6944",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:*:*:*:*:*:*:*",
+            "info": "",
+            "release": "Oct-03",
+            "version": "2003 RTM (Titanium)"
+        }
+    ],
+    "6.5.7226": [
+        {
+            "build": "6.5.7226",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "May-04",
+            "version": "2003 SP1"
+        }
+    ],
+    "6.5.7638": [
+        {
+            "build": "6.5.7638",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB906669",
+            "release": "Oct-05",
+            "version": "2003 SP2"
+        }
+    ],
+    "6.5.7653": [
+        {
+            "build": "6.5.7653.33",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB951061",
+            "release": "Mar-08",
+            "version": "2003 Post SP2"
+        }
+    ],
+    "6.5.7653.33": [
+        {
+            "build": "6.5.7653.33",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB951061",
+            "release": "Mar-08",
+            "version": "2003 Post SP2"
+        }
+    ],
+    "6.5.7654": [
+        {
+            "build": "6.5.7654.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB956398",
+            "release": "Aug-08",
+            "version": "2003 Post SP2"
+        },
+        {
+            "build": "6.5.7654.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-08",
+            "version": "2003 Post-SP2"
+        }
+    ],
+    "6.5.7654.4": [
+        {
+            "build": "6.5.7654.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB956398",
+            "release": "Aug-08",
+            "version": "2003 Post SP2"
+        },
+        {
+            "build": "6.5.7654.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "",
+            "release": "Aug-08",
+            "version": "2003 Post-SP2"
+        }
+    ],
+    "6.5.7656": [
+        {
+            "build": "6.5.7656.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB976702",
+            "release": "Apr-10",
+            "version": "2003 Post SP2"
+        }
+    ],
+    "6.5.7656.2": [
+        {
+            "build": "6.5.7656.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+            "info": "KB976702",
+            "release": "Apr-10",
+            "version": "2003 Post SP2"
+        }
+    ],
+    "8.0.685": [
+        {
+            "build": "8.0.685.24",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-06",
+            "version": "2007 RTM (Exchange \u201912\u2019)"
+        },
+        {
+            "build": "8.0.685.25",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-06",
+            "version": "2007 RTM (Exchange \u201912\u2019)"
+        }
+    ],
+    "8.0.685.24": [
+        {
+            "build": "8.0.685.24",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-06",
+            "version": "2007 RTM (Exchange \u201912\u2019)"
+        }
+    ],
+    "8.0.685.25": [
+        {
+            "build": "8.0.685.25",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Dec-06",
+            "version": "2007 RTM (Exchange \u201912\u2019)"
+        }
+    ],
+    "8.0.708": [
+        {
+            "build": "8.0.708.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB930809",
+            "release": "Apr-07",
+            "version": "2007 RU1"
+        }
+    ],
+    "8.0.708.3": [
+        {
+            "build": "8.0.708.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB930809",
+            "release": "Apr-07",
+            "version": "2007 RU1"
+        }
+    ],
+    "8.0.711": [
+        {
+            "build": "8.0.711.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB935490",
+            "release": "May-07",
+            "version": "2007 RU2"
+        }
+    ],
+    "8.0.711.2": [
+        {
+            "build": "8.0.711.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB935490",
+            "release": "May-07",
+            "version": "2007 RU2"
+        }
+    ],
+    "8.0.730": [
+        {
+            "build": "8.0.730.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB935999",
+            "release": "Jun-07",
+            "version": "2007 RU3"
+        }
+    ],
+    "8.0.730.1": [
+        {
+            "build": "8.0.730.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB935999",
+            "release": "Jun-07",
+            "version": "2007 RU3"
+        }
+    ],
+    "8.0.744": [
+        {
+            "build": "8.0.744.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB940006",
+            "release": "Aug-07",
+            "version": "2007 RU4"
+        }
+    ],
+    "8.0.744.0": [
+        {
+            "build": "8.0.744.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB940006",
+            "release": "Aug-07",
+            "version": "2007 RU4"
+        }
+    ],
+    "8.0.754": [
+        {
+            "build": "8.0.754.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB941421",
+            "release": "Oct-07",
+            "version": "2007 RU5"
+        }
+    ],
+    "8.0.754.0": [
+        {
+            "build": "8.0.754.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB941421",
+            "release": "Oct-07",
+            "version": "2007 RU5"
+        }
+    ],
+    "8.0.783": [
+        {
+            "build": "8.0.783.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB942846",
+            "release": "Feb-08",
+            "version": "2007 RU6"
+        }
+    ],
+    "8.0.783.2": [
+        {
+            "build": "8.0.783.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB942846",
+            "release": "Feb-08",
+            "version": "2007 RU6"
+        }
+    ],
+    "8.0.813": [
+        {
+            "build": "8.0.813.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB953469",
+            "release": "Jul-08",
+            "version": "2007 RU7"
+        }
+    ],
+    "8.0.813.0": [
+        {
+            "build": "8.0.813.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+            "info": "KB953469",
+            "release": "Jul-08",
+            "version": "2007 RU7"
+        }
+    ],
+    "8.1.240": [
+        {
+            "build": "8.1.240.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Nov-07",
+            "version": "2007 SP1"
+        }
+    ],
+    "8.1.240.6": [
+        {
+            "build": "8.1.240.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Nov-07",
+            "version": "2007 SP1"
+        }
+    ],
+    "8.1.263": [
+        {
+            "build": "8.1.263.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB945684",
+            "release": "Feb-08",
+            "version": "2007 SP1 RU1"
+        }
+    ],
+    "8.1.263.1": [
+        {
+            "build": "8.1.263.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB945684",
+            "release": "Feb-08",
+            "version": "2007 SP1 RU1"
+        }
+    ],
+    "8.1.278": [
+        {
+            "build": "8.1.278.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB948016",
+            "release": "May-08",
+            "version": "2007 SP1 RU2"
+        }
+    ],
+    "8.1.278.2": [
+        {
+            "build": "8.1.278.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB948016",
+            "release": "May-08",
+            "version": "2007 SP1 RU2"
+        }
+    ],
+    "8.1.291": [
+        {
+            "build": "8.1.291.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB949870",
+            "release": "Jul-08",
+            "version": "2007 SP1 RU3"
+        }
+    ],
+    "8.1.291.2": [
+        {
+            "build": "8.1.291.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB949870",
+            "release": "Jul-08",
+            "version": "2007 SP1 RU3"
+        }
+    ],
+    "8.1.311": [
+        {
+            "build": "8.1.311.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB952580",
+            "release": "Oct-08",
+            "version": "2007 SP1 RU4"
+        }
+    ],
+    "8.1.311.3": [
+        {
+            "build": "8.1.311.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB952580",
+            "release": "Oct-08",
+            "version": "2007 SP1 RU4"
+        }
+    ],
+    "8.1.336": [
+        {
+            "build": "8.1.336.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB953467",
+            "release": "Nov-08",
+            "version": "2007 SP1 RU5"
+        }
+    ],
+    "8.1.336.1": [
+        {
+            "build": "8.1.336.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB953467",
+            "release": "Nov-08",
+            "version": "2007 SP1 RU5"
+        }
+    ],
+    "8.1.340": [
+        {
+            "build": "8.1.340.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB959241",
+            "release": "Feb-09",
+            "version": "2007 SP1 RU6"
+        }
+    ],
+    "8.1.340.1": [
+        {
+            "build": "8.1.340.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB959241",
+            "release": "Feb-09",
+            "version": "2007 SP1 RU6"
+        }
+    ],
+    "8.1.359": [
+        {
+            "build": "8.1.359.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB960384",
+            "release": "Mar-09",
+            "version": "2007 SP1 RU7"
+        }
+    ],
+    "8.1.359.2": [
+        {
+            "build": "8.1.359.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB960384",
+            "release": "Mar-09",
+            "version": "2007 SP1 RU7"
+        }
+    ],
+    "8.1.375": [
+        {
+            "build": "8.1.375.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB968012",
+            "release": "May-09",
+            "version": "2007 SP1 RU8"
+        }
+    ],
+    "8.1.375.2": [
+        {
+            "build": "8.1.375.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB968012",
+            "release": "May-09",
+            "version": "2007 SP1 RU8"
+        }
+    ],
+    "8.1.393": [
+        {
+            "build": "8.1.393.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB970162",
+            "release": "Jul-09",
+            "version": "2007 SP1 RU9"
+        }
+    ],
+    "8.1.393.1": [
+        {
+            "build": "8.1.393.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB970162",
+            "release": "Jul-09",
+            "version": "2007 SP1 RU9"
+        }
+    ],
+    "8.1.436": [
+        {
+            "build": "8.1.436.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB981407",
+            "release": "Apr-10",
+            "version": "2007 SP1 RU10"
+        }
+    ],
+    "8.1.436.0": [
+        {
+            "build": "8.1.436.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+            "info": "KB981407",
+            "release": "Apr-10",
+            "version": "2007 SP1 RU10"
+        }
+    ],
+    "8.2.176": [
+        {
+            "build": "8.2.176.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Aug-09",
+            "version": "2007 SP2"
+        }
+    ],
+    "8.2.176.2": [
+        {
+            "build": "8.2.176.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Aug-09",
+            "version": "2007 SP2"
+        }
+    ],
+    "8.2.217": [
+        {
+            "build": "8.2.217.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB971534",
+            "release": "Nov-09",
+            "version": "2007 SP2 RU1"
+        }
+    ],
+    "8.2.217.3": [
+        {
+            "build": "8.2.217.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB971534",
+            "release": "Nov-09",
+            "version": "2007 SP2 RU1"
+        }
+    ],
+    "8.2.234": [
+        {
+            "build": "8.2.234.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB972076",
+            "release": "Jan-10",
+            "version": "2007 SP2 RU2"
+        }
+    ],
+    "8.2.234.1": [
+        {
+            "build": "8.2.234.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB972076",
+            "release": "Jan-10",
+            "version": "2007 SP2 RU2"
+        }
+    ],
+    "8.2.247": [
+        {
+            "build": "8.2.247.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB979784",
+            "release": "Mar-10",
+            "version": "2007 SP2 RU3"
+        }
+    ],
+    "8.2.247.2": [
+        {
+            "build": "8.2.247.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB979784",
+            "release": "Mar-10",
+            "version": "2007 SP2 RU3"
+        }
+    ],
+    "8.2.254": [
+        {
+            "build": "8.2.254.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB989381",
+            "release": "Apr-10",
+            "version": "2007 SP2 RU4"
+        }
+    ],
+    "8.2.254.0": [
+        {
+            "build": "8.2.254.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB989381",
+            "release": "Apr-10",
+            "version": "2007 SP2 RU4"
+        }
+    ],
+    "8.2.305": [
+        {
+            "build": "8.2.305.03",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB2407132",
+            "release": "Dec-10",
+            "version": "2007 SP2 RU5"
+        }
+    ],
+    "8.2.305.03": [
+        {
+            "build": "8.2.305.03",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:*:*",
+            "info": "KB2407132",
+            "release": "Dec-10",
+            "version": "2007 SP2 RU5"
+        }
+    ],
+    "8.3.106": [
+        {
+            "build": "8.3.106.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2279665",
+            "release": "Sep-10",
+            "version": "2007 SP3 RU1"
+        }
+    ],
+    "8.3.106.2": [
+        {
+            "build": "8.3.106.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2279665",
+            "release": "Sep-10",
+            "version": "2007 SP3 RU1"
+        }
+    ],
+    "8.3.137": [
+        {
+            "build": "8.3.137.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2407025",
+            "release": "Dec-10",
+            "version": "2007 SP3 RU2"
+        }
+    ],
+    "8.3.137.3": [
+        {
+            "build": "8.3.137.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2407025",
+            "release": "Dec-10",
+            "version": "2007 SP3 RU2"
+        }
+    ],
+    "8.3.159": [
+        {
+            "build": "8.3.159.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2492691",
+            "release": "Apr-11",
+            "version": "2007 SP3 RU3 v2"
+        },
+        {
+            "build": "8.3.159.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2492691",
+            "release": "Feb-11",
+            "version": "2007 SP3 RU3 v1"
+        }
+    ],
+    "8.3.159.0": [
+        {
+            "build": "8.3.159.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2492691",
+            "release": "Feb-11",
+            "version": "2007 SP3 RU3 v1"
+        }
+    ],
+    "8.3.159.2": [
+        {
+            "build": "8.3.159.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2492691",
+            "release": "Apr-11",
+            "version": "2007 SP3 RU3 v2"
+        }
+    ],
+    "8.3.192": [
+        {
+            "build": "8.3.192.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2509911",
+            "release": "Jul-11",
+            "version": "2007 SP3 RU4"
+        }
+    ],
+    "8.3.192.1": [
+        {
+            "build": "8.3.192.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2509911",
+            "release": "Jul-11",
+            "version": "2007 SP3 RU4"
+        }
+    ],
+    "8.3.213": [
+        {
+            "build": "8.3.213.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2602324",
+            "release": "Sep-11",
+            "version": "2007 SP3 RU5"
+        }
+    ],
+    "8.3.213.1": [
+        {
+            "build": "8.3.213.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2602324",
+            "release": "Sep-11",
+            "version": "2007 SP3 RU5"
+        }
+    ],
+    "8.3.245": [
+        {
+            "build": "8.3.245.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2608656",
+            "release": "Jan-12",
+            "version": "2007 SP3 RU6"
+        }
+    ],
+    "8.3.245.2": [
+        {
+            "build": "8.3.245.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2608656",
+            "release": "Jan-12",
+            "version": "2007 SP3 RU6"
+        }
+    ],
+    "8.3.264": [
+        {
+            "build": "8.3.264.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2655203",
+            "release": "Apr-12",
+            "version": "2007 SP3 RU7"
+        }
+    ],
+    "8.3.264.0": [
+        {
+            "build": "8.3.264.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2655203",
+            "release": "Apr-12",
+            "version": "2007 SP3 RU7"
+        }
+    ],
+    "8.3.279": [
+        {
+            "build": "8.3.279.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Nov-12",
+            "version": "2007 SP3 RU8 v3"
+        },
+        {
+            "build": "8.3.279.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Oct-12",
+            "version": "2007 SP3 RU8 v2"
+        },
+        {
+            "build": "8.3.279.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Aug-12",
+            "version": "2007 SP3 RU8 v1"
+        }
+    ],
+    "8.3.279.3": [
+        {
+            "build": "8.3.279.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Aug-12",
+            "version": "2007 SP3 RU8 v1"
+        }
+    ],
+    "8.3.279.5": [
+        {
+            "build": "8.3.279.5",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Oct-12",
+            "version": "2007 SP3 RU8 v2"
+        }
+    ],
+    "8.3.279.6": [
+        {
+            "build": "8.3.279.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2778154",
+            "release": "Nov-12",
+            "version": "2007 SP3 RU8 v3"
+        }
+    ],
+    "8.3.297": [
+        {
+            "build": "8.3.297.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2746157",
+            "release": "Dec-12",
+            "version": "2007 SP3 RU9"
+        }
+    ],
+    "8.3.297.2": [
+        {
+            "build": "8.3.297.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2746157",
+            "release": "Dec-12",
+            "version": "2007 SP3 RU9"
+        }
+    ],
+    "8.3.298": [
+        {
+            "build": "8.3.298.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2788321",
+            "release": "Feb-13",
+            "version": "2007 SP3 RU10"
+        }
+    ],
+    "8.3.298.3": [
+        {
+            "build": "8.3.298.3",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2788321",
+            "release": "Feb-13",
+            "version": "2007 SP3 RU10"
+        }
+    ],
+    "8.3.327": [
+        {
+            "build": "8.3.327.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2873746",
+            "release": "Aug-13",
+            "version": "2007 SP3 RU11"
+        }
+    ],
+    "8.3.327.1": [
+        {
+            "build": "8.3.327.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2873746",
+            "release": "Aug-13",
+            "version": "2007 SP3 RU11"
+        }
+    ],
+    "8.3.342": [
+        {
+            "build": "8.3.342.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2903911",
+            "release": "Dec-13",
+            "version": "2007 SP3 RU12"
+        }
+    ],
+    "8.3.342.4": [
+        {
+            "build": "8.3.342.4",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2903911",
+            "release": "Dec-13",
+            "version": "2007 SP3 RU12"
+        }
+    ],
+    "8.3.348": [
+        {
+            "build": "8.3.348.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2917522",
+            "release": "Feb-14",
+            "version": "2007 SP3 RU13"
+        }
+    ],
+    "8.3.348.2": [
+        {
+            "build": "8.3.348.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2917522",
+            "release": "Feb-14",
+            "version": "2007 SP3 RU13"
+        }
+    ],
+    "8.3.379": [
+        {
+            "build": "8.3.379.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2936861",
+            "release": "Aug-14",
+            "version": "2007 SP3 RU14"
+        }
+    ],
+    "8.3.379.2": [
+        {
+            "build": "8.3.379.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2936861",
+            "release": "Aug-14",
+            "version": "2007 SP3 RU14"
+        }
+    ],
+    "8.3.389": [
+        {
+            "build": "8.3.389.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2996150",
+            "release": "Dec-14",
+            "version": "2007 SP3 RU15"
+        }
+    ],
+    "8.3.389.2": [
+        {
+            "build": "8.3.389.2",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB2996150",
+            "release": "Dec-14",
+            "version": "2007 SP3 RU15"
+        }
+    ],
+    "8.3.406": [
+        {
+            "build": "8.3.406.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3030086",
+            "release": "Mar-15",
+            "version": "2007 SP3 RU16"
+        }
+    ],
+    "8.3.406.0": [
+        {
+            "build": "8.3.406.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3030086",
+            "release": "Mar-15",
+            "version": "2007 SP3 RU16"
+        }
+    ],
+    "8.3.417": [
+        {
+            "build": "8.3.417.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3056710",
+            "release": "Jun-15",
+            "version": "2007 SP3 RU17"
+        }
+    ],
+    "8.3.417.1": [
+        {
+            "build": "8.3.417.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3056710",
+            "release": "Jun-15",
+            "version": "2007 SP3 RU17"
+        }
+    ],
+    "8.3.445": [
+        {
+            "build": "8.3.445.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3078672",
+            "release": "Dec-15",
+            "version": "2007 SP3 RU18"
+        }
+    ],
+    "8.3.445.0": [
+        {
+            "build": "8.3.445.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3078672",
+            "release": "Dec-15",
+            "version": "2007 SP3 RU18"
+        }
+    ],
+    "8.3.459": [
+        {
+            "build": "8.3.459.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3141352",
+            "release": "Mar-16",
+            "version": "2007 SP3 RU19"
+        }
+    ],
+    "8.3.459.0": [
+        {
+            "build": "8.3.459.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3141352",
+            "release": "Mar-16",
+            "version": "2007 SP3 RU19"
+        }
+    ],
+    "8.3.468": [
+        {
+            "build": "8.3.468.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3151086",
+            "release": "Jun-16",
+            "version": "2007 SP3 RU20"
+        }
+    ],
+    "8.3.468.0": [
+        {
+            "build": "8.3.468.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3151086",
+            "release": "Jun-16",
+            "version": "2007 SP3 RU20"
+        }
+    ],
+    "8.3.485": [
+        {
+            "build": "8.3.485.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3184711",
+            "release": "Sep-16",
+            "version": "2007 SP3 RU21"
+        }
+    ],
+    "8.3.485.1": [
+        {
+            "build": "8.3.485.1",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3184711",
+            "release": "Sep-16",
+            "version": "2007 SP3 RU21"
+        }
+    ],
+    "8.3.502": [
+        {
+            "build": "8.3.502.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3184712",
+            "release": "Dec-16",
+            "version": "2007 SP3 RU22"
+        }
+    ],
+    "8.3.502.0": [
+        {
+            "build": "8.3.502.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB3184712",
+            "release": "Dec-16",
+            "version": "2007 SP3 RU22"
+        }
+    ],
+    "8.3.517": [
+        {
+            "build": "8.3.517.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB4011325",
+            "release": "Mar-17",
+            "version": "2007 SP3 RU23"
+        }
+    ],
+    "8.3.517.0": [
+        {
+            "build": "8.3.517.0",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "KB4011325",
+            "release": "Mar-17",
+            "version": "2007 SP3 RU23"
+        }
+    ],
+    "8.3.83": [
+        {
+            "build": "8.3.83.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Jun-10",
+            "version": "2007 SP3"
+        }
+    ],
+    "8.3.83.6": [
+        {
+            "build": "8.3.83.6",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+            "info": "Release Notes",
+            "release": "Jun-10",
+            "version": "2007 SP3"
+        }
+    ],
+    "v2:15.0.712": [
+        {
+            "build": "v2:15.0.712.24 (v1:15.0.712.22)",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928",
+            "release": "Jul-13",
+            "version": "2013 CU2 v2"
+        }
+    ],
+    "v2:15.0.712.24 (v1:15.0.712.22)": [
+        {
+            "build": "v2:15.0.712.24 (v1:15.0.712.22)",
+            "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+            "info": "KB2859928",
+            "release": "Jul-13",
+            "version": "2013 CU2 v2"
+        }
+    ]
+}
