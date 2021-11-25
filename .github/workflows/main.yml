@@ -15,10 +15,8 @@ jobs:
           ref: ${{ github.head_ref }}
       - uses: actions/setup-python@v2
         with:
+          working-directory: ./automation
           python-version: "3.x"
-          cache: "pip"
-      - name: Install python deps
-        run: pip install lxml
       - name: Crawl versions and create dictionary
         working-directory: ./automation
         run: python parse_exchange_versions.py ../ms-exchange-versions-dict.json
