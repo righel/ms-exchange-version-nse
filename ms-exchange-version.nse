@@ -37,7 +37,7 @@ local function get_versions_map()
     return nil
 end
 
-local function get_build_via_exporttool(host, port, build)
+local function get_build_via_exporttool(host, port, build, build_version_map)
     local http_options = get_http_options(host, port)
     local version = nil
 
@@ -52,7 +52,7 @@ local function get_build_via_exporttool(host, port, build)
     if (version == nil) then
         for _, v in ipairs(possible_versions) do
             http.get(host.ip, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
-            if response.status == 200 then 
+            if response.status == 200 then
                 version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d+.%d+.%d+)"')
                 if (version ~= nil) then return version end
             end
@@ -62,7 +62,7 @@ local function get_build_via_exporttool(host, port, build)
     return nil
 end
 
-local function get_owa_build(host, port)
+local function get_owa_build(host, port, build_version_map)
     -- method 1: get build from X-OWA-Version header
     local http_options = get_http_options(host, port)
     local response = http.generic_request(host.ip, port, "GET", "/owa/", http_options)
@@ -79,7 +79,7 @@ local function get_owa_build(host, port)
     end
     if (build ~= nil) then
         -- method 3: get build from exporttool
-        local ecp_build = get_build_via_exporttool(host, port, build)
+        local ecp_build = get_build_via_exporttool(host, port, build, build_version_map)
         if (ecp_build ~= nil) then return ecp_build end
 
         return build -- not exact, but better than nothing
@@ -89,10 +89,9 @@ local function get_owa_build(host, port)
 end
 
 action = function(host, port)
-    local build = get_owa_build(host, port)
-    if build == nil then return "ERROR: could not get OWA version" end
-
     local build_version_map = get_versions_map()
+    local build = get_owa_build(host, port, build_version_map)
+    if build == nil then return "ERROR: could not get OWA version" end
 
     local version = build_version_map[build]
     if (version == nil) then
@@ -102,7 +101,12 @@ action = function(host, port)
     local output = {}
 
     for _, v in ipairs(version) do
-        output[v.build] = {product = v.name, build = v.build, build_long = v.build_long, release_date = v.release_date}
+        output[v.build] = {
+            product = v.name,
+            build = v.build,
+            build_long = v.build_long,
+            release_date = v.release_date
+        }
     end
 
     return output
