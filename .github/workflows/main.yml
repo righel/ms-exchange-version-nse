@@ -13,10 +13,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-      - uses: actions/setup-python@v2
-        with:
-          working-directory: ./automation
-          python-version: "3.x"
+      - name: Install python deps
+        run: pip install lxml requests
       - name: Crawl versions and create dictionary
         working-directory: ./automation
         run: python parse_exchange_versions.py ../ms-exchange-versions-dict.json
