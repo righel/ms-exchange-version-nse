@@ -94,7 +94,6 @@ action = function(host, port)
 
     local build_version_map = get_versions_map()
 
-    -- get build cpe
     local version = build_version_map[build]
     if (version == nil) then
         return ("ERROR: could not find version for detected build=%s"):format(build)
@@ -103,7 +102,7 @@ action = function(host, port)
     local output = {}
 
     for _, v in ipairs(version) do
-        output[v.build] = {version = v.version, package = v.info, release = v.release}
+        output[v.build] = {product = v.name, build = v.build, build_long = v.build_long, release_date = v.release_date}
     end
 
     return output

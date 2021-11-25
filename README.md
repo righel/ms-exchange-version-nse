@@ -12,10 +12,11 @@ rDNS record for REDACTED: REDACTED
 PORT    STATE SERVICE
 443/tcp open  https
 | ms-exchange-version: 
-|   15.1.2375.7: 
-|     release: Sep-21
-|     version: 2016CU22
-|_    package: KB5005333
+|   15.1.2375.17: 
+|     name: Exchange Server 2016 CU22 Nov21SU
+|     build: 15.1.2375.17
+|     build_long: 15.01.2375.017
+|_    release_date: November 9, 2021
 
 Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
 ```

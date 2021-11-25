@@ -1,0 +1,21 @@
+name: "Update MS Exchange versions dictionary"
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 5 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Crawl versions and create dictionary
+        working-directory: ./automation
+        run: python parse_exchange_versions.py ../ms-exchange-versions-dict.json
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: automatic update
