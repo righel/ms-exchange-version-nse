@@ -20,3 +20,5 @@ PORT    STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
 ```
+
+credits to @rommelfs for the crawler to auto update the versions dict.
