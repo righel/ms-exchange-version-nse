@@ -41,7 +41,7 @@ local function get_build_via_exporttool(host, port, build, build_version_map)
     local http_options = get_http_options(host, port)
     local version = nil
 
-    local response = http.get(host.ip, port, "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application", http_options)
+    local response = http.get(host.targetname, port, "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application", http_options)
     if response.status == 200 then
         version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d+.%d+.%d+)"')
         if (version ~= nil) then return version end
@@ -51,7 +51,7 @@ local function get_build_via_exporttool(host, port, build, build_version_map)
     local possible_versions = build_version_map[build]
     if (version == nil) then
         for _, v in ipairs(possible_versions) do
-            http.get(host.ip, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
+            http.get(host.targetname, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
             if response.status == 200 then
                 version = string.match(response.body, '<assemblyIdentity.*version="(%d+.%d+.%d+.%d+)"')
                 if (version ~= nil) then return version end
@@ -65,13 +65,13 @@ end
 local function get_owa_build(host, port, build_version_map)
     -- method 1: get build from X-OWA-Version header
     local http_options = get_http_options(host, port)
-    local response = http.generic_request(host.ip, port, "GET", "/owa/", http_options)
+    local response = http.generic_request(host.targetname, port, "GET", "/owa/", http_options)
     if response.header["x-owa-version"] ~= nil then
         return response.header["x-owa-version"]
     end
 
     -- method 2: get build from OWA path
-    response = http.get(host.ip, port, "/owa", http_options)
+    response = http.get(host.targetname, port, "/owa", http_options)
     local build = nil
     build = string.match(response.body, '/owa/auth/(%d+.%d+.%d+)')
     if (build == nil) then
