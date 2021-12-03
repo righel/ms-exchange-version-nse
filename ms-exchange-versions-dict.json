@@ -2615,6 +2615,12 @@
     ],
     "15.2.986": [
         {
+            "build": "15.2.986.14",
+            "build_long": "15.02.0986.014",
+            "name": "Exchange Server 2019 CU11 Nov21SU",
+            "release_date": "November 9, 2021"
+        },
+        {
             "build": "15.2.986.9",
             "build_long": "15.02.0986.009",
             "name": "Exchange Server 2019 CU11 Oct21SU",
@@ -2625,6 +2631,14 @@
             "build_long": "15.02.0986.005",
             "name": "Exchange Server 2019 CU11",
             "release_date": "September 28, 2021"
+        }
+    ],
+    "15.2.986.14": [
+        {
+            "build": "15.2.986.14",
+            "build_long": "15.02.0986.014",
+            "name": "Exchange Server 2019 CU11 Nov21SU",
+            "release_date": "November 9, 2021"
         }
     ],
     "15.2.986.5": [

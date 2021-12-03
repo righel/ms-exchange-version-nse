@@ -44,6 +44,13 @@ for j in range(1, len(tr_elements)):
     # Iterate through each element of the row
     for t in T.iterchildren():
         data = t.text_content()
+        
+        # # save url instead of name
+        # if i == 0:
+        #     if len(t) > 0 and t[0].tag == 'a':
+        #         # data = t[0].text_content()
+        #         data = t[0].attrib['href']
+
         # Check if row is empty
         if i > 0:
             # Convert any numerical value to integers
@@ -57,7 +64,7 @@ for j in range(1, len(tr_elements)):
         # Increment i for the next column
         i += 1
 
-for i in range(1, len(col[0][1])):
+for i in range(0, len(col[0][1])):
 
     entry = {
         "name": col[0][1][i],
