@@ -2,6 +2,7 @@ local http = require "http"
 local nmap = require "nmap"
 local shortport = require "shortport"
 local json = require "json"
+local stdnse = require "stdnse"
 
 description = [[
   Check for Microsoft Exchange Server version using OWA path data or X-OWA-Version header or ecp/exporttool response.
@@ -32,6 +33,16 @@ local function get_versions_map()
     if response.status == 200 then
         _, versions = json.parse(response.body)
         return versions
+    end
+
+    return nil
+end
+
+local function get_cves_map()
+    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-cves-dict.json", {})
+    if response.status == 200 then
+        _, cves = json.parse(response.body)
+        return cves
     end
 
     return nil
@@ -88,6 +99,18 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
+local function get_cves(build)
+    local cves = {}
+    local cves_map = get_cves_map()
+    if (cves_map ~= nil) then
+        for _, v in ipairs(cves_map[build]["cves"]) do
+            table.insert(cves, v)
+        end
+    end
+
+    return cves
+end
+
 action = function(host, port)
     local build_version_map = get_versions_map()
     local build = get_owa_build(host, port, build_version_map)
@@ -101,12 +124,18 @@ action = function(host, port)
     local output = {}
 
     for _, v in ipairs(version) do
-        output[v.build] = {
-            product = v.name,
-            build = v.build,
-            build_long = v.build_long,
-            release_date = v.release_date
-        }
+        
+        if stdnse.get_script_args("showcves") then
+            output[v.build] = get_cves(v.build)
+        else
+            output[v.build] = {
+                product = v.name,
+                build = v.build,
+                build_long = v.build_long,
+                release_date = v.release_date
+            }
+        end
+
     end
 
     return output
