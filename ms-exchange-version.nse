@@ -99,12 +99,12 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
-local function get_cves(build)
+local function get_cves(cves_map, build)
     local cves = {}
-    local cves_map = get_cves_map()
+    
     if (cves_map ~= nil) then
-        for _, v in ipairs(cves_map[build]["cves"]) do
-            table.insert(cves, v)
+        for _, cve in ipairs(cves_map[build]["cves"]) do
+            table.insert(cves, cve)
         end
     end
 
@@ -126,7 +126,10 @@ action = function(host, port)
     for _, v in ipairs(version) do
         
         if stdnse.get_script_args("showcves") then
-            output[v.build] = get_cves(v.build)
+            -- vulners compatible output
+            local cves_map = get_cves_map()
+            cpe = cves_map[v.build]["cpe"]
+            output[cpe] = get_cves(cves_map, v.build)
         else
             output[v.build] = {
                 product = v.name,
