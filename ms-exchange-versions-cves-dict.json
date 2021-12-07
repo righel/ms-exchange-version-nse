@@ -300,7 +300,7 @@
         ]
     },
     "15.0.1395.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2012-2284",
@@ -366,7 +366,7 @@
         ]
     },
     "15.0.1473.6": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
             "CVE-2017-8540",
             "CVE-2019-0686",
@@ -387,7 +387,7 @@
         ]
     },
     "15.0.1497.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-1136",
             "CVE-1999-1322",
@@ -434,7 +434,7 @@
         ]
     },
     "15.0.1497.15": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2017-8540",
             "CVE-2019-1136",
@@ -474,7 +474,7 @@
         ]
     },
     "15.0.1497.18": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-1136",
             "CVE-1999-1322",
@@ -564,7 +564,7 @@
         ]
     },
     "15.0.1497.23": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-1136",
             "CVE-1999-1322",
@@ -597,7 +597,7 @@
         ]
     },
     "15.0.1497.24": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-1136",
             "CVE-1999-1322",
@@ -629,7 +629,7 @@
         ]
     },
     "15.0.1497.26": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-1136",
             "CVE-1999-1322",
@@ -782,7 +782,7 @@
         ]
     },
     "15.0.847.64": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2015-1631",
@@ -907,7 +907,7 @@
         ]
     },
     "15.1.1415.10": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2018-0940",
@@ -961,7 +961,7 @@
         ]
     },
     "15.1.1466.16": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2018-8154",
@@ -1013,7 +1013,7 @@
         ]
     },
     "15.1.1531.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2017-11937",
@@ -1090,7 +1090,7 @@
         ]
     },
     "15.1.1591.18": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
             "CVE-2017-8540",
             "CVE-1999-1322",
@@ -1113,7 +1113,7 @@
         ]
     },
     "15.1.1713.10": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-0686",
             "CVE-1999-1322",
@@ -1189,7 +1189,7 @@
         ]
     },
     "15.1.1779.8": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2012-2284",
@@ -1211,7 +1211,7 @@
         ]
     },
     "15.1.1847.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2020-0688",
@@ -1255,7 +1255,7 @@
         ]
     },
     "15.1.1913.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2020-0688",
@@ -1317,7 +1317,7 @@
         ]
     },
     "15.1.1979.8": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
         "cves": [
             "CVE-2020-16875",
             "CVE-1999-1322",
@@ -1335,7 +1335,7 @@
         ]
     },
     "15.1.2044.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
         "cves": [
             "CVE-2020-16875",
             "CVE-1999-1322",
@@ -1391,7 +1391,7 @@
         ]
     },
     "15.1.2106.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2017-11937",
@@ -1454,7 +1454,7 @@
         ]
     },
     "15.1.2176.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-31209",
             "CVE-1999-1322",
@@ -1476,7 +1476,7 @@
         ]
     },
     "15.1.2176.14": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-24085",
             "CVE-1999-1322",
@@ -1530,7 +1530,7 @@
         ]
     },
     "15.1.2176.9": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-33766",
             "CVE-1999-1322",
@@ -1559,7 +1559,7 @@
         ]
     },
     "15.1.2242.10": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2021-31196",
@@ -1579,7 +1579,7 @@
         ]
     },
     "15.1.2242.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2012-2284",
@@ -1627,7 +1627,7 @@
         ]
     },
     "15.1.2242.8": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2017-11937",
@@ -1679,7 +1679,7 @@
         ]
     },
     "15.1.2308.14": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-41348",
             "CVE-1999-1322",
@@ -1704,7 +1704,7 @@
         ]
     },
     "15.1.2308.15": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
         "cves": [
             "CVE-2017-8540",
             "CVE-1999-1322",
@@ -1725,7 +1725,7 @@
         ]
     },
     "15.1.2308.20": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2017-11937",
@@ -1771,7 +1771,7 @@
         ]
     },
     "15.1.2375.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-41349",
             "CVE-2021-42321",
@@ -1779,7 +1779,7 @@
         ]
     },
     "15.1.2375.17": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": []
     },
     "15.1.2375.7": {
@@ -1919,7 +1919,7 @@
         ]
     },
     "15.2.221.18": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
         "cves": [
             "CVE-2019-0686",
             "CVE-2019-0724",
@@ -1935,7 +1935,7 @@
         ]
     },
     "15.2.330.11": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2012-2284",
@@ -1963,7 +1963,7 @@
         ]
     },
     "15.2.464.15": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2020-0688",
@@ -1990,7 +1990,7 @@
         ]
     },
     "15.2.529.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2020-0688",
@@ -2028,7 +2028,7 @@
         ]
     },
     "15.2.595.8": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
         "cves": [
             "CVE-2020-16875",
             "CVE-1999-1322",
@@ -2038,7 +2038,7 @@
         ]
     },
     "15.2.659.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             "CVE-2020-16875",
             "CVE-2020-17142",
@@ -2078,7 +2078,7 @@
         ]
     },
     "15.2.721.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
         "cves": [
             "CVE-2020-17142",
             "CVE-1999-1322",
@@ -2125,7 +2125,7 @@
         ]
     },
     "15.2.792.10": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-31209",
             "CVE-2021-28481",
@@ -2146,7 +2146,7 @@
         ]
     },
     "15.2.792.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-31209",
             "CVE-2021-24085",
@@ -2160,7 +2160,7 @@
         ]
     },
     "15.2.792.15": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-24085",
             "CVE-1999-1322",
@@ -2198,7 +2198,7 @@
         ]
     },
     "15.2.858.10": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-31209",
             "CVE-1999-1322",
@@ -2214,7 +2214,7 @@
         ]
     },
     "15.2.858.12": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2021-31196",
@@ -2226,7 +2226,7 @@
         ]
     },
     "15.2.858.15": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
         "cves": [
             "CVE-2000-0216",
             "CVE-2011-0290",
@@ -2258,7 +2258,7 @@
         ]
     },
     "15.2.922.13": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-41348",
             "CVE-1999-1322",
@@ -2275,7 +2275,7 @@
         ]
     },
     "15.2.922.14": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2021-42305",
@@ -2288,7 +2288,7 @@
         ]
     },
     "15.2.922.19": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             "CVE-1999-1322",
             "CVE-2012-2284",
@@ -2317,6 +2317,10 @@
             "CVE-2021-42321"
         ]
     },
+    "15.2.986.14": {
+        "cpe": "",
+        "cves": []
+    },
     "15.2.986.5": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
@@ -2330,15 +2334,11 @@
         ]
     },
     "15.2.986.9": {
-        "cpe": "",
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
             "CVE-2021-41349",
             "CVE-2021-42321",
             "CVE-2021-42305"
         ]
-    },
-    "15.2.986.14": {
-        "cpe": "",
-        "cves": []
     }
 }
