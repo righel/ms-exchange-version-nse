@@ -29,7 +29,7 @@ local function get_http_options(host, port)
 end
 
 local function get_versions_map()
-    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-dict.json", {})
+    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-dict.json", {max_body_size = -1})
     if response.status == 200 then
         _, versions = json.parse(response.body)
         return versions
@@ -39,7 +39,7 @@ local function get_versions_map()
 end
 
 local function get_cves_map()
-    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-cves-dict.json", {})
+    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-cves-dict.json", {max_body_size = -1})
     if response.status == 200 then
         _, cves = json.parse(response.body)
         return cves
@@ -114,7 +114,7 @@ end
 action = function(host, port)
     local build_version_map = get_versions_map()
     local build = get_owa_build(host, port, build_version_map)
-    if build == nil then return "ERROR: could not get OWA version" end
+    if build == nil then return "ERROR: Host not running MS Exchange or could not get OWA version" end
 
     local version = build_version_map[build]
     if (version == nil) then
