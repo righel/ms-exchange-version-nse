@@ -119,6 +119,10 @@ action = function(host, port)
             -- vulners format
             key = cves_map[v.build]["cpe"]
             output[key] = {}
+            
+            if stdnse.get_script_args("showcves") then
+                output[key] = cves_map[v.build]["cves"] or {}
+            end
         else
             key = v.build
             output[key] = {
@@ -127,12 +131,10 @@ action = function(host, port)
                 build_long = v.build_long,
                 release_date = v.release_date
             }
+            if stdnse.get_script_args("showcves") then
+                output[key]["cves"] = cves_map[v.build]["cves"] or {}
+            end
         end
-
-        if stdnse.get_script_args("showcves") then
-            output[key]["cves"] = cves_map[v.build]["cves"] or {}
-        end
-
     end
 
     return output
