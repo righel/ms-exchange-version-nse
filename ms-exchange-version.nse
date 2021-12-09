@@ -99,20 +99,10 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
-local function get_cves(cves_map, build)
-    local cves = {}
-    
-    if (cves_map ~= nil) then
-        for _, cve in ipairs(cves_map[build]["cves"]) do
-            table.insert(cves, cve)
-        end
-    end
-
-    return cves
-end
 
 action = function(host, port)
     local build_version_map = get_versions_map()
+    local cves_map = get_cves_map()
     local build = get_owa_build(host, port, build_version_map)
     if build == nil then return "ERROR: Host not running MS Exchange or could not get OWA version" end
 
@@ -125,18 +115,22 @@ action = function(host, port)
 
     for _, v in ipairs(version) do
         
-        if stdnse.get_script_args("showcves") then
-            -- vulners compatible output
-            local cves_map = get_cves_map()
-            cpe = cves_map[v.build]["cpe"]
-            output[cpe] = get_cves(cves_map, v.build)
+        if stdnse.get_script_args("showcpe") then
+            -- vulners format
+            key = cves_map[v.build]["cpe"]
+            output[key] = {}
         else
-            output[v.build] = {
+            key = v.build
+            output[key] = {
                 product = v.name,
                 build = v.build,
                 build_long = v.build_long,
                 release_date = v.release_date
             }
+        end
+
+        if stdnse.get_script_args("showcves") then
+            output[key]["cves"] = cves_map[v.build]["cves"] or {}
         end
 
     end
