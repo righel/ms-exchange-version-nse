@@ -1269,6 +1269,12 @@
     ],
     "15.0.1497": [
         {
+            "build": "15.0.1497.28",
+            "build_long": "15.00.1497.028",
+            "name": "Exchange Server 2013 CU23 Jan22SU",
+            "release_date": "January 11, 2022"
+        },
+        {
             "build": "15.0.1497.26",
             "build_long": "15.00.1497.026",
             "name": "Exchange Server 2013 CU23 Nov21SU",
@@ -1365,6 +1371,14 @@
             "build_long": "15.00.1497.026",
             "name": "Exchange Server 2013 CU23 Nov21SU",
             "release_date": "November 9, 2021"
+        }
+    ],
+    "15.0.1497.28": [
+        {
+            "build": "15.0.1497.28",
+            "build_long": "15.00.1497.028",
+            "name": "Exchange Server 2013 CU23 Jan22SU",
+            "release_date": "January 11, 2022"
         }
     ],
     "15.0.516": [
@@ -2003,6 +2017,12 @@
     ],
     "15.1.2308": [
         {
+            "build": "15.1.2308.21",
+            "build_long": "15.01.2308.021",
+            "name": "Exchange Server 2016 CU21 Jan22SU",
+            "release_date": "January 11, 2022"
+        },
+        {
             "build": "15.1.2308.20",
             "build_long": "15.01.2308.020",
             "name": "Exchange Server 2016 CU21 Nov21SU",
@@ -2051,6 +2071,14 @@
             "release_date": "November 9, 2021"
         }
     ],
+    "15.1.2308.21": [
+        {
+            "build": "15.1.2308.21",
+            "build_long": "15.01.2308.021",
+            "name": "Exchange Server 2016 CU21 Jan22SU",
+            "release_date": "January 11, 2022"
+        }
+    ],
     "15.1.2308.8": [
         {
             "build": "15.1.2308.8",
@@ -2060,6 +2088,12 @@
         }
     ],
     "15.1.2375": [
+        {
+            "build": "15.1.2375.18",
+            "build_long": "15.01.2375.018",
+            "name": "Exchange Server 2016 CU22 Jan22SU",
+            "release_date": "January 11, 2022"
+        },
         {
             "build": "15.1.2375.17",
             "build_long": "15.01.2375.017",
@@ -2093,6 +2127,14 @@
             "build_long": "15.01.2375.017",
             "name": "Exchange Server 2016 CU22 Nov21SU",
             "release_date": "November 9, 2021"
+        }
+    ],
+    "15.1.2375.18": [
+        {
+            "build": "15.1.2375.18",
+            "build_long": "15.01.2375.018",
+            "name": "Exchange Server 2016 CU22 Jan22SU",
+            "release_date": "January 11, 2022"
         }
     ],
     "15.1.2375.7": [
@@ -2557,6 +2599,12 @@
     ],
     "15.2.922": [
         {
+            "build": "15.2.922.20",
+            "build_long": "15.02.0922.020",
+            "name": "Exchange Server 2019 CU10 Jan22SU",
+            "release_date": "January 11, 2022"
+        },
+        {
             "build": "15.2.922.19",
             "build_long": "15.02.0922.019",
             "name": "Exchange Server 2019 CU10 Nov21SU",
@@ -2605,6 +2653,14 @@
             "release_date": "November 9, 2021"
         }
     ],
+    "15.2.922.20": [
+        {
+            "build": "15.2.922.20",
+            "build_long": "15.02.0922.020",
+            "name": "Exchange Server 2019 CU10 Jan22SU",
+            "release_date": "January 11, 2022"
+        }
+    ],
     "15.2.922.7": [
         {
             "build": "15.2.922.7",
@@ -2614,6 +2670,12 @@
         }
     ],
     "15.2.986": [
+        {
+            "build": "15.2.986.15",
+            "build_long": "15.02.0986.015",
+            "name": "Exchange Server 2019 CU11 Jan22SU",
+            "release_date": "January 11, 2022"
+        },
         {
             "build": "15.2.986.14",
             "build_long": "15.02.0986.014",
@@ -2639,6 +2701,14 @@
             "build_long": "15.02.0986.014",
             "name": "Exchange Server 2019 CU11 Nov21SU",
             "release_date": "November 9, 2021"
+        }
+    ],
+    "15.2.986.15": [
+        {
+            "build": "15.2.986.15",
+            "build_long": "15.02.0986.015",
+            "name": "Exchange Server 2019 CU11 Jan22SU",
+            "release_date": "January 11, 2022"
         }
     ],
     "15.2.986.5": [
