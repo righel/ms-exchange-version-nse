@@ -132,7 +132,9 @@ action = function(host, port)
                 release_date = v.release_date
             }
             if stdnse.get_script_args("showcves") then
-                output[key]["cves"] = cves_map[v.build]["cves"] or {}
+                output[key] = {
+                    cves = cves_map[v.build]["cves"] or {}
+                }
             end
         end
     end
