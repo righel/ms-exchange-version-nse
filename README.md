@@ -3,7 +3,7 @@
 
 ### Usage
 ```
-$ nmap -p 443 --script ms-exchange-version.nse --script-args=http.max-cache-size=10000000<target>
+$ nmap -p 443 --script ms-exchange-version.nse --script-args=http.max-cache-size=10000000 <target>
 Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-19 15:58 CET
 Nmap scan report for REDACTED (REDACTED)
 Host is up (0.0068s latency).
