@@ -42,10 +42,6 @@ for version in all_versions_dict:
 
             for patch in crono_ordered_versions[1:]:
                 if patch["url"]:
-
-                    if not patch["build"].startswith("15.2.986"):
-                        continue
-
                     patch_page = requests.get(patch["url"])
                     
                     patched_cves = []
