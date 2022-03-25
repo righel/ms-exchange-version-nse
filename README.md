@@ -3,7 +3,7 @@
 
 ### Usage
 ```
-$ nmap -p 443 --script ms-exchange-version.nse --script-args=http.max-cache-size=10000000 <target>
+$ nmap -p 443 --script ms-exchange-version.nse <target>
 Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-19 15:58 CET
 Nmap scan report for REDACTED (REDACTED)
 Host is up (0.0068s latency).
@@ -24,7 +24,7 @@ Experimental:
 
 * `--script-args=showcves`:
 ```
-$ nmap -p 443 --script ms-exchange-version.nse --script-args=showcves,http.max-cache-size=10000000 <target>
+$ nmap -p 443 --script ms-exchange-version.nse --script-args=showcves <target>
 Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-19 15:58 CET
 Nmap scan report for REDACTED (REDACTED)
 Host is up (0.0068s latency).
@@ -67,6 +67,14 @@ PORT    STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 1.19 seconds
 ```
 
+#### Multiple targets
+If you plan to scan multiple targets, add the following argument: `http.max-cache-size=10000000`
+
+```
+$ nmap -p 443 --script ms-exchange-version.nse --script-args=http.max-cache-size=10000000 <target>
+```
+
+This is because of [a bug](https://github.com/nmap/nmap/pull/2407) in the internal cache mechanism of `nmap`
 
 ### Automation
 Everyday a Github action is run to check if there are new Microsoft Exchange versions published in this Microsoft docs page: 
