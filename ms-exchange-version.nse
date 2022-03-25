@@ -127,9 +127,7 @@ local function get_version_output(version, showcpes, showcves, cves_map)
             release_date = version.release_date
         }
         if showcves then
-            output[key] = {
-                cves = cves_map[version.build]["cves"] or {}
-            }
+            output[key]["cves"] = cves_map[version.build]["cves"] or {}
         end
     end
 
