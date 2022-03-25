@@ -6,6 +6,7 @@ import time
 import urllib3
 import sys
 import re
+from distutils.version import LooseVersion
 
 urllib3.disable_warnings()
 
@@ -77,6 +78,8 @@ for version in versions_dict:
                     })
 
             time.sleep(1)
+
+cves_dict = {k: cves_dict[k] for k in sorted(cves_dict, key=LooseVersion)}
 
 with open(cves_file, "w") as output:
     json.dump(cves_dict, output, indent=4, sort_keys=True)

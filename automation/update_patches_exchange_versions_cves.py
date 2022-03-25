@@ -6,6 +6,7 @@ import time
 import re
 import urllib3
 import sys
+from distutils.version import LooseVersion
 
 urllib3.disable_warnings()
 
@@ -61,6 +62,8 @@ for version in all_versions_dict:
 
         else:
             print("main release not found: %s" % version)
+
+all_versions_cves_dict = {k: all_versions_cves_dict[k] for k in sorted(all_versions_cves_dict, key=LooseVersion)}
 
 with open(output_file, "w") as output:
     json.dump(all_versions_cves_dict, output, indent=4, sort_keys=True)

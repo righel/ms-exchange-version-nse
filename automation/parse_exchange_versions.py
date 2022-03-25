@@ -136,8 +136,7 @@ if __name__ == '__main__':
 
     parse_eightwone_versions(versions_file, unique_versions_file)
 
-    unique_versions = {k: unique_versions[k] for k in sorted(
-        unique_versions, key=LooseVersion)}
+    unique_versions = {k: unique_versions[k] for k in sorted(unique_versions, key=LooseVersion)}
 
     nest_sub_versions()
 
