@@ -869,26 +869,26 @@
     ],
     "14.3.496": [
         {
-            "name": "Exchange Version 2010  SP3 RU30",
-            "release_date": "February, 2020",
+            "name": "Update Rollup 30 for Exchange Server 2010 SP3",
+            "release_date": "February 11, 2020",
             "build": "14.3.496.0",
-            "url": "https://support.microsoft.com/en-us/help/4536989/security-update-for-exchange-server-2010"
+            "url": "https://www.microsoft.com/download/details.aspx?id=100910"
         }
     ],
     "14.3.509": [
         {
-            "name": "Exchange Version 2010  SP3 RU31",
-            "release_date": "December, 2020",
+            "name": "Update Rollup 31 for Exchange Server 2010 SP3",
+            "release_date": "December 1, 2020",
             "build": "14.3.509.0",
-            "url": "http://support.microsoft.com/kb/4593467"
+            "url": "https://www.microsoft.com/download/details.aspx?id=102519"
         }
     ],
     "14.3.513": [
         {
-            "name": "Exchange Version 2010  SP3 RU32",
-            "release_date": "March, 2021",
+            "name": "Update Rollup 32 for Exchange Server 2010 SP3",
+            "release_date": "March 2, 2021",
             "build": "14.3.513.0",
-            "url": "https://support.microsoft.com/help/5000871"
+            "url": "https://www.microsoft.com/download/details.aspx?id=102774"
         }
     ],
     "15.0.516": [
@@ -1073,8 +1073,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2013 CU21 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2013 CU21 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.0.1395.12",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1087,8 +1087,8 @@
             "url": "https://www.microsoft.com/download/details.aspx?id=57826"
         },
         {
-            "name": "Exchange Version 2013 CU22 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2013 CU22 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.0.1473.6",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1125,52 +1125,52 @@
             "url": "http://support.microsoft.com/kb/4593466"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2013 CU23 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.0.1497.12",
             "url": "https://support.microsoft.com/help/5000871"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5001779",
-            "release_date": "April, 2021",
+            "name": "Exchange Server 2013 CU23 Apr21SU",
+            "release_date": "April 13, 2021",
             "build": "15.0.1497.15",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5001779"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5003435",
-            "release_date": "May, 2021",
+            "name": "Exchange Server 2013 CU23 May21SU",
+            "release_date": "May 11, 2021",
             "build": "15.0.1497.18",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5003435"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5004778",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2013 CU23 Jul21SU",
+            "release_date": "July 13, 2021",
             "build": "15.0.1497.23",
-            "url": "https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2013-july-13-2021-kb5004778-f532100d-a9c1-4f2c-bc36-baec95881011"
+            "url": "https://support.microsoft.com/help/5004778"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5007011",
-            "release_date": "October, 2021",
+            "name": "Exchange Server 2013 CU23 Oct21SU",
+            "release_date": "October 12, 2021",
             "build": "15.0.1497.24",
-            "url": "http://support.microsoft.com/kb/5007011"
+            "url": "https://support.microsoft.com/help/5007011"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5007409",
-            "release_date": "November, 2021",
+            "name": "Exchange Server 2013 CU23 Nov21SU",
+            "release_date": "November 9, 2021",
             "build": "15.0.1497.26",
-            "url": "http://support.microsoft.com/kb/5007409"
+            "url": "https://support.microsoft.com/help/5007409"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5008631",
-            "release_date": "January, 2022",
+            "name": "Exchange Server 2013 CU23 Jan22SU",
+            "release_date": "January 11, 2022",
             "build": "15.0.1497.28",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5008631"
         },
         {
-            "name": "Exchange Version 2013 CU23 + KB5010324",
-            "release_date": "March, 2022",
+            "name": "Exchange Server 2013 CU23 Mar22SU",
+            "release_date": "March 8, 2022",
             "build": "15.0.1497.33",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5010324"
         }
     ],
     "15.1.225": [
@@ -1251,8 +1251,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU8 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU8 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1415.10",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1265,8 +1265,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU9 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU9 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1466.16",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1279,8 +1279,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU10 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU10 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1531.12",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1293,8 +1293,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU11 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU11 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1591.18",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1307,8 +1307,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU12 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU12 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1713.10",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1321,8 +1321,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2016 CU13 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU13 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1779.8",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1341,8 +1341,8 @@
             "url": "http://support.microsoft.com/kb/4536987"
         },
         {
-            "name": "Exchange Version 2016 CU14 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU14 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1847.12",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1361,18 +1361,18 @@
             "url": "http://support.microsoft.com/kb/4536987"
         },
         {
-            "name": "Exchange Version 2016 CU15 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU15 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1913.12",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.1.1979": [
         {
-            "name": "Exchange Version 2016 CU16",
-            "release_date": "March, 2020",
+            "name": "Exchange Server 2016 CU16",
+            "release_date": "March 17, 2020",
             "build": "15.1.1979.3",
-            "url": "https://support.microsoft.com/kb/4537678"
+            "url": null
         },
         {
             "name": "Exchange Version 2016 CU16 + KB4577352",
@@ -1381,18 +1381,18 @@
             "url": "https://support.microsoft.com/help/4577352"
         },
         {
-            "name": "Exchange Version 2016 CU16 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU16 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.1979.8",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.1.2044": [
         {
-            "name": "Exchange Version 2016 CU17",
-            "release_date": "June, 2020",
+            "name": "Exchange Server 2016 CU17",
+            "release_date": "June 16, 2020",
             "build": "15.1.2044.4",
-            "url": "http://support.microsoft.com/kb/KB4556414"
+            "url": null
         },
         {
             "name": "Exchange Version 2016 CU17 + KB4577352",
@@ -1419,18 +1419,18 @@
             "url": "http://support.microsoft.com/kb/4593465"
         },
         {
-            "name": "Exchange Version 2016 CU17 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU17 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.2044.13",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.1.2106": [
         {
-            "name": "Exchange Version 2016 CU18",
-            "release_date": "September, 2020",
+            "name": "Exchange Server 2016 CU18",
+            "release_date": "September 15, 2020",
             "build": "15.1.2106.2",
-            "url": "http://support.microsoft.com/kb/KB4571788"
+            "url": null
         },
         {
             "name": "Exchange Version 2016 CU18 + KB581424",
@@ -1457,18 +1457,18 @@
             "url": "https://support.microsoft.com/help/4602269"
         },
         {
-            "name": "Exchange Version 2016 CU18 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU18 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.2106.13",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.1.2176": [
         {
-            "name": "Exchange Version 2016 CU19",
-            "release_date": "December, 2020",
+            "name": "Exchange Server 2016 CU19",
+            "release_date": "December 15, 2020",
             "build": "15.1.2176.2",
-            "url": "https://support.microsoft.com/en-us/help/4588884"
+            "url": null
         },
         {
             "name": "Exchange Version 2016 CU19 + KB4602269",
@@ -1477,118 +1477,118 @@
             "url": "https://support.microsoft.com/help/4602269"
         },
         {
-            "name": "Exchange Version 2016 CU19 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU19 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.1.2176.9",
             "url": "https://support.microsoft.com/help/5000871"
         },
         {
-            "name": "Exchange Version 2016 CU19 + KB5001779",
-            "release_date": "April, 2021",
+            "name": "Exchange Server 2016 CU19 Apr21SU",
+            "release_date": "April 13, 2021",
             "build": "15.1.2176.12",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5001779"
         },
         {
-            "name": "Exchange Version 2016 CU19 + KB5003435",
-            "release_date": "May, 2021",
+            "name": "Exchange Server 2016 CU19 May21SU",
+            "release_date": "May 11, 2021",
             "build": "15.1.2176.14",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5003435"
         }
     ],
     "15.1.2242": [
         {
-            "name": "Exchange Version 2016 CU20",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2016 CU20",
+            "release_date": "March 16, 2021",
             "build": "15.1.2242.4",
-            "url": "https://support.microsoft.com/help/4602569"
+            "url": null
         },
         {
-            "name": "Exchange Version 2016 CU20 + KB5001779",
-            "release_date": "April, 2021",
+            "name": "Exchange Server 2016 CU20 Apr21SU",
+            "release_date": "April 13, 2021",
             "build": "15.1.2242.8",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5001779"
         },
         {
-            "name": "Exchange Version 2016 CU20 + KB5003435",
-            "release_date": "May, 2021",
+            "name": "Exchange Server 2016 CU20 May21SU",
+            "release_date": "May 11, 2021",
             "build": "15.1.2242.10",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5003435"
         },
         {
-            "name": "Exchange Version 2016 CU20 + KB5004779",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2016 CU20 Jul21SU",
+            "release_date": "July 13, 2021",
             "build": "15.1.2242.12",
-            "url": "https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2016-july-13-2021-kb5004779-81e40da3-60db-4c09-bf11-b8c1e0c1b77d"
+            "url": "https://support.microsoft.com/help/5004779"
         }
     ],
     "15.1.2308": [
         {
-            "name": "Exchange Version 2016 CU21",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2016 CU21",
+            "release_date": "June 29, 2021",
             "build": "15.1.2308.8",
-            "url": "https://support.microsoft.com/help/5003611"
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=88e4107e-a9a6-4847-959d-98e6e5d46f4a"
         },
         {
-            "name": "Exchange Version 2016 CU21 + KB5004779",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2016 CU21 Jul21SU",
+            "release_date": "July 13, 2021",
             "build": "15.1.2308.14",
-            "url": "https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2016-july-13-2021-kb5004779-81e40da3-60db-4c09-bf11-b8c1e0c1b77d"
+            "url": "https://support.microsoft.com/help/5004779"
         },
         {
-            "name": "Exchange Version 2016 CU21 + KB5007012",
-            "release_date": "October, 2021",
+            "name": "Exchange Server 2016 CU21 Oct21SU",
+            "release_date": "October 12, 2021",
             "build": "15.1.2308.15",
-            "url": "http://support.microsoft.com/kb/5007012"
+            "url": "https://support.microsoft.com/help/5007012"
         },
         {
-            "name": "Exchange Version 2016 CU21 + KB5007409",
-            "release_date": "November, 2021",
+            "name": "Exchange Server 2016 CU21 Nov21SU",
+            "release_date": "November 9, 2021",
             "build": "15.1.2308.20",
-            "url": "http://support.microsoft.com/kb/5007409"
+            "url": "https://support.microsoft.com/help/5007409"
         },
         {
-            "name": "Exchange Version 2016 CU21 + KB5008631",
-            "release_date": "January, 2022",
+            "name": "Exchange Server 2016 CU21 Jan22SU",
+            "release_date": "January 11, 2022",
             "build": "15.1.2308.21",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5008631"
         },
         {
-            "name": "Exchange Version 2016 CU21 + KB5012698",
-            "release_date": "March, 2022",
+            "name": "Exchange Server 2016 CU21 Mar22SU",
+            "release_date": "March 8, 2022",
             "build": "15.1.2308.27",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5012698"
         }
     ],
     "15.1.2375": [
         {
-            "name": "Exchange Version 2016 CU22",
-            "release_date": "September, 2021",
+            "name": "Exchange Server 2016 CU22",
+            "release_date": "September 28, 2021",
             "build": "15.1.2375.7",
-            "url": "https://support.microsoft.com/help/5005333"
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=a7d608a2-d81b-46af-8753-8c3c2ea1f783"
         },
         {
-            "name": "Exchange Version 2016 CU22 + KB5007012",
-            "release_date": "October, 2021",
+            "name": "Exchange Server 2016 CU22 Oct21SU",
+            "release_date": "October 12, 2021",
             "build": "15.1.2375.12",
-            "url": "http://support.microsoft.com/kb/5007012"
+            "url": "https://support.microsoft.com/help/5007012"
         },
         {
-            "name": "Exchange Version 2016 CU22 + KB5007409",
-            "release_date": "November, 2021",
+            "name": "Exchange Server 2016 CU22 Nov21SU",
+            "release_date": "November 9, 2021",
             "build": "15.1.2375.17",
-            "url": "http://support.microsoft.com/kb/5007409"
+            "url": "https://support.microsoft.com/help/5007409"
         },
         {
-            "name": "Exchange Version 2016 CU22 + KB5008631",
-            "release_date": "January, 2022",
+            "name": "Exchange Server 2016 CU22 Jan22SU",
+            "release_date": "January 11, 2022",
             "build": "15.1.2375.18",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5008631"
         },
         {
-            "name": "Exchange Version 2016 CU22 + KB5012698",
-            "release_date": "March, 2022",
+            "name": "Exchange Server 2016 CU22 Mar22SU",
+            "release_date": "March 8, 2022",
             "build": "15.1.2375.24",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5012698"
         }
     ],
     "15.2.196": [
@@ -1607,8 +1607,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2019  + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 RTM Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.221.18",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1621,8 +1621,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2019 CU1 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU1 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.330.11",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1635,8 +1635,8 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2019 CU2 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU2 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.397.11",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1655,8 +1655,8 @@
             "url": "http://support.microsoft.com/kb/4536987"
         },
         {
-            "name": "Exchange Version 2019 CU3 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU3 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.464.15",
             "url": "https://support.microsoft.com/help/5000871"
         }
@@ -1675,18 +1675,18 @@
             "url": "http://support.microsoft.com/kb/4536987"
         },
         {
-            "name": "Exchange Version 2019 CU4 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU4 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.529.13",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.2.595": [
         {
-            "name": "Exchange Version 2019 CU5",
-            "release_date": "March, 2020",
+            "name": "Exchange Server 2019 CU5",
+            "release_date": "March 17, 2020",
             "build": "15.2.595.3",
-            "url": "http://support.microsoft.com/kb/KB4537677"
+            "url": null
         },
         {
             "name": "Exchange Version 2019 CU5 + KB4577352",
@@ -1695,18 +1695,18 @@
             "url": "https://support.microsoft.com/help/4577352"
         },
         {
-            "name": "Exchange Version 2019 CU5 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU5 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.595.8",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.2.659": [
         {
-            "name": "Exchange Version 2019 CU6",
-            "release_date": "June, 2020",
+            "name": "Exchange Server 2019 CU6",
+            "release_date": "June 16, 2020",
             "build": "15.2.659.4",
-            "url": "http://support.microsoft.com/kb/KB4556415"
+            "url": null
         },
         {
             "name": "Exchange Version 2019 CU6 + KB4577352",
@@ -1733,18 +1733,18 @@
             "url": "http://support.microsoft.com/kb/4593465"
         },
         {
-            "name": "Exchange Version 2019 CU6 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU6 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.659.12",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.2.721": [
         {
-            "name": "Exchange Version 2019 CU7",
-            "release_date": "September, 2020",
+            "name": "Exchange Server 2019 CU7",
+            "release_date": "September 15, 2020",
             "build": "15.2.721.2",
-            "url": "http://support.microsoft.com/kb/KB4571787"
+            "url": null
         },
         {
             "name": "Exchange Version 2019 CU7 + KB581424",
@@ -1771,18 +1771,18 @@
             "url": "https://support.microsoft.com/help/4602269"
         },
         {
-            "name": "Exchange Version 2019 CU7 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU7 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.721.13",
             "url": "https://support.microsoft.com/help/5000871"
         }
     ],
     "15.2.792": [
         {
-            "name": "Exchange Version 2019 CU8",
-            "release_date": "December, 2020",
+            "name": "Exchange Server 2019 CU8",
+            "release_date": "December 15, 2020",
             "build": "15.2.792.3",
-            "url": "https://support.microsoft.com/en-us/help/4588885"
+            "url": null
         },
         {
             "name": "Exchange Version 2019 CU8 + KB4602269",
@@ -1791,22 +1791,22 @@
             "url": "https://support.microsoft.com/help/4602269"
         },
         {
-            "name": "Exchange Version 2019 CU8 + KB5000871",
-            "release_date": "March, 2021",
+            "name": "Exchange Server 2019 CU8 Mar21SU",
+            "release_date": "March 2, 2021",
             "build": "15.2.792.10",
             "url": "https://support.microsoft.com/help/5000871"
         },
         {
-            "name": "Exchange Version 2019 CU8 + KB5001779",
-            "release_date": "April, 2021",
+            "name": "Exchange Server 2019 CU8 Apr21SU",
+            "release_date": "April 13, 2021",
             "build": "15.2.792.13",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5001779"
         },
         {
-            "name": "Exchange Version 2019 CU8 + KB5003435",
-            "release_date": "May, 2021",
+            "name": "Exchange Server 2019 CU8 May21SU",
+            "release_date": "May 11, 2021",
             "build": "15.2.792.15",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5003435"
         }
     ],
     "15.2.858": [
@@ -1823,92 +1823,92 @@
             "url": null
         },
         {
-            "name": "Exchange Version 2019 CU9 + KB5001779",
-            "release_date": "April, 2021",
+            "name": "Exchange Server 2019 CU9 Apr21SU",
+            "release_date": "April 13, 2021",
             "build": "15.2.858.10",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5001779"
         },
         {
-            "name": "Exchange Version 2019 CU9 + KB5003435",
-            "release_date": "May, 2021",
+            "name": "Exchange Server 2019 CU9 May21SU",
+            "release_date": "May 11, 2021",
             "build": "15.2.858.12",
-            "url": "http://support.microsoft.com/kb/5001779"
+            "url": "https://support.microsoft.com/help/5003435"
         },
         {
-            "name": "Exchange Version 2019 CU9 + KB5004780",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2019 CU9 Jul21SU",
+            "release_date": "July 13, 2021",
             "build": "15.2.858.15",
-            "url": "https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2019-july-13-2021-kb5004780-fc5b3fa1-1f7a-47b0-8014-699257256bb5"
+            "url": "https://support.microsoft.com/help/5004780"
         }
     ],
     "15.2.922": [
         {
-            "name": "Exchange Version 2019 CU10",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2019 CU10",
+            "release_date": "June 29, 2021",
             "build": "15.2.922.7",
-            "url": "https://support.microsoft.com/help/5003612"
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=aa0d4c7c-526f-4a1a-924c-b534839f0001"
         },
         {
-            "name": "Exchange Version 2019 CU10 + KB5004780",
-            "release_date": "June, 2021",
+            "name": "Exchange Server 2019 CU10 Jul21SU",
+            "release_date": "July 13, 2021",
             "build": "15.2.922.13",
-            "url": "https://support.microsoft.com/en-us/topic/description-of-the-security-update-for-microsoft-exchange-server-2019-july-13-2021-kb5004780-fc5b3fa1-1f7a-47b0-8014-699257256bb5"
+            "url": "https://support.microsoft.com/help/5004780"
         },
         {
-            "name": "Exchange Version 2019 CU10 + KB5007012",
-            "release_date": "October, 2021",
+            "name": "Exchange Server 2019 CU10 Oct21SU",
+            "release_date": "October 12, 2021",
             "build": "15.2.922.14",
-            "url": "http://support.microsoft.com/kb/5007012"
+            "url": "https://support.microsoft.com/help/5007012"
         },
         {
-            "name": "Exchange Version 2019 CU10 + KB5007409",
-            "release_date": "November, 2021",
+            "name": "Exchange Server 2019 CU10 Nov21SU",
+            "release_date": "November 9, 2021",
             "build": "15.2.922.19",
-            "url": "http://support.microsoft.com/kb/5007409"
+            "url": "https://support.microsoft.com/help/5007409"
         },
         {
-            "name": "Exchange Version 2019 CU10 + KB5008631",
-            "release_date": "January, 2022",
+            "name": "Exchange Server 2019 CU10 Jan22SU",
+            "release_date": "January 11, 2022",
             "build": "15.2.922.20",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5008631"
         },
         {
-            "name": "Exchange Version 2019 CU10 + KB5012698",
-            "release_date": "March, 2022",
+            "name": "Exchange Server 2019 CU10 Mar22SU",
+            "release_date": "March 8, 2022",
             "build": "15.2.922.27",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5012698"
         }
     ],
     "15.2.986": [
         {
-            "name": "Exchange Version 2019 CU11",
-            "release_date": "September, 2021",
+            "name": "Exchange Server 2019 CU11",
+            "release_date": "September 28, 2021",
             "build": "15.2.986.5",
-            "url": "https://support.microsoft.com/help/5005334"
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=40be4769-0188-4b1a-a023-1a3ecb919870"
         },
         {
-            "name": "Exchange Version 2019 CU11 + KB5007012",
-            "release_date": "October, 2021",
+            "name": "Exchange Server 2019 CU11 Oct21SU",
+            "release_date": "October 12, 2021",
             "build": "15.2.986.9",
-            "url": "http://support.microsoft.com/kb/5007012"
+            "url": "https://support.microsoft.com/help/5007012"
         },
         {
-            "name": "Exchange Version 2019 CU11 + KB5007409",
-            "release_date": "November, 2021",
+            "name": "Exchange Server 2019 CU11 Nov21SU",
+            "release_date": "November 9, 2021",
             "build": "15.2.986.14",
-            "url": "http://support.microsoft.com/kb/5007409"
+            "url": "https://support.microsoft.com/help/5007409"
         },
         {
-            "name": "Exchange Version 2019 CU11 + KB5008631",
-            "release_date": "January, 2022",
+            "name": "Exchange Server 2019 CU11 Jan22SU",
+            "release_date": "January 11, 2022",
             "build": "15.2.986.15",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5008631"
         },
         {
-            "name": "Exchange Version 2019 CU11 + KB5012698",
-            "release_date": "March, 2022",
+            "name": "Exchange Server 2019 CU11 Mar22SU",
+            "release_date": "March 8, 2022",
             "build": "15.2.986.22",
-            "url": "http://support.microsoft.com/kb/5008631"
+            "url": "https://support.microsoft.com/help/5012698"
         }
     ]
 }
