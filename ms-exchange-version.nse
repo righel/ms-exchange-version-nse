@@ -29,6 +29,16 @@ local function get_http_options(host, port)
 end
 
 local function get_versions_map()
+    local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-unique-versions-dict.json", {max_body_size = -1})
+    if response.status == 200 then
+        _, versions = json.parse(response.body)
+        return versions
+    end
+
+    return nil
+end
+
+local function get_main_versions_map()
     local response = http.get_url("https://raw.githubusercontent.com/righel/ms-exchange-version-nse/main/ms-exchange-versions-dict.json", {max_body_size = -1})
     if response.status == 200 then
         _, versions = json.parse(response.body)
@@ -99,43 +109,56 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
+local function get_version_output(version, showcpes, showcves, cves_map)
+    local output = {}
+    if showcpes then
+        -- vulners format
+        key = cves_map[version.build]["cpe"]
+        output[key] = {}
+        
+        if showcves then
+            output[key] = cves_map[version.build]["cves"] or {}
+        end
+    else
+        key = version.build
+        output[key] = {
+            product = version.name,
+            build = version.build,
+            release_date = version.release_date
+        }
+        if showcves then
+            output[key] = {
+                cves = cves_map[version.build]["cves"] or {}
+            }
+        end
+    end
+
+    return output
+end
 
 action = function(host, port)
     local build_version_map = get_versions_map()
+    local main_build_version_map = get_main_versions_map()
     local cves_map = get_cves_map()
     local build = get_owa_build(host, port, build_version_map)
     if build == nil then return "ERROR: Host not running MS Exchange or could not get OWA version" end
 
+    local output = {}
+
     local version = build_version_map[build]
-    if (version == nil) then
+
+    if (version ~= nil) then
+        return get_version_output(version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
+    end
+
+    possible_versions = main_build_version_map[build]
+
+    if (possible_versions == nil) then
         return ("ERROR: could not find version for detected build=%s"):format(build)
     end
 
-    local output = {}
-
-    for _, v in ipairs(version) do
-        
-        if stdnse.get_script_args("showcpe") then
-            -- vulners format
-            key = cves_map[v.build]["cpe"]
-            output[key] = {}
-            
-            if stdnse.get_script_args("showcves") then
-                output[key] = cves_map[v.build]["cves"] or {}
-            end
-        else
-            key = v.build
-            output[key] = {
-                product = v.name,
-                build = v.build,
-                release_date = v.release_date
-            }
-            if stdnse.get_script_args("showcves") then
-                output[key] = {
-                    cves = cves_map[v.build]["cves"] or {}
-                }
-            end
-        end
+    for _, v in ipairs(possible_versions) do
+        output[#output+1] = get_version_output(v, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
     return output
