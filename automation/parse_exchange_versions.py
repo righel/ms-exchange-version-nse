@@ -120,7 +120,7 @@ def parse_eightwone_versions(versions_file, unique_versions_file):
         }
 
         # version not listed on Microsoft Docs
-        if (build not in versions):
+        if (build not in unique_versions):
             unique_versions[build] = v
 
 
