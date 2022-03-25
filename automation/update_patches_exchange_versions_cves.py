@@ -31,7 +31,7 @@ all_versions_dict = json.loads(all_versions)
 
 for version in all_versions_dict:
     if len(all_versions_dict[version]) > 1:
-        crono_ordered_versions = list(reversed(all_versions_dict[version]))
+        crono_ordered_versions = all_versions_dict[version]
         if crono_ordered_versions[0]["build"] in main_versions_dict.keys():
             main_version = main_versions_dict[crono_ordered_versions[0]["build"]]
             if main_version:
