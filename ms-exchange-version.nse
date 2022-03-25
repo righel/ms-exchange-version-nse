@@ -128,7 +128,6 @@ action = function(host, port)
             output[key] = {
                 product = v.name,
                 build = v.build,
-                build_long = v.build_long,
                 release_date = v.release_date
             }
             if stdnse.get_script_args("showcves") then

@@ -3,7 +3,6 @@
 import requests
 import json
 import time
-import lxml.html as lh
 import re
 import urllib3
 import sys
@@ -43,7 +42,7 @@ for version in all_versions_dict:
             for patch in crono_ordered_versions[1:]:
                 if patch["url"]:
                     patch_page = requests.get(patch["url"])
-                    
+
                     patched_cves = []
                     cves = re.findall(cve_pattern, str(patch_page.content))
                     for cve in cves:
