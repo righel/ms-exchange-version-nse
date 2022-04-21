@@ -1526,7 +1526,7 @@
             "name": "Exchange Server 2016 CU21",
             "release_date": "June 29, 2021",
             "build": "15.1.2308.8",
-            "url": "https://www.microsoft.com/download/details.aspx?familyID=88e4107e-a9a6-4847-959d-98e6e5d46f4a"
+            "url": null
         },
         {
             "name": "Exchange Server 2016 CU21 Jul21SU",
@@ -1589,6 +1589,14 @@
             "release_date": "March 8, 2022",
             "build": "15.1.2375.24",
             "url": "https://support.microsoft.com/help/5012698"
+        }
+    ],
+    "15.1.2507": [
+        {
+            "name": "Exchange Server 2016 CU23 (2022H1)",
+            "release_date": "April 20, 2022",
+            "build": "15.1.2507.6",
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=ad395419-4d2f-4eb0-97fb-a5b88ab814e1"
         }
     ],
     "15.2.196": [
@@ -1846,7 +1854,7 @@
             "name": "Exchange Server 2019 CU10",
             "release_date": "June 29, 2021",
             "build": "15.2.922.7",
-            "url": "https://www.microsoft.com/download/details.aspx?familyID=aa0d4c7c-526f-4a1a-924c-b534839f0001"
+            "url": null
         },
         {
             "name": "Exchange Server 2019 CU10 Jul21SU",
@@ -1909,6 +1917,14 @@
             "release_date": "March 8, 2022",
             "build": "15.2.986.22",
             "url": "https://support.microsoft.com/help/5012698"
+        }
+    ],
+    "15.2.1118": [
+        {
+            "name": "Exchange Server 2019 CU12 (2022H1)",
+            "release_date": "April 20, 2022",
+            "build": "15.2.1118.7",
+            "url": "https://www.microsoft.com/download/details.aspx?familyID=a149e06c-62f4-4b62-adf8-7d382223a239"
         }
     ]
 }

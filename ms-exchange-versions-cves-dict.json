@@ -7578,6 +7578,10 @@
             }
         ]
     },
+    "15.1.2507.6": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.1.396.30": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
         "cves": [
@@ -7746,6 +7750,10 @@
                 "summary": "Microsoft Exchange Server 2010 SP3, Exchange Server 2013 SP3, Exchange Server 2013 CU16, and Exchange Server 2016 CU5 allows an open redirect vulnerability that could lead to spoofing, aka \"Microsoft Exchange Open Redirect Vulnerability\"."
             }
         ]
+    },
+    "15.2.1118.7": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
+        "cves": []
     },
     "15.2.196.0": {
         "cpe": null,
