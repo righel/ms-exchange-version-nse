@@ -5204,10 +5204,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2021-07-21T11:39:00",
+                "cvss-time": "2022-04-28T18:32:00",
                 "cwe": "CWE-269",
                 "id": "CVE-2020-16875",
-                "last-modified": "2021-07-21T11:39:00",
+                "last-modified": "2022-04-28T18:32:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user, aka 'Microsoft Exchange Server Remote Code Execution Vulnerability'."
             },
             {
@@ -5315,10 +5315,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2021-07-21T11:39:00",
+                "cvss-time": "2022-04-28T18:32:00",
                 "cwe": "CWE-269",
                 "id": "CVE-2020-16875",
-                "last-modified": "2021-07-21T11:39:00",
+                "last-modified": "2022-04-28T18:32:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user, aka 'Microsoft Exchange Server Remote Code Execution Vulnerability'."
             },
             {
@@ -8190,10 +8190,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2021-07-21T11:39:00",
+                "cvss-time": "2022-04-28T18:32:00",
                 "cwe": "CWE-269",
                 "id": "CVE-2020-16875",
-                "last-modified": "2021-07-21T11:39:00",
+                "last-modified": "2022-04-28T18:32:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user, aka 'Microsoft Exchange Server Remote Code Execution Vulnerability'."
             },
             {
@@ -8301,10 +8301,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2021-07-21T11:39:00",
+                "cvss-time": "2022-04-28T18:32:00",
                 "cwe": "CWE-269",
                 "id": "CVE-2020-16875",
-                "last-modified": "2021-07-21T11:39:00",
+                "last-modified": "2022-04-28T18:32:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user, aka 'Microsoft Exchange Server Remote Code Execution Vulnerability'."
             },
             {
