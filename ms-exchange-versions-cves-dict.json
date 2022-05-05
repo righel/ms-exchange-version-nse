@@ -6637,10 +6637,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             }
         ]
@@ -6734,10 +6734,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             },
             {
@@ -6819,10 +6819,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             }
         ]
@@ -7226,10 +7226,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             },
             {
@@ -9655,10 +9655,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             }
         ]
@@ -9684,10 +9684,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             }
         ]
@@ -9781,10 +9781,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             },
             {
@@ -9898,10 +9898,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             },
             {
@@ -10232,10 +10232,10 @@
             },
             {
                 "cvss": 5.2,
-                "cvss-time": "2021-07-16T14:39:00",
-                "cwe": "CWE-269",
+                "cvss-time": "2022-05-03T16:04:00",
+                "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-33768",
-                "last-modified": "2021-07-16T14:39:00",
+                "last-modified": "2022-05-03T16:04:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-34470, CVE-2021-34523."
             },
             {
