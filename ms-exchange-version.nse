@@ -70,7 +70,7 @@ local function get_build_via_exporttool(host, port, build, build_version_map)
 
     -- brute force for the exporttool path
     local possible_versions = build_version_map[build]
-    if (version == nil) then
+    if (version == nil and build ~= nil) then
         for _, v in ipairs(possible_versions) do
             http.get(host.targetname or host.ip, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
             if response.status == 200 then
@@ -98,11 +98,12 @@ local function get_owa_build(host, port, build_version_map)
     if (build == nil) then
         build = string.match(response.body, '/owa/(%d+.%d+.%d+)')
     end
-    if (build ~= nil) then
-        -- method 3: get build from exporttool
-        local ecp_build = get_build_via_exporttool(host, port, build, build_version_map)
-        if (ecp_build ~= nil) then return ecp_build end
 
+    -- method 3: get build from exporttool
+    local ecp_build = get_build_via_exporttool(host, port, build, build_version_map)
+    if (ecp_build ~= nil) then return ecp_build end
+
+    if (build ~= nil) then
         return build -- not exact, but better than nothing
     end
 
