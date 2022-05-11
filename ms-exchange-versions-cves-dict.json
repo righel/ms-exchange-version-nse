@@ -2460,6 +2460,43 @@
             }
         ]
     },
+    "15.0.1497.36": {
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+        "cves": [
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-05-04T14:14:00",
+                "cwe": "CWE-200",
+                "id": "CVE-2019-1084",
+                "last-modified": "2020-05-04T14:14:00",
+                "summary": "An information disclosure vulnerability exists when Exchange allows creation of entities with Display Names having non-printable characters. An authenticated attacker could exploit this vulnerability by creating entities with invalid display names, which, when added to conversations, remain invisible. This security update addresses the issue by validating display names upon creation in Microsoft Exchange, and by rendering invalid display names correctly in Microsoft Outlook clients., aka 'Microsoft Exchange Information Disclosure Vulnerability'."
+            },
+            {
+                "cvss": 3.5,
+                "cvss-time": "2020-04-09T13:19:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-1137",
+                "last-modified": "2020-04-09T13:19:00",
+                "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
+            },
+            {
+                "cvss": 5.1,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2019-1136",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": "2019-11-14T19:34:00",
+                "cwe": "CWE-502",
+                "id": "CVE-2019-1373",
+                "last-modified": "2019-11-14T19:34:00",
+                "summary": "A remote code execution vulnerability exists in Microsoft Exchange through the deserialization of metadata via PowerShell, aka 'Microsoft Exchange Remote Code Execution Vulnerability'."
+            }
+        ]
+    },
     "15.0.1497.6": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
@@ -7477,6 +7514,10 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": []
     },
+    "15.1.2375.28": {
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.1.2375.7": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
@@ -7579,6 +7620,10 @@
         ]
     },
     "15.1.2507.6": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+        "cves": []
+    },
+    "15.1.2507.9": {
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": []
     },
@@ -7752,6 +7797,10 @@
         ]
     },
     "15.2.1118.7": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
+        "cves": []
+    },
+    "15.2.1118.9": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
         "cves": []
     },
@@ -10411,6 +10460,10 @@
         ]
     },
     "15.2.986.22": {
+        "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+        "cves": []
+    },
+    "15.2.986.26": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": []
     },

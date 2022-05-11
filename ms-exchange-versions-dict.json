@@ -1171,6 +1171,12 @@
             "release_date": "March 8, 2022",
             "build": "15.0.1497.33",
             "url": "https://support.microsoft.com/help/5010324"
+        },
+        {
+            "name": "Exchange Server 2013 CU23 May22SU",
+            "release_date": "May 10, 2022",
+            "build": "15.0.1497.36",
+            "url": "https://support.microsoft.com/help/5014260"
         }
     ],
     "15.1.225": [
@@ -1589,6 +1595,12 @@
             "release_date": "March 8, 2022",
             "build": "15.1.2375.24",
             "url": "https://support.microsoft.com/help/5012698"
+        },
+        {
+            "name": "Exchange Server 2016 CU22 May22SU",
+            "release_date": "May 10, 2022",
+            "build": "15.1.2375.28",
+            "url": "https://support.microsoft.com/help/5014261"
         }
     ],
     "15.1.2507": [
@@ -1597,6 +1609,12 @@
             "release_date": "April 20, 2022",
             "build": "15.1.2507.6",
             "url": "https://www.microsoft.com/download/details.aspx?familyID=ad395419-4d2f-4eb0-97fb-a5b88ab814e1"
+        },
+        {
+            "name": "Exchange Server 2016 CU23 May22SU",
+            "release_date": "May 10, 2022",
+            "build": "15.1.2507.9",
+            "url": "https://support.microsoft.com/help/5014261"
         }
     ],
     "15.2.196": [
@@ -1917,6 +1935,12 @@
             "release_date": "March 8, 2022",
             "build": "15.2.986.22",
             "url": "https://support.microsoft.com/help/5012698"
+        },
+        {
+            "name": "Exchange Server 2019 CU11 May22SU",
+            "release_date": "May 10, 2022",
+            "build": "15.2.986.26",
+            "url": "https://support.microsoft.com/help/5014261"
         }
     ],
     "15.2.1118": [
@@ -1925,6 +1949,12 @@
             "release_date": "April 20, 2022",
             "build": "15.2.1118.7",
             "url": "https://www.microsoft.com/download/details.aspx?familyID=a149e06c-62f4-4b62-adf8-7d382223a239"
+        },
+        {
+            "name": "Exchange Server 2019 CU12 May22SU",
+            "release_date": "May 10, 2022",
+            "build": "15.2.1118.9",
+            "url": "https://support.microsoft.com/help/5014261"
         }
     ]
 }
