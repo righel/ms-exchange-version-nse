@@ -150,10 +150,10 @@ action = function(host, port)
         return get_version_output(version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
-    possible_versions = main_build_version_map[build]
+    local possible_versions = main_build_version_map[build]
 
     if (possible_versions == nil) then
-        return ("ERROR: could not find version for detected build=%s"):format(build)
+        return ("ERROR: could not find version details for detected build=%s"):format(build)
     end
 
     for _, v in ipairs(possible_versions) do
