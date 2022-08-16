@@ -68,9 +68,11 @@ for version in versions_dict:
                 data = json.loads(r.text)
 
                 for cve in data:
+                    print(version)
+                    print(cve)
                     cves_dict[version]["cves"].append({
-                        "cvss": cve["cvss"],
-                        "cvss-time": cve["cvss-time"],
+                        "cvss": cve.get("cvss"),
+                        "cvss-time": cve.get("cvss-time"),
                         "cwe": cve["cwe"],
                         "id": cve["id"],
                         "last-modified": cve["last-modified"],
