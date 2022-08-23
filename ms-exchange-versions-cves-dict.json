@@ -1255,10 +1255,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1500,10 +1500,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1697,10 +1697,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1862,10 +1862,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2203,10 +2203,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2384,10 +2384,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2517,10 +2517,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2642,10 +2642,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2727,10 +2727,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3203,10 +3203,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3568,10 +3568,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3917,10 +3917,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -7587,18 +7587,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -7696,18 +7696,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -7773,10 +7773,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -7802,10 +7802,10 @@
         "cves": [
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -7884,18 +7884,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8009,18 +8009,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8134,10 +8134,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8211,10 +8211,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8430,18 +8430,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11159,18 +11159,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11268,18 +11268,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11345,10 +11345,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11374,10 +11374,10 @@
         "cves": [
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11456,18 +11456,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11581,10 +11581,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11658,10 +11658,10 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -11877,18 +11877,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12034,18 +12034,18 @@
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-Other",
                 "id": "CVE-2021-42321",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
-                "cvss-time": "2022-03-14T16:19:00",
+                "cvss-time": "2022-08-22T18:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-23277",
-                "last-modified": "2022-03-14T16:19:00",
+                "last-modified": "2022-08-22T18:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
