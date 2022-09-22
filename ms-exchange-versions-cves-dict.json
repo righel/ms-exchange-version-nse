@@ -1334,11 +1334,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -1579,11 +1579,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -1768,11 +1768,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -1925,11 +1925,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2306,11 +2306,11 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2439,11 +2439,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2564,11 +2564,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2673,11 +2673,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2758,11 +2758,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2835,11 +2835,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -2904,11 +2904,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -3306,11 +3306,11 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -3663,11 +3663,11 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -3996,11 +3996,11 @@
                 "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8048,11 +8048,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8149,11 +8149,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8226,11 +8226,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8287,11 +8287,11 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8340,11 +8340,11 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8501,11 +8501,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8566,11 +8566,11 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8619,11 +8619,11 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8853,11 +8853,11 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -8906,11 +8906,11 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -11596,11 +11596,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -11673,11 +11673,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -11734,11 +11734,11 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -11787,11 +11787,11 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -11948,11 +11948,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
@@ -12073,11 +12073,11 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 5.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-08-11T22:23:00",
+                "last-modified": "2022-09-21T22:15:00",
                 "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
             },
             {
