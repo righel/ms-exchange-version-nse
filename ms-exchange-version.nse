@@ -134,14 +134,13 @@ local function get_cves(host, port, cves_map, build)
             cvss = 8.8,
             cwe = "CWE-269",
             summary = "Microsoft Exchange Server Elevation of Privilege Vulnerability."
-        },
-        {
+        })
+        table.insert(cves, {
             id = "CVE-2022-41082",
             cvss = 8.8,
             cwe = "NVD-CWE-noinfo",
             summary = "Microsoft Exchange Server Remote Code Execution Vulnerability."
-        }
-    )
+        })
     end
 
     return cves
