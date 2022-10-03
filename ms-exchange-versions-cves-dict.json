@@ -545,7 +545,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -1335,7 +1335,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -1343,7 +1343,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -1351,7 +1351,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -1359,7 +1359,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -1580,7 +1580,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -1588,7 +1588,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -1596,7 +1596,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -1604,7 +1604,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -1769,7 +1769,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -1777,7 +1777,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -1785,7 +1785,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -1793,7 +1793,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -1926,7 +1926,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -1934,7 +1934,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -1942,7 +1942,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -1950,7 +1950,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2307,7 +2307,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2315,7 +2315,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2323,7 +2323,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2331,7 +2331,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2440,7 +2440,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2448,7 +2448,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2456,7 +2456,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2464,7 +2464,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2565,7 +2565,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2573,7 +2573,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2581,7 +2581,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2589,7 +2589,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2674,7 +2674,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2682,7 +2682,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2690,7 +2690,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2698,7 +2698,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2759,7 +2759,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2767,7 +2767,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2775,7 +2775,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2783,7 +2783,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2836,7 +2836,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2844,7 +2844,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2852,7 +2852,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2860,7 +2860,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -2905,7 +2905,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -2913,7 +2913,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -2921,7 +2921,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -2929,7 +2929,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -3307,7 +3307,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -3315,7 +3315,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -3323,7 +3323,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -3331,7 +3331,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -3664,7 +3664,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -3672,7 +3672,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -3680,7 +3680,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -3688,7 +3688,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -3997,7 +3997,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -4005,7 +4005,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -4013,7 +4013,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -4021,7 +4021,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8049,7 +8049,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8057,7 +8057,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8065,7 +8065,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8073,7 +8073,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8081,7 +8081,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8089,7 +8089,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8150,7 +8150,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8158,7 +8158,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8166,7 +8166,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8174,7 +8174,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8182,7 +8182,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8190,7 +8190,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8227,7 +8227,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8235,7 +8235,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8243,7 +8243,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8251,7 +8251,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8259,7 +8259,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8267,7 +8267,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8288,7 +8288,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8296,7 +8296,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8304,7 +8304,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8312,7 +8312,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8320,7 +8320,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8328,7 +8328,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8341,7 +8341,7 @@
         "cves": [
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8349,7 +8349,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8357,7 +8357,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8365,7 +8365,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8373,7 +8373,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8381,7 +8381,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8502,7 +8502,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8510,7 +8510,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8518,7 +8518,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8526,7 +8526,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8534,7 +8534,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8542,7 +8542,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8567,7 +8567,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8575,7 +8575,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8583,7 +8583,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8591,7 +8591,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8599,7 +8599,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8607,7 +8607,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8620,7 +8620,7 @@
         "cves": [
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8628,7 +8628,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8636,7 +8636,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8644,7 +8644,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8652,7 +8652,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8660,7 +8660,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8854,7 +8854,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8862,7 +8862,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8870,7 +8870,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8878,7 +8878,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8886,7 +8886,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8894,7 +8894,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -8907,7 +8907,7 @@
         "cves": [
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -8915,7 +8915,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -8923,7 +8923,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8931,7 +8931,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -8939,7 +8939,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -8947,7 +8947,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -11597,7 +11597,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -11605,7 +11605,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -11613,7 +11613,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11621,7 +11621,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11629,7 +11629,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -11637,7 +11637,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -11674,7 +11674,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -11682,7 +11682,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -11690,7 +11690,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11698,7 +11698,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11706,7 +11706,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -11714,7 +11714,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -11735,7 +11735,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -11743,7 +11743,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -11751,7 +11751,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11759,7 +11759,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11767,7 +11767,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -11775,7 +11775,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -11788,7 +11788,7 @@
         "cves": [
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -11796,7 +11796,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -11804,7 +11804,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11812,7 +11812,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11820,7 +11820,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -11828,7 +11828,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -11949,7 +11949,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -11957,7 +11957,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -11965,7 +11965,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11973,7 +11973,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -11981,7 +11981,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -11989,7 +11989,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
@@ -12074,7 +12074,7 @@
             },
             {
                 "cvss": 4.3,
-                "cvss-time": null,
+                "cvss-time": 4.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
                 "last-modified": "2022-09-22T16:58:00",
@@ -12082,7 +12082,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24516",
                 "last-modified": "2022-09-22T18:24:00",
@@ -12090,7 +12090,7 @@
             },
             {
                 "cvss": 5.7,
-                "cvss-time": null,
+                "cvss-time": 5.7,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21979",
                 "last-modified": "2022-09-22T19:06:00",
@@ -12098,7 +12098,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-21980",
                 "last-modified": "2022-09-22T19:06:00",
@@ -12106,7 +12106,7 @@
             },
             {
                 "cvss": 5.3,
-                "cvss-time": null,
+                "cvss-time": 5.3,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
                 "last-modified": "2022-08-12T19:17:00",
@@ -12114,7 +12114,7 @@
             },
             {
                 "cvss": 8.0,
-                "cvss-time": null,
+                "cvss-time": 8.0,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-24477",
                 "last-modified": "2022-09-22T18:29:00",
