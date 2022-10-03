@@ -110,7 +110,44 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
-local function get_version_output(version, showcpes, showcves, cves_map)
+local function check_cve_2022_41040_41082_mitigation(host, port, build)
+    local http_options = get_http_options(host, port)
+    http_options["redirect_ok"] = false
+    local response = http.get(host.targetname or host.ip, port, "/autodiscover/autodiscover.json?a@foo.var/owa/&Email=autodiscover/autodiscover.json?a@foo.var&Protocol=XYZ&FooProtocol=Powershell", http_options)
+
+    if response.header['x-feserver'] ~= nil then
+        return true
+    end
+
+    return false
+end
+
+local function get_cves(host, port, cves_map, build)
+    local cves = {}
+    if cves_map[build] ~= nil then
+        cves = cves_map[build]["cves"]
+    end
+
+    if check_cve_2022_41040_41082_mitigation(host, port, build) then
+        table.insert(cves, {
+            id = "CVE-2022-41040",
+            cvss = 8.8,
+            cwe = "CWE-269",
+            summary = "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+        },
+        {
+            id = "CVE-2022-41082",
+            cvss = 8.8,
+            cwe = "NVD-CWE-noinfo",
+            summary = "Microsoft Exchange Server Remote Code Execution Vulnerability."
+        }
+    )
+    end
+
+    return cves
+end
+
+local function get_version_output(host, port, version, showcpes, showcves, cves_map)
     local output = {}
     if showcpes then
         -- vulners format
@@ -118,7 +155,7 @@ local function get_version_output(version, showcpes, showcves, cves_map)
         output[key] = {}
         
         if showcves then
-            output[key] = cves_map[version.build]["cves"] or {}
+            output[key] = get_cves(host, port, cves_map, version.build)
         end
     else
         key = version.build
@@ -128,7 +165,7 @@ local function get_version_output(version, showcpes, showcves, cves_map)
             release_date = version.release_date
         }
         if showcves then
-            output[key]["cves"] = cves_map[version.build]["cves"] or {}
+            output[key]["cves"] = get_cves(host, port, cves_map, version.build)
         end
     end
 
@@ -147,7 +184,7 @@ action = function(host, port)
     local version = build_version_map[build]
 
     if (version ~= nil) then
-        return get_version_output(version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
+        return get_version_output(host, port, version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
     local possible_versions = main_build_version_map[build]
@@ -157,7 +194,7 @@ action = function(host, port)
     end
 
     for _, v in ipairs(possible_versions) do
-        output[#output+1] = get_version_output(v, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
+        output[#output+1] = get_version_output(host, port, v, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
     return output
