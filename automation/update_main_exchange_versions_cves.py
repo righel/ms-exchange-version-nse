@@ -72,7 +72,7 @@ for version in versions_dict:
                     print(cve)
                     cves_dict[version]["cves"].append({
                         "cvss": cve.get("cvss", cve.get("cvss3")),
-                        "cvss-time": cve.get("cvss-time"),
+                        "cvss-time": cve.get("cvss-time", cve.get("cvss3")),
                         "cwe": cve["cwe"],
                         "id": cve["id"],
                         "last-modified": cve["last-modified"],
