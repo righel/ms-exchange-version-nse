@@ -113,13 +113,28 @@ end
 local function check_cve_2022_41040_41082_mitigation(host, port, build)
     local http_options = get_http_options(host, port)
     http_options["redirect_ok"] = false
+
+    local result = {
+        vuln = false,
+        mitigation = false,
+        bypassable = false
+    }
+
     local response = http.get(host.targetname or host.ip, port, "/autodiscover/autodiscover.json?a@foo.var/owa/&Email=autodiscover/autodiscover.json?a@foo.var&Protocol=XYZ&FooProtocol=Powershell", http_options)
 
     if response.header['x-feserver'] ~= nil then
-        return true
+        result.vuln = true
+    else
+        local response = http.get(host.targetname or host.ip, port, "/autodiscover/autodiscover.json?a..foo.var/owa/&Email=autodiscover/autodiscover.json?a..foo.var&Protocol=XYZ&FooProtocol=Powershell", http_options)
+
+        if response.header['x-feserver'] ~= nil then
+            result.vuln = true
+            result.mitigation = true
+            result.bypassable = true
+        end
     end
 
-    return false
+    return result
 end
 
 local function get_cves(host, port, cves_map, build)
@@ -128,18 +143,31 @@ local function get_cves(host, port, cves_map, build)
         cves = cves_map[build]["cves"]
     end
 
-    if check_cve_2022_41040_41082_mitigation(host, port, build) then
+    local proxy_not_shell = check_cve_2022_41040_41082_mitigation(host, port, build)
+
+    if proxy_not_shell.vuln then
+        local info = ""
+        if (proxy_not_shell.mitigation) then
+            if (proxy_not_shell.bypassable) then
+                info = "Initial mitigation applied (bypassable)"
+            end
+        else
+            info = "Mitigation not applied"
+        end
+
         table.insert(cves, {
             id = "CVE-2022-41040",
             cvss = 8.8,
             cwe = "CWE-269",
-            summary = "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            summary = "Microsoft Exchange Server Elevation of Privilege Vulnerability.",
+            info = info
         })
         table.insert(cves, {
             id = "CVE-2022-41082",
             cvss = 8.8,
             cwe = "NVD-CWE-noinfo",
-            summary = "Microsoft Exchange Server Remote Code Execution Vulnerability."
+            summary = "Microsoft Exchange Server Remote Code Execution Vulnerability.",
+            info = info
         })
     end
 
