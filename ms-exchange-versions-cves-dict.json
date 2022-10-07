@@ -1370,7 +1370,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1378,7 +1378,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -1631,7 +1631,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1639,7 +1639,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -1836,7 +1836,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -1844,7 +1844,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2009,7 +2009,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2017,7 +2017,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2406,7 +2406,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2414,7 +2414,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2555,7 +2555,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2563,7 +2563,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2696,7 +2696,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2704,7 +2704,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2821,7 +2821,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2829,7 +2829,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -2922,7 +2922,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -2930,7 +2930,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -3015,7 +3015,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3023,7 +3023,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -3100,7 +3100,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3108,7 +3108,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -3153,7 +3153,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3161,7 +3161,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -3534,7 +3534,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3542,7 +3542,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -3907,7 +3907,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -3915,7 +3915,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -4256,7 +4256,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -4264,7 +4264,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8340,7 +8340,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8348,7 +8348,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8457,7 +8457,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8465,7 +8465,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8550,7 +8550,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8558,7 +8558,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8627,7 +8627,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8635,7 +8635,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8696,7 +8696,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8704,7 +8704,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8717,7 +8717,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8725,7 +8725,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8890,7 +8890,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8898,7 +8898,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8911,7 +8911,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8919,7 +8919,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -8988,7 +8988,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -8996,7 +8996,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -9057,7 +9057,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -9065,7 +9065,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -9247,7 +9247,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -9255,7 +9255,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -9324,7 +9324,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -9332,7 +9332,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -9393,7 +9393,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -9401,7 +9401,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12099,7 +12099,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12107,7 +12107,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12192,7 +12192,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12200,7 +12200,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12269,7 +12269,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12277,7 +12277,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12338,7 +12338,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12346,7 +12346,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12359,7 +12359,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12367,7 +12367,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12532,7 +12532,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12540,7 +12540,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
@@ -12673,7 +12673,7 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-41082",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
@@ -12681,7 +12681,7 @@
                 "cvss-time": null,
                 "cwe": "CWE-269",
                 "id": "CVE-2022-41040",
-                "last-modified": "2022-10-03T12:06:00",
+                "last-modified": "2022-10-06T20:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             }
         ]
