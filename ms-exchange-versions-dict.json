@@ -1183,6 +1183,12 @@
             "release_date": "August 9, 2022",
             "build": "15.0.1497.40",
             "url": "https://support.microsoft.com/help/5015321"
+        },
+        {
+            "name": "Exchange Server 2013 CU23 Oct22SU",
+            "release_date": "October 11, 2022",
+            "build": "15.0.1497.42",
+            "url": "https://support.microsoft.com/help/5019076"
         }
     ],
     "15.1.225": [
@@ -1613,6 +1619,12 @@
             "release_date": "August 9, 2022",
             "build": "15.1.2375.31",
             "url": "https://support.microsoft.com/help/5015322"
+        },
+        {
+            "name": "Exchange Server 2016 CU22 Oct22SU",
+            "release_date": "October 11, 2022",
+            "build": "15.1.2375.32",
+            "url": "https://support.microsoft.com/help/5019077"
         }
     ],
     "15.1.2507": [
@@ -1633,6 +1645,12 @@
             "release_date": "August 9, 2022",
             "build": "15.1.2507.12",
             "url": "https://support.microsoft.com/help/5015322"
+        },
+        {
+            "name": "Exchange Server 2016 CU23 Oct22SU",
+            "release_date": "October 11, 2022",
+            "build": "15.1.2507.13",
+            "url": "https://support.microsoft.com/help/5019077"
         }
     ],
     "15.2.196": [
@@ -1965,6 +1983,12 @@
             "release_date": "August 9, 2022",
             "build": "15.2.986.29",
             "url": "https://support.microsoft.com/help/5015322"
+        },
+        {
+            "name": "Exchange Server 2019 CU11 Oct22SU",
+            "release_date": "October 11, 2022",
+            "build": "15.2.986.30",
+            "url": "https://support.microsoft.com/help/5019077"
         }
     ],
     "15.2.1118": [
@@ -1985,6 +2009,12 @@
             "release_date": "August 9, 2022",
             "build": "15.2.1118.12",
             "url": "https://support.microsoft.com/help/5015322"
+        },
+        {
+            "name": "Exchange Server 2019 CU12 Oct22SU",
+            "release_date": "October 11, 2022",
+            "build": "15.2.1118.15",
+            "url": "https://support.microsoft.com/help/5019077"
         }
     ]
 }
