@@ -169,6 +169,14 @@ local function get_cves(host, port, cves_map, build)
             summary = "Microsoft Exchange Server Remote Code Execution Vulnerability.",
             info = info
         })
+    
+    else
+        -- not vulnerable to CVE-2022-41040/41082
+        for i, cve in ipairs(cves) do
+            if cve.id == "CVE-2022-41040" or cve.id == "CVE-2022-41082" then
+                cves[i] = nil
+            end
+        end
     end
 
     return cves
