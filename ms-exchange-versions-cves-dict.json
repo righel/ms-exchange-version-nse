@@ -1380,6 +1380,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -1641,6 +1665,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -1846,6 +1894,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2019,6 +2091,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2416,6 +2512,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2565,6 +2685,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2706,6 +2850,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2831,6 +2999,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -2932,6 +3124,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -3025,6 +3241,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -3110,6 +3350,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -3163,6 +3427,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -3216,6 +3504,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -3634,6 +3946,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -4007,6 +4343,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -4356,6 +4716,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8440,6 +8824,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8557,6 +8973,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8650,6 +9098,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8727,6 +9207,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8796,6 +9308,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8817,6 +9361,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -8838,6 +9414,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9015,6 +9623,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9036,6 +9676,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9057,6 +9729,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9138,6 +9842,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9207,6 +9943,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9397,6 +10165,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9418,6 +10218,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9499,6 +10331,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -9568,6 +10432,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12274,6 +13170,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12367,6 +13295,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12444,6 +13404,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12513,6 +13505,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12534,6 +13558,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12555,6 +13611,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12732,6 +13820,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -12873,6 +13993,38 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 7.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41123",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41080."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
@@ -13270,6 +14422,30 @@
                 "id": "CVE-2022-41040",
                 "last-modified": "2022-11-07T20:17:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41080",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2022-41123."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41079",
+                "last-modified": "2022-11-10T06:20:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41078."
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2022-41078",
+                "last-modified": "2022-11-10T06:26:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2022-41079."
             }
         ]
     },
