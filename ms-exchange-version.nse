@@ -172,9 +172,10 @@ local function get_cves(host, port, cves_map, build)
     
     else
         -- not vulnerable to CVE-2022-41040/41082
-        for i, cve in ipairs(cves) do
+        for i=#cves,1,-1 do
+            cve = cves[i]
             if cve.id == "CVE-2022-41040" or cve.id == "CVE-2022-41082" then
-                cves[i] = nil
+                table.remove(cves, i)
             end
         end
     end
