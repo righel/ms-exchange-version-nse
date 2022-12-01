@@ -106,10 +106,6 @@ def parse_eightwone_versions(versions_file, unique_versions_file):
         name = convert_short_name_to_long(row[0].text_content().strip())
         build = row[1].text_content().strip()
 
-        # FIXME: 
-        if build == "5.0.1497.44":
-            build = "15.0.1497.44"
-
         release_date = convert_short_date_to_long(
             row[2].text_content().strip())
         url = None
