@@ -1195,6 +1195,12 @@
             "release_date": "November 8, 2022",
             "build": "15.0.1497.44",
             "url": "https://support.microsoft.com/help/5019758"
+        },
+        {
+            "name": "Exchange Server 2013 CU23 Jan23SU",
+            "release_date": "January 10, 2023",
+            "build": "15.0.1497.45",
+            "url": "https://support.microsoft.com/help/5022188"
         }
     ],
     "15.1.225": [
@@ -1669,6 +1675,12 @@
             "release_date": "November 8, 2022",
             "build": "15.1.2507.16",
             "url": "https://support.microsoft.com/help/5019758"
+        },
+        {
+            "name": "Exchange Server 2016 CU23 Jan23SU",
+            "release_date": "January 10, 2023",
+            "build": "15.1.2507.17",
+            "url": "https://support.microsoft.com/help/5022143"
         }
     ],
     "15.2.196": [
@@ -2013,6 +2025,12 @@
             "release_date": "November 8, 2022",
             "build": "15.2.986.36",
             "url": "https://support.microsoft.com/help/5019758"
+        },
+        {
+            "name": "Exchange Server 2019 CU11 Jan23SU",
+            "release_date": "January 10, 2023",
+            "build": "15.2.986.37",
+            "url": "https://support.microsoft.com/help/5022193"
         }
     ],
     "15.2.1118": [
@@ -2045,6 +2063,12 @@
             "release_date": "November 8, 2022",
             "build": "15.2.1118.20",
             "url": "https://support.microsoft.com/help/5019758"
+        },
+        {
+            "name": "Exchange Server 2019 CU12 Jan23SU",
+            "release_date": "January 10, 2023",
+            "build": "15.2.1118.21",
+            "url": "https://support.microsoft.com/help/5022193"
         }
     ]
 }
