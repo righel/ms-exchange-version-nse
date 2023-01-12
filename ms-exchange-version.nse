@@ -87,7 +87,7 @@ local function get_owa_build(host, port, build_version_map)
     -- method 1: get build from X-OWA-Version header
     local http_options = get_http_options(host, port)
     local response = http.generic_request(host.targetname or host.ip, port, "GET", "/owa/", http_options)
-    if response.header["x-owa-version"] ~= nil then
+    if response.header["x-owa-version"] ~= nil and response.header["x-owa-version"] ~= "" then
         return response.header["x-owa-version"]
     end
 
