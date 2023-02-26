@@ -70,6 +70,9 @@ local function get_build_via_exporttool(host, port, build, build_version_map)
 
     -- brute force for the exporttool path
     local possible_versions = build_version_map[build]
+    if (possible_versions == nil) then
+    	return build
+    end
     if (version == nil and build ~= nil) then
         for _, v in ipairs(possible_versions) do
             http.get(host.targetname or host.ip, port, ("/ecp/%s/exporttool/microsoft.exchange.ediscovery.exporttool.application"):format(v.build), http_options)
