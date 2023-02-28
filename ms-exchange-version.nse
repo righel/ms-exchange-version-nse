@@ -183,7 +183,7 @@ local function get_cves(host, port, cves_map, build)
     return cves
 end
 
-local function get_version_output(host, port, version, showcpes, showcves, cves_map)
+local function get_version_output(host, port, build, version, showcpes, showcves, cves_map)
     local output = {}
     if showcpes then
         -- vulners format
@@ -194,7 +194,7 @@ local function get_version_output(host, port, version, showcpes, showcves, cves_
             output[key] = get_cves(host, port, cves_map, version.build)
         end
     else
-        key = version.build
+        key = build
         output[key] = {
             product = version.name,
             build = version.build,
@@ -208,6 +208,21 @@ local function get_version_output(host, port, version, showcpes, showcves, cves_
     return output
 end
 
+local function guesstimate_version_from_build(build, build_version_map)
+    local major_version = string.match(build, "%d+.%d+.%d+")
+    local minor_version = tonumber(string.match(build, "%d+$")) - 1
+
+    while minor_version > 0 do
+        local closest_build = major_version .. "." .. minor_version
+        if build_version_map[closest_build] ~= nil then
+            return build_version_map[closest_build]
+        end
+        minor_version = minor_version - 1
+     end
+
+    return nil
+end
+
 action = function(host, port)
     local build_version_map = get_versions_map()
     local main_build_version_map = get_main_versions_map()
@@ -218,9 +233,13 @@ action = function(host, port)
     local output = {}
 
     local version = build_version_map[build]
+    if (version == nil) then
+        version = guesstimate_version_from_build(build, build_version_map)
+    end
+
 
     if (version ~= nil) then
-        return get_version_output(host, port, version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
+        return get_version_output(host, port, build, version, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
     local possible_versions = main_build_version_map[build]
@@ -230,7 +249,7 @@ action = function(host, port)
     end
 
     for _, v in ipairs(possible_versions) do
-        output[#output+1] = get_version_output(host, port, v, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
+        output[#output+1] = get_version_output(host, port, build, v, stdnse.get_script_args("showcpe"), stdnse.get_script_args("showcves"), cves_map)
     end
 
     return output
