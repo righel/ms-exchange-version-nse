@@ -999,6 +999,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-601",
+                "id": "CVE-2018-0924",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20, Microsoft Exchange Server 2013 Cumulative Update 18, Microsoft Exchange Server 2013 Cumulative Update 19, Microsoft Exchange Server 2013 Service Pack 1, Microsoft Exchange Server 2016 Cumulative Update 7, and Microsoft Exchange Server 2016 Cumulative Update 8 allow an information disclosure vulnerability due to how URL redirects are handled, aka \"Microsoft Exchange Information Disclosure Vulnerability\". This CVE is unique from CVE-2018-0941."
+            },
+            {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
                 "cwe": "CWE-79",
@@ -1111,6 +1119,14 @@
     "15.0.1395.12": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2019-10-03T00:03:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2018-8448",
+                "last-modified": "2019-10-03T00:03:00",
+                "summary": "An elevation of privilege vulnerability exists when Microsoft Exchange Outlook Web Access (OWA) fails to properly handle web requests, aka \"Microsoft Exchange Server Elevation of Privilege Vulnerability.\" This affects Microsoft Exchange Server."
+            },
             {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
@@ -1300,6 +1316,14 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
             },
             {
+                "cvss": 5.8,
+                "cvss-time": "2020-04-09T13:17:00",
+                "cwe": "CWE-19",
+                "id": "CVE-2019-0817",
+                "last-modified": "2020-04-09T13:17:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0858."
+            },
+            {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
                 "cwe": "CWE-79",
@@ -1312,6 +1336,22 @@
     "15.0.1473.6": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2019-0686",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2019-0724."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
+            },
             {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
@@ -4596,6 +4636,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 8.8,
+                "cvss-time": null,
+                "cwe": "CWE-269",
+                "id": "CVE-2022-41040",
+                "last-modified": "2022-12-07T17:07:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
                 "cvss": 9.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
@@ -6444,6 +6492,14 @@
             },
             {
                 "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2018-0940",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "Microsoft Exchange Outlook Web Access (OWA) in Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20, Microsoft Exchange Server 2013 Cumulative Update 18, Microsoft Exchange Server 2013 Cumulative Update 19, Microsoft Exchange Server 2013 Service Pack 1, Microsoft Exchange Server 2016 Cumulative Update 7, and Microsoft Exchange Server 2016 Cumulative Update 8 allows an elevation of privilege vulnerability due to how links in the body of an email message are rewritten, aka \"Microsoft Exchange Elevation of Privilege Vulnerability\"."
+            },
+            {
+                "cvss": 4.3,
                 "cvss-time": "2018-10-12T22:08:00",
                 "cwe": "CWE-79",
                 "id": "CVE-2015-1628",
@@ -6598,6 +6654,14 @@
                 "id": "CVE-2016-0030",
                 "last-modified": "2020-04-09T13:26:00",
                 "summary": "Cross-site scripting (XSS) vulnerability in Outlook Web Access (OWA) in Microsoft Exchange Server 2013 PS1, 2013 Cumulative Update 10, and 2016 allows remote attackers to inject arbitrary web script or HTML via a crafted URL, aka \"Exchange Spoofing Vulnerability.\""
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2018-0940",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "Microsoft Exchange Outlook Web Access (OWA) in Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20, Microsoft Exchange Server 2013 Cumulative Update 18, Microsoft Exchange Server 2013 Cumulative Update 19, Microsoft Exchange Server 2013 Service Pack 1, Microsoft Exchange Server 2016 Cumulative Update 7, and Microsoft Exchange Server 2016 Cumulative Update 8 allows an elevation of privilege vulnerability due to how links in the body of an email message are rewritten, aka \"Microsoft Exchange Elevation of Privilege Vulnerability\"."
             },
             {
                 "cvss": 4.3,
@@ -6875,6 +6939,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-601",
+                "id": "CVE-2018-0924",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20, Microsoft Exchange Server 2013 Cumulative Update 18, Microsoft Exchange Server 2013 Cumulative Update 19, Microsoft Exchange Server 2013 Service Pack 1, Microsoft Exchange Server 2016 Cumulative Update 7, and Microsoft Exchange Server 2016 Cumulative Update 8 allow an information disclosure vulnerability due to how URL redirects are handled, aka \"Microsoft Exchange Information Disclosure Vulnerability\". This CVE is unique from CVE-2018-0941."
+            },
+            {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
                 "cwe": "CWE-79",
@@ -6995,6 +7067,14 @@
                 "id": "CVE-2021-27065",
                 "last-modified": "2022-07-12T17:42:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-601",
+                "id": "CVE-2018-0924",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20, Microsoft Exchange Server 2013 Cumulative Update 18, Microsoft Exchange Server 2013 Cumulative Update 19, Microsoft Exchange Server 2013 Service Pack 1, Microsoft Exchange Server 2016 Cumulative Update 7, and Microsoft Exchange Server 2016 Cumulative Update 8 allow an information disclosure vulnerability due to how URL redirects are handled, aka \"Microsoft Exchange Information Disclosure Vulnerability\". This CVE is unique from CVE-2018-0941."
             },
             {
                 "cvss": 3.5,
@@ -7210,6 +7290,14 @@
     "15.1.1531.12": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2019-10-03T00:03:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2018-8448",
+                "last-modified": "2019-10-03T00:03:00",
+                "summary": "An elevation of privilege vulnerability exists when Microsoft Exchange Outlook Web Access (OWA) fails to properly handle web requests, aka \"Microsoft Exchange Server Elevation of Privilege Vulnerability.\" This affects Microsoft Exchange Server."
+            },
             {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
@@ -7614,6 +7702,14 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
             },
             {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
+            },
+            {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
                 "cwe": "CWE-79",
@@ -7627,6 +7723,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
+            },
+            {
                 "cvss": 3.5,
                 "cvss-time": "2020-04-09T13:19:00",
                 "cwe": "CWE-79",
@@ -7638,7 +7742,24 @@
     },
     "15.1.1713.10": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2019-0686",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2019-0724."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
+            }
+        ]
     },
     "15.1.1713.5": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
@@ -7753,6 +7874,14 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
             },
             {
+                "cvss": 5.8,
+                "cvss-time": "2020-04-09T13:17:00",
+                "cwe": "CWE-19",
+                "id": "CVE-2019-0817",
+                "last-modified": "2020-04-09T13:17:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0858."
+            },
+            {
                 "cvss": 4.3,
                 "cvss-time": "2020-08-24T17:37:00",
                 "cwe": "CWE-79",
@@ -7806,6 +7935,14 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
             },
             {
+                "cvss": 5.8,
+                "cvss-time": "2020-04-09T13:17:00",
+                "cwe": "CWE-19",
+                "id": "CVE-2019-0817",
+                "last-modified": "2020-04-09T13:17:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0858."
+            },
+            {
                 "cvss": 4.3,
                 "cvss-time": "2020-08-24T17:37:00",
                 "cwe": "CWE-79",
@@ -7833,6 +7970,14 @@
                 "id": "CVE-2021-27065",
                 "last-modified": "2022-07-12T17:42:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078."
+            },
+            {
+                "cvss": 5.8,
+                "cvss-time": "2020-04-09T13:17:00",
+                "cwe": "CWE-19",
+                "id": "CVE-2019-0817",
+                "last-modified": "2020-04-09T13:17:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0858."
             }
         ]
     },
@@ -11028,6 +11173,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 8.8,
+                "cvss-time": null,
+                "cwe": "CWE-269",
+                "id": "CVE-2022-41040",
+                "last-modified": "2022-12-07T17:07:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
@@ -11398,6 +11551,14 @@
     "15.1.2507.13": {
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 8.8,
+                "cvss-time": null,
+                "cwe": "CWE-269",
+                "id": "CVE-2022-41040",
+                "last-modified": "2022-12-07T17:07:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
@@ -12402,6 +12563,14 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 8.8,
+                "cvss-time": null,
+                "cwe": "CWE-269",
+                "id": "CVE-2022-41040",
+                "last-modified": "2022-12-07T17:07:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
+            {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
@@ -13192,6 +13361,14 @@
                 "cvss": 4.3,
                 "cvss-time": "2020-08-24T17:37:00",
                 "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
                 "id": "CVE-2019-1266",
                 "last-modified": "2020-08-24T17:37:00",
                 "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web App (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'."
@@ -13232,6 +13409,14 @@
                 "id": "CVE-2019-0686",
                 "last-modified": "2020-08-24T17:37:00",
                 "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2019-0724."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-0858",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'. This CVE ID is unique from CVE-2019-0817."
             },
             {
                 "cvss": 4.3,
@@ -14070,7 +14255,16 @@
     },
     "15.2.721.13": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2021-03-03T18:24:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2021-1730",
+                "last-modified": "2021-03-03T18:24:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-24085."
+            }
+        ]
     },
     "15.2.721.2": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
@@ -16674,6 +16868,14 @@
     "15.2.986.30": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 8.8,
+                "cvss-time": null,
+                "cwe": "CWE-269",
+                "id": "CVE-2022-41040",
+                "last-modified": "2022-12-07T17:07:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
+            },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
