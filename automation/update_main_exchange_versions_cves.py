@@ -6,7 +6,7 @@ import time
 import urllib3
 import sys
 import re
-from distutils.version import LooseVersion
+from looseversion import LooseVersion
 
 urllib3.disable_warnings()
 
@@ -68,8 +68,6 @@ for version in versions_dict:
                 data = json.loads(r.text)
 
                 for cve in data:
-                    print(version)
-                    print(cve)
                     cves_dict[version]["cves"].append({
                         "cvss": cve.get("cvss", cve.get("cvss3")),
                         "cvss-time": cve.get("cvss-time"),

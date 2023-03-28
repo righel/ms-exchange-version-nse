@@ -4,7 +4,7 @@ import requests
 import lxml.html as lh
 import json
 import sys
-from distutils.version import LooseVersion
+from looseversion import LooseVersion
 
 versions = {}
 unique_versions = {}
@@ -55,7 +55,7 @@ def nest_sub_versions():
             versions[short_key] = [unique_versions[version]]
 
 
-def parse_ms_docs_versions(versions_file, unique_versions_file):
+def parse_ms_docs_versions():
     URL = "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates"
     page = requests.get(URL)
 
@@ -83,13 +83,13 @@ def parse_ms_docs_versions(versions_file, unique_versions_file):
             'name': row[0].text_content().strip(),
             'release_date': row[1].text_content().strip(),
             'build': row[2].text_content().strip(),
-            'url': url
+            'urls': [url] if url else [],
         }
 
-        unique_versions[v['build']] = v
+        unique_versions[str(v['build'])] = v
 
 
-def parse_eightwone_versions(versions_file, unique_versions_file):
+def parse_eightwone_versions():
     URL = "https://eightwone.com/references/versions-builds-dates/"
     page = requests.get(URL)
 
@@ -101,43 +101,64 @@ def parse_eightwone_versions(versions_file, unique_versions_file):
 
         # skip old versions and headers
         if row[0].text_content() == "2019CU4" or row[0].text_content() == "Version":
-            break
+            continue
 
-        name = convert_short_name_to_long(row[0].text_content().strip())
-        build = row[1].text_content().strip()
+        try:
+            name = convert_short_name_to_long(row[0].text_content().strip())
+            build = row[1].text_content().strip()
 
-        release_date = convert_short_date_to_long(
-            row[2].text_content().strip())
-        url = None
+            # fix some build numbers
+            if build == "8.0.685.25/24":
+                build = "8.0.685.25"
 
-        if len(row[3]) > 0 and row[3][0].tag == 'a':
-            url = row[3][0].attrib['href'].strip()
+            if build == "v2:15.0.712.24 (v1:15.0.712.22)":
+                build = "15.0.712.24"
 
-        v = {
-            'name': name,
-            'release_date': release_date,
-            'build': build,
-            'url': url
-        }
+            release_date = convert_short_date_to_long(
+                row[2].text_content().strip())
 
-        # version not listed on Microsoft Docs
-        if (build not in unique_versions):
-            unique_versions[build] = v
+            urls = []
+            if len(row[3]) > 0:
+                for a in row[3]:
+                    if a.tag == 'a':
+                        url = a.attrib['href'].strip()
+                        # fix some broken urls
+                        if url.lower().startswith('kb'):
+                            url = "https://support.microsoft.com/kb/%s" % url[2:]
+
+                        if url.lower().startswith('https://kb'):
+                            url = "https://support.microsoft.com/kb/%s" % url[10:]
+
+                        urls.append(url)
+
+            v = {
+                'name': name,
+                'release_date': release_date,
+                'build': build,
+                'urls': urls
+            }
+
+            # version not listed on Microsoft Docs
+            if (build not in unique_versions):
+                unique_versions[str(build)] = v
+        except Exception as ex:
+            print("error parsing version %s" % row[0].text_content().strip())
 
 
 if __name__ == '__main__':
 
-    if(len(sys.argv[1:]) < 2):
+    if (len(sys.argv[1:]) < 2):
         exit("output files path missing")
 
     versions_file = sys.argv[1]
     unique_versions_file = sys.argv[2]
 
-    parse_ms_docs_versions(versions_file, unique_versions_file)
+    parse_ms_docs_versions()
 
-    parse_eightwone_versions(versions_file, unique_versions_file)
+    parse_eightwone_versions()
 
-    unique_versions = {k: unique_versions[k] for k in sorted(unique_versions, key=LooseVersion)}
+    unique_versions = {k: unique_versions[k] for k in sorted(
+        unique_versions, key=LooseVersion)}
 
     nest_sub_versions()
 
