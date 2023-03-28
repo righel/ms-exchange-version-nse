@@ -126,8 +126,8 @@ def parse_eightwone_versions():
                         if url.lower().startswith('kb'):
                             url = "https://support.microsoft.com/kb/%s" % url[2:]
 
-                        if url.lower().startswith('https://kb'):
-                            url = "https://support.microsoft.com/kb/%s" % url[10:]
+                        if url.lower().startswith('http://kb'):
+                            url = "https://support.microsoft.com/kb/%s" % url[9:]
 
                         urls.append(url)
 
