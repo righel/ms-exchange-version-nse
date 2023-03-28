@@ -6,7 +6,7 @@ import time
 import re
 import urllib3
 import sys
-from distutils.version import LooseVersion
+from looseversion import LooseVersion
 
 urllib3.disable_warnings()
 
@@ -41,24 +41,25 @@ for version in all_versions_dict:
                 continue
 
             for patch in crono_ordered_versions[1:]:
-                if patch["url"]:
-                    patch_page = requests.get(patch["url"])
-
+                if patch["urls"]:
                     patched_cves = []
-                    cves = re.findall(cve_pattern, str(patch_page.content))
-                    for cve in cves:
-                        patched_cves.append(cve)
+                    for url in patch["urls"]:
+                        patch_page = requests.get(url)
+
+                        cves = re.findall(cve_pattern, str(patch_page.content))
+                        for cve in cves:
+                            patched_cves.append(cve)
+
+                        time.sleep(1)
 
                     # remove patched cves from base cves
                     base_cves = [cve for cve in base_cves if cve["id"] not in set(patched_cves)]
-
                     all_versions_cves_dict[patch["build"]] = {
                         "cves": base_cves,
                         # use cpe of the main release
                         "cpe": all_versions_cves_dict[crono_ordered_versions[0]["build"]]["cpe"]
                     }
 
-                    time.sleep(1)
 
         else:
             print("main release not found: %s" % version)
