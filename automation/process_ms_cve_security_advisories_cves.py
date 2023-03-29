@@ -96,6 +96,10 @@ for version in versions_cves:
 
 # process cves
 for cve in unique_cves:
+    if int(cve[4:8]) < 2020:
+        # skip old cves
+        continue
+
     # get affected versions via MS API
     url = "https://api.msrc.microsoft.com/sug/v2.0/en-US/affectedProduct?$filter=cveNumber%20eq%20%27{}%27&$top=500".format(
         cve)
@@ -109,18 +113,41 @@ for cve in unique_cves:
             print("skipping %s" % affected_version["product"])
             continue
 
-        productId = str(affected_version["productId"]) 
+        productId = str(affected_version["productId"])
+        build = None
 
         if productId not in product_id_build_map.keys():
-            build = find_build_by_product_name(
-                affected_version["product"], versions)
-            if build is None and interactive:
-                build = input(
-                    "ProductId=%s Not Found. Enter 3 first build numbers for version: %s (press Enter to skip)\n" % (productId, affected_version["product"]))
-                build = build.strip()
-                if build == '':
-                    print("skipping %s" % affected_version["product"])
-                    continue
+            # find the name via kbArticles[].fixedBuildNumber
+            if "kbArticles" in affected_version.keys():
+                for kbArticle in affected_version["kbArticles"]:
+                    if "fixedBuildNumber" in kbArticle.keys():
+                        print("found build %s for %s" % (
+                            kbArticle["fixedBuildNumber"], affected_version["product"]))
+                        build = kbArticle["fixedBuildNumber"]
+                        # remove leading zeros
+                        build = ".".join([str(int(v))
+                                         for v in build.split(".")])
+                        build = build[:build.rfind(".")]  # remove patch number
+                        print("short_build: %s" % build)
+
+                        product_id_build_map[productId] = build
+                        break
+
+            # find build by string matching of product name
+            if build is None:
+                build = find_build_by_product_name(
+                    affected_version["product"], versions)
+                if build is None:
+                    if interactive:
+                        build = input(
+                            "ProductId=%s Not Found. Enter 3 first build numbers for version: %s (press Enter to skip)\n" % (productId, affected_version["product"]))
+                        build = build.strip()
+                        if build == '':
+                            print("skipping %s" % affected_version["product"])
+                            continue
+                    else:
+                        sys.exit(
+                            "ERROR: %s could not be mapped, run the script with `interactive` arg and commit the `product_id_build_map.json` file." % affected_version["product"])
 
             product_id_build_map[productId] = build
         else:
@@ -149,6 +176,7 @@ for version in versions_cves.keys():
         print("skipping %s" % version)
         continue
 
+    cves = []
     for cve in versions_cves[version]["cves"]:
         if cve["id"] in cves_affected_products_dict.keys():
             product_version = version[:version.rfind(".")]
@@ -156,8 +184,10 @@ for version in versions_cves.keys():
                 patch_date = datetime.strptime(
                     cves_affected_products_dict[cve["id"]][product_version]["releaseDate"], '%Y-%m-%dT%H:%M:%SZ')
 
-                if version_release_date >= patch_date:
-                    versions_cves[version]["cves"].remove(cve)
+                # if version release date is older than the patch, still vulnerable
+                if version_release_date.date() < patch_date.date():
+                    cves.append(cve)
+    versions_cves[version]["cves"] = cves
 
 with open(output_file, "w") as output:
     json.dump(versions_cves, output, indent=4, sort_keys=True)

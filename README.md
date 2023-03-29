@@ -104,4 +104,6 @@ If so, the files [ms-exchange-versions-dict.json](./ms-exchange-versions-dict.js
 
 3. [update_patches_exchange_versions_cves.py](./automation/update_patches_exchange_versions_cves.py) tries to fix this issue by parsing each security update and removing the fixed CVE's from the immediate previous version.
 
+4. [process_ms_cve_security_advisories_cves.py](./automation/process_ms_cve_security_advisories_cves.py) uses the `affectedProduct` Microsoft API (https://api.msrc.microsoft.com/sug/v2.0/en-US/affectedProduct) to fetch the security updates of affected products for each CVE, removes a CVE from the list of vulnerabilities for a given version if the MS Exchange version is newer or equal than release date of the security update.
+
 > credits to @rommelfs for the crawler to auto update the versions dictionary.
