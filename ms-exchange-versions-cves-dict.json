@@ -1127,8 +1127,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -1412,8 +1412,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -1641,8 +1641,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -1838,8 +1838,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -2291,8 +2291,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -2464,8 +2464,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -2629,8 +2629,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -2778,8 +2778,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -2903,8 +2903,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -3332,8 +3332,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -3449,8 +3449,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -3558,8 +3558,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -3979,8 +3979,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -4056,8 +4056,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -4117,8 +4117,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -4154,8 +4154,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -4596,8 +4596,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -4993,8 +4993,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -5366,8 +5366,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -9792,40 +9792,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -9901,40 +9901,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -9978,40 +9978,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -10204,40 +10204,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -10377,40 +10377,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -10671,40 +10671,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -10780,40 +10780,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -10857,40 +10857,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -11083,40 +11083,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -11256,40 +11256,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -13525,40 +13525,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -13722,40 +13722,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -13903,40 +13903,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14076,40 +14076,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14201,40 +14201,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14310,40 +14310,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14387,40 +14387,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14709,40 +14709,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
@@ -14954,40 +14954,40 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21764",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21762",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 8.0,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21745",
-                "last-modified": "2023-01-18T14:14:00",
-                "summary": "Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Spoofing Vulnerability"
             },
             {
                 "cvss": 7.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21761",
-                "last-modified": "2023-01-18T18:31:00",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 7.8,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2023-21763",
-                "last-modified": "2023-01-18T18:32:00",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764."
+                "last-modified": "2023-04-27T19:15:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 8.8,
