@@ -2713,5 +2713,13 @@
         "urls": [
             "https://support.microsoft.com/help/5024296"
         ]
+    },
+    "15.2.1258.12": {
+        "name": "Exchange Server 2019 CU13 (2023H1)",
+        "release_date": "May 3, 2023",
+        "build": "15.2.1258.12",
+        "urls": [
+            "https://www.microsoft.com/download/details.aspx?familyID=f4406d99-fc26-451f-85c1-eaaa8b250fd6"
+        ]
     }
 }

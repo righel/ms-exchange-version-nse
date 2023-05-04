@@ -11325,6 +11325,10 @@
             }
         ]
     },
+    "15.2.1258.12": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.2.191.1": {
         "cpe": null,
         "cves": []
