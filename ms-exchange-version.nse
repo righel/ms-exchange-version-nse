@@ -113,74 +113,10 @@ local function get_owa_build(host, port, build_version_map)
     return nil
 end
 
-local function check_cve_2022_41040_41082_mitigation(host, port, build)
-    local http_options = get_http_options(host, port)
-    http_options["redirect_ok"] = false
-
-    local result = {
-        vuln = false,
-        mitigation = false,
-        bypassable = false
-    }
-
-    local response = http.get(host.targetname or host.ip, port, "/autodiscover/autodiscover.json?a@foo.var/owa/&Email=autodiscover/autodiscover.json?a@foo.var&Protocol=XYZ&FooProtocol=Powershell", http_options)
-
-    if response.header['x-feserver'] ~= nil then
-        result.vuln = true
-    else
-        local response = http.get(host.targetname or host.ip, port, "/autodiscover/autodiscover.json?a..foo.var/owa/&Email=autodiscover/autodiscover.json?a..foo.var&Protocol=XYZ&FooProtocol=Powershell", http_options)
-
-        if response.header['x-feserver'] ~= nil then
-            result.vuln = true
-            result.mitigation = true
-            result.bypassable = true
-        end
-    end
-
-    return result
-end
-
 local function get_cves(host, port, cves_map, build)
     local cves = {}
     if cves_map[build] ~= nil then
         cves = cves_map[build]["cves"]
-    end
-
-    local proxy_not_shell = check_cve_2022_41040_41082_mitigation(host, port, build)
-
-    if proxy_not_shell.vuln then
-        local info = ""
-        if (proxy_not_shell.mitigation) then
-            if (proxy_not_shell.bypassable) then
-                info = "Initial mitigation applied (bypassable)"
-            end
-        else
-            info = "Mitigation not applied"
-        end
-
-        table.insert(cves, {
-            id = "CVE-2022-41040",
-            cvss = 8.8,
-            cwe = "CWE-269",
-            summary = "Microsoft Exchange Server Elevation of Privilege Vulnerability.",
-            info = info
-        })
-        table.insert(cves, {
-            id = "CVE-2022-41082",
-            cvss = 8.8,
-            cwe = "NVD-CWE-noinfo",
-            summary = "Microsoft Exchange Server Remote Code Execution Vulnerability.",
-            info = info
-        })
-    
-    else
-        -- not vulnerable to CVE-2022-41040/41082
-        for i=#cves,1,-1 do
-            cve = cves[i]
-            if cve.id == "CVE-2022-41040" or cve.id == "CVE-2022-41082" then
-                table.remove(cves, i)
-            end
-        end
     end
 
     return cves
