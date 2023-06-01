@@ -1051,12 +1051,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -1336,12 +1336,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -1565,12 +1565,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -1762,12 +1762,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -2215,12 +2215,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -2388,12 +2388,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -2553,12 +2553,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -2702,12 +2702,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -2827,12 +2827,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -3256,12 +3256,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -3373,12 +3373,12 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -3482,12 +3482,12 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -3903,12 +3903,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -4520,12 +4520,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -4917,12 +4917,12 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2020-17084."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -5290,12 +5290,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -8856,12 +8856,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -8892,8 +8892,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9005,12 +9005,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9041,8 +9041,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9130,12 +9130,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9166,8 +9166,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9239,12 +9239,12 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9275,8 +9275,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9340,12 +9340,12 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9376,8 +9376,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9639,12 +9639,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -9675,8 +9675,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -10104,12 +10104,12 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -10140,8 +10140,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -10277,12 +10277,12 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -10313,8 +10313,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -10983,12 +10983,12 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -11019,8 +11019,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -11156,12 +11156,12 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -11192,8 +11192,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13429,12 +13429,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13465,8 +13465,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13626,12 +13626,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13662,8 +13662,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13807,12 +13807,12 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13843,8 +13843,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -13980,12 +13980,12 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -14016,8 +14016,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -14613,12 +14613,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -14649,8 +14649,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -14858,12 +14858,12 @@
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability."
             },
             {
-                "cvss": 4.3,
+                "cvss": 6.5,
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-30134",
-                "last-modified": "2022-09-22T16:58:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-34692."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
@@ -14894,8 +14894,8 @@
                 "cvss-time": null,
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2022-34692",
-                "last-modified": "2022-08-12T19:17:00",
-                "summary": "Microsoft Exchange Information Disclosure Vulnerability. This CVE ID is unique from CVE-2022-21979, CVE-2022-30134."
+                "last-modified": "2023-05-31T19:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.0,
