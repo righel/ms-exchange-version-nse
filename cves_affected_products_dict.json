@@ -2812,6 +2812,23 @@
             "releaseDate": "2023-02-14T08:00:00Z"
         }
     },
+    "CVE-2023-21709": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1118": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
+            "productId": "12038",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1258": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 13",
+            "productId": "12191",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        }
+    },
     "CVE-2023-21710": {
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
@@ -2951,6 +2968,40 @@
             "product": "Microsoft Exchange Server 2019 Cumulative Update 13",
             "productId": "12191",
             "releaseDate": "2023-06-13T07:00:00Z"
+        }
+    },
+    "CVE-2023-35388": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1118": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
+            "productId": "12038",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1258": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 13",
+            "productId": "12191",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        }
+    },
+    "CVE-2023-38185": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1118": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
+            "productId": "12038",
+            "releaseDate": "2023-08-08T07:00:00Z"
+        },
+        "15.2.1258": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 13",
+            "productId": "12191",
+            "releaseDate": "2023-08-08T07:00:00Z"
         }
     }
 }
