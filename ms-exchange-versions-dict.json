@@ -2494,6 +2494,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5029388"
             ]
+        },
+        {
+            "name": "Exchange Server 2016 CU23 Aug23SUv2",
+            "release_date": "August 15, 2023",
+            "build": "15.1.2507.32",
+            "urls": [
+                "https://support.microsoft.com/help/5030524"
+            ]
         }
     ],
     "15.2.191": [
@@ -3106,6 +3114,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5029388"
             ]
+        },
+        {
+            "name": "Exchange Server 2019 CU12 Aug23SUv2",
+            "release_date": "August 15, 2023",
+            "build": "15.2.1118.37",
+            "urls": [
+                "https://support.microsoft.com/help/5030524"
+            ]
         }
     ],
     "15.2.1258": [
@@ -3131,6 +3147,14 @@
             "build": "15.2.1258.23",
             "urls": [
                 "https://support.microsoft.com/help/5029388"
+            ]
+        },
+        {
+            "name": "Exchange Server 2019 CU13 Aug23SUv2",
+            "release_date": "August 15, 2023",
+            "build": "15.2.1258.25",
+            "urls": [
+                "https://support.microsoft.com/help/5030524"
             ]
         }
     ]
