@@ -1107,7 +1107,7 @@
             "release_date": "February 12, 2019",
             "build": "14.3.442.0",
             "urls": [
-                "https://www.microsoft.com/download/details.aspx?id=57824"
+                "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/exchange2010-kb4487052-x64-en_da5f4eacaa548c75cc4055144d7221f115efd763.cab"
             ]
         }
     ],
@@ -1117,7 +1117,7 @@
             "release_date": "April 9, 2019",
             "build": "14.3.452.0",
             "urls": [
-                "https://www.microsoft.com/download/details.aspx?id=58196"
+                "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/exchange2010-kb4491413-x64-en_670ad64849aa7180ee6457aac2358ad16200b2de.cab"
             ]
         }
     ],
@@ -1127,7 +1127,7 @@
             "release_date": "June 7, 2019",
             "build": "14.3.461.1",
             "urls": [
-                "https://www.microsoft.com/download/details.aspx?id=58354"
+                "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/exchange2010-kb4503028-x64-en_9d7dd6b4b1719c1ab46c733150af3ff88cc6a310.cab"
             ]
         }
     ],
@@ -1137,7 +1137,7 @@
             "release_date": "July 9, 2019",
             "build": "14.3.468.0",
             "urls": [
-                "https://www.microsoft.com/download/details.aspx?id=58476"
+                "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/exchange2010-kb4509410-x64-en_89bf203b193215a3b78b37acf9e5dd579486b41d.cab"
             ]
         }
     ],
@@ -1505,9 +1505,7 @@
             "name": "Exchange Server 2013 CU22",
             "release_date": "February 12, 2019",
             "build": "15.0.1473.3",
-            "urls": [
-                "https://www.microsoft.com/download/details.aspx?id=57826"
-            ]
+            "urls": []
         },
         {
             "name": "Exchange Version 2013  CU22  +  KB4503028",
