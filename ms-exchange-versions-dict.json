@@ -3203,5 +3203,23 @@
                 "https://support.microsoft.com/help/5032146"
             ]
         }
+    ],
+    "15.2.1544": [
+        {
+            "name": "Exchange Server 2019 CU14 (2024H1)",
+            "release_date": "February 13, 2024",
+            "build": "15.2.1544.04",
+            "urls": [
+                "https://www.microsoft.com/download/details.aspx?familyID=9fbd842e-828a-408a-b562-5632a8a827ab"
+            ]
+        },
+        {
+            "name": "Exchange Version 2019 CU14 (2024 H1)",
+            "release_date": "January, 2024",
+            "build": "15.2.1544.4",
+            "urls": [
+                "https://support.microsoft.com/en-us/topic/cumulative-update-14-for-exchange-server-2019-kb5035606-5d08ad6d-3527-41c9-82b6-e19d3ddf94db"
+            ]
+        }
     ]
 }

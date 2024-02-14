@@ -900,10 +900,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -1233,10 +1233,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -1896,10 +1896,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -1984,10 +1984,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -2961,10 +2961,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -3049,10 +3049,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -3616,10 +3616,10 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -3696,10 +3696,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -4321,10 +4321,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -4726,10 +4726,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -5115,10 +5115,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -6527,10 +6527,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -6580,10 +6580,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -6658,10 +6658,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -7797,10 +7797,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -7954,10 +7954,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -8095,10 +8095,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -8229,10 +8229,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -14350,6 +14350,14 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
         "cves": []
     },
+    "15.2.1544.04": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+        "cves": []
+    },
+    "15.2.1544.4": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.2.191.1": {
         "cpe": null,
         "cves": []
@@ -14659,10 +14667,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -14704,10 +14712,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -14745,10 +14753,10 @@
         "cves": [
             {
                 "cvss": 9.0,
-                "cvss-time": "2022-07-12T17:42:00",
+                "cvss-time": "2024-02-13T17:23:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2020-0688",
-                "last-modified": "2022-07-12T17:42:00",
+                "last-modified": "2024-02-13T17:23:00",
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
             },
             {
@@ -15302,10 +15310,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -15444,10 +15452,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -15601,10 +15609,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -15844,10 +15852,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
@@ -15961,10 +15969,10 @@
             },
             {
                 "cvss": 7.5,
-                "cvss-time": "2023-12-28T23:15:00",
+                "cvss-time": "2024-02-13T17:20:00",
                 "cwe": "CWE-287",
                 "id": "CVE-2021-34523",
-                "last-modified": "2023-12-28T23:15:00",
+                "last-modified": "2024-02-13T17:20:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
