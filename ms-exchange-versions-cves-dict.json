@@ -9986,6 +9986,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10223,6 +10231,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10428,6 +10444,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10593,6 +10617,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10726,6 +10758,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10859,6 +10899,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -10976,6 +11024,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -11053,6 +11109,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -11098,6 +11162,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -11135,12 +11207,29 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
     "15.1.2507.35": {
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            }
+        ]
     },
     "15.1.2507.6": {
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
@@ -11448,6 +11537,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -11749,6 +11846,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -14067,6 +14172,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -14184,6 +14297,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -14261,6 +14382,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -14306,6 +14435,14 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -14343,12 +14480,29 @@
                 "id": "CVE-2023-36039",
                 "last-modified": "2023-11-20T19:52:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
     "15.2.1258.28": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 9.8,
+                "cvss-time": null,
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2024-21410",
+                "last-modified": "2024-02-26T21:10:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            }
+        ]
     },
     "15.2.1544.04": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
