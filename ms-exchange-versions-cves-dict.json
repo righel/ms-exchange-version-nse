@@ -14504,10 +14504,6 @@
             }
         ]
     },
-    "15.2.1544.04": {
-        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
-        "cves": []
-    },
     "15.2.1544.4": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
         "cves": []

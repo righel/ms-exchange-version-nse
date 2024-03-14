@@ -3206,14 +3206,6 @@
     ],
     "15.2.1544": [
         {
-            "name": "Exchange Server 2019 CU14 (2024H1)",
-            "release_date": "February 13, 2024",
-            "build": "15.2.1544.04",
-            "urls": [
-                "https://www.microsoft.com/download/details.aspx?familyID=9fbd842e-828a-408a-b562-5632a8a827ab"
-            ]
-        },
-        {
             "name": "Exchange Version 2019 CU14 (2024 H1)",
             "release_date": "January, 2024",
             "build": "15.2.1544.4",

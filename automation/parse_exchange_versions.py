@@ -114,6 +114,9 @@ def parse_eightwone_versions():
             if build == "v2:15.0.712.24 (v1:15.0.712.22)":
                 build = "15.0.712.24"
 
+            if build == "15.2.1544.04":
+                build = "15.2.1544.4"
+
             release_date = convert_short_date_to_long(
                 row[2].text_content().strip())
 
