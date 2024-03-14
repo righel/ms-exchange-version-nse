@@ -2516,6 +2516,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5032147"
             ]
+        },
+        {
+            "name": "Exchange Server 2016 CU23 Mar24SU",
+            "release_date": "March 12, 2024",
+            "build": "15.1.2507.37",
+            "urls": [
+                "https://support.microsoft.com/help/5036386"
+            ]
         }
     ],
     "15.2.191": [
@@ -3202,15 +3210,31 @@
             "urls": [
                 "https://support.microsoft.com/help/5032146"
             ]
+        },
+        {
+            "name": "Exchange Server 2019 CU13 Mar24SU",
+            "release_date": "March 12, 2024",
+            "build": "15.2.1258.32",
+            "urls": [
+                "https://support.microsoft.com/help/5036402"
+            ]
         }
     ],
     "15.2.1544": [
         {
-            "name": "Exchange Version 2019 CU14 (2024 H1)",
-            "release_date": "January, 2024",
+            "name": "Exchange Server 2019 CU14 (2024H1)",
+            "release_date": "February 13, 2024",
             "build": "15.2.1544.4",
             "urls": [
-                "https://support.microsoft.com/en-us/topic/cumulative-update-14-for-exchange-server-2019-kb5035606-5d08ad6d-3527-41c9-82b6-e19d3ddf94db"
+                "https://www.microsoft.com/download/details.aspx?familyID=9fbd842e-828a-408a-b562-5632a8a827ab"
+            ]
+        },
+        {
+            "name": "Exchange Server 2019 CU14 Mar24SU",
+            "release_date": "March 12, 2024",
+            "build": "15.2.1544.9",
+            "urls": [
+                "https://support.microsoft.com/help/5036401"
             ]
         }
     ]
