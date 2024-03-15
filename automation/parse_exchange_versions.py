@@ -116,6 +116,15 @@ def parse_eightwone_versions():
 
             if build == "15.2.1544.04":
                 build = "15.2.1544.4"
+                
+            if build == "15.1.2044.8":
+                name = convert_short_name_to_long("2019CU17+KB581424")
+
+            if build == "15.1.1713.9":
+                name = convert_short_name_to_long("2016CU12+ KB4515832")
+
+            if build == "15.1.1713.8":
+                name = convert_short_name_to_long("2016 CU12 + KB4509409")
 
             release_date = convert_short_date_to_long(
                 row[2].text_content().strip())

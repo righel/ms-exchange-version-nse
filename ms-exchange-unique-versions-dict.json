@@ -1669,7 +1669,7 @@
         ]
     },
     "15.1.1713.8": {
-        "name": "Exchange Version 2016  CU13  +  KB4509409",
+        "name": "Exchange Version 2016  CU12  +  KB4509409",
         "release_date": "July, 2019",
         "build": "15.1.1713.8",
         "urls": [
@@ -1677,7 +1677,7 @@
         ]
     },
     "15.1.1713.9": {
-        "name": "Exchange Version 2016 CU1 +  KB4515832",
+        "name": "Exchange Version 2016 CU12 +  KB4515832",
         "release_date": "September, 2019",
         "build": "15.1.1713.9",
         "urls": [
@@ -1827,7 +1827,7 @@
         ]
     },
     "15.1.2044.8": {
-        "name": "Exchange Version 2019 CU7 + KB581424",
+        "name": "Exchange Version 2019 CU17 + KB581424",
         "release_date": "November, 2020",
         "build": "15.1.2044.8",
         "urls": [
