@@ -18,13 +18,27 @@ categories = {"version", "safe"}
 portrule = shortport.service({"http", "https"})
 
 local function get_http_options(host, port)
+    
+    local headers = {
+        ["User-Agent"] = "nmap: ms-exchange-version.nse",
+        ["Content-Type"] = "text/html; charset=utf-8"
+    }
+
+    if stdnse.get_script_args("browser") then
+        headers = {
+            ["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            ["Content-Type"] = "text/html; charset=utf-8",
+            ["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            ["Accept-Language"] = "en-US,en;q=0.5",
+            ["Accept-Encoding"] = "gzip, deflate, br",
+            ["Connection"] = "keep-alive"
+        }
+    end
+    
     return {
         scheme = port.service,
         max_body_size = -1,
-        header = {
-            ["User-Agent"] = "nmap: ms-exchange-version.nse",
-            ["Content-Type"] = "text/html; charset=utf-8"
-        }
+        header = headers
     }
 end
 

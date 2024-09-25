@@ -20,9 +20,9 @@ PORT    STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
 ```
 
-Experimental: 
+#### Options 
 
-* `--script-args=showcves`:
+* `--script-args=showcves`: List of plausible CVEs affecting the detected version.
 ```
 $ nmap -p 443 --script ms-exchange-version.nse --script-args=showcves <target>
 Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-19 15:58 CET
@@ -52,7 +52,7 @@ PORT    STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
 ```
 
-* `--script-args=showcpe`:
+* `--script-args=showcpe`: Show CPEs of the running MS Exchange.
 ```
 $ nmap -p 443 --script ms-exchange-version.nse --script-args=showcves,http.max-cache-size=10000000 <target>
 Starting Nmap 7.80 ( https://nmap.org ) at 2021-12-09 09:53 CET
@@ -66,6 +66,15 @@ PORT    STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 1.19 seconds
 ```
+
+
+* `--script-args=browser`:
+Mimic a browser (Chrome) headers to avoid WAF filtering.
+```
+$ nmap -p 443 --script ms-exchange-version.nse --script-args=browser <target>
+...
+```
+
 
 #### Multiple targets
 If you plan to scan multiple targets, add the following argument: `http.max-cache-size=10000000`
