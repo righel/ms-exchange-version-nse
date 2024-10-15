@@ -5621,7 +5621,16 @@
     },
     "15.1.1034.33": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2018-01-02T17:25:00",
+                "cwe": "CWE-20",
+                "id": "CVE-2017-11932",
+                "last-modified": "2018-01-02T17:25:00",
+                "summary": "Microsoft Exchange Server 2016 CU5 and Microsoft Exchange Server 2016 CU5 allow a spoofing vulnerability due to the way Outlook Web Access (OWA) validates web requests, aka \"Microsoft Exchange Spoofing Vulnerability\"."
+            }
+        ]
     },
     "15.1.1261.35": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
@@ -8001,6 +8010,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 9.0,
+                "cvss-time": "2023-12-30T00:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17117",
+                "last-modified": "2023-12-30T00:15:00",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
                 "cvss": 7.5,
                 "cvss-time": "2024-02-15T20:18:00",
                 "cwe": "CWE-918",
@@ -8057,12 +8074,44 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
+                "cvss": 6.5,
+                "cvss-time": "2023-12-30T00:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17132",
+                "last-modified": "2023-12-30T00:15:00",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 6.5,
+                "cvss-time": "2023-12-30T00:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17142",
+                "last-modified": "2023-12-30T00:15:00",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 6.5,
+                "cvss-time": "2023-12-30T00:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17143",
+                "last-modified": "2023-12-30T00:15:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
                 "cvss": 6.0,
                 "cvss-time": "2023-12-29T17:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-24085",
                 "last-modified": "2023-12-29T17:15:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 6.0,
+                "cvss-time": "2023-12-30T00:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17141",
+                "last-modified": "2023-12-30T00:15:00",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 5.8,
@@ -12472,7 +12521,32 @@
     },
     "15.1.845.36": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 5.8,
+                "cvss-time": "2017-07-17T18:48:00",
+                "cwe": "CWE-601",
+                "id": "CVE-2017-8621",
+                "last-modified": "2017-07-17T18:48:00",
+                "summary": "Microsoft Exchange Server 2010 SP3, Exchange Server 2013 SP3, Exchange Server 2013 CU16, and Exchange Server 2016 CU5 allows an open redirect vulnerability that could lead to spoofing, aka \"Microsoft Exchange Open Redirect Vulnerability\"."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2017-07-14T13:21:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2017-8560",
+                "last-modified": "2017-07-14T13:21:00",
+                "summary": "Microsoft Exchange Server 2010 SP3, Exchange Server 2013 SP3, Exchange Server 2013 CU16, and Exchange Server 2016 CU5 allows an elevation of privilege vulnerability due to the way that Exchange Outlook Web Access (OWA) handles web requests, aka \"Microsoft Exchange Cross-Site Scripting Vulnerability\". This CVE ID is unique from CVE-2017-8559."
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2017-07-14T13:25:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2017-8559",
+                "last-modified": "2017-07-14T13:25:00",
+                "summary": "Microsoft Exchange Server 2010 SP3, Exchange Server 2013 SP3, Exchange Server 2013 CU16, and Exchange Server 2016 CU5 allows an elevation of privilege vulnerability due to the way that Exchange Outlook Web Access (OWA) handles web requests, aka \"Microsoft Exchange Cross-Site Scripting Vulnerability\". This CVE ID is unique from CVE-2017-8560."
+            }
+        ]
     },
     "15.2.1118.12": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
