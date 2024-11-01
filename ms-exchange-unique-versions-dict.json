@@ -2015,7 +2015,7 @@
         "release_date": "September 28, 2021",
         "build": "15.1.2375.7",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=a7d608a2-d81b-46af-8753-8c3c2ea1f783"
+            "https://www.microsoft.com/download/details.aspx?id=103478"
         ]
     },
     "15.1.2375.12": {
@@ -2087,7 +2087,7 @@
         "release_date": "April 20, 2022",
         "build": "15.1.2507.6",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=ad395419-4d2f-4eb0-97fb-a5b88ab814e1"
+            "https://www.microsoft.com/download/details.aspx?id=104132"
         ]
     },
     "15.1.2507.9": {
@@ -2613,7 +2613,7 @@
         "release_date": "September 28, 2021",
         "build": "15.2.986.5",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=40be4769-0188-4b1a-a023-1a3ecb919870"
+            "https://www.microsoft.com/download/details.aspx?id=103477"
         ]
     },
     "15.2.986.9": {
@@ -2709,7 +2709,7 @@
         "release_date": "April 20, 2022",
         "build": "15.2.1118.7",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=a149e06c-62f4-4b62-adf8-7d382223a239"
+            "https://www.microsoft.com/download/details.aspx?id=104131"
         ]
     },
     "15.2.1118.9": {
@@ -2813,7 +2813,7 @@
         "release_date": "May 3, 2023",
         "build": "15.2.1258.12",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=f4406d99-fc26-451f-85c1-eaaa8b250fd6"
+            "https://www.microsoft.com/download/details.aspx?id=105180"
         ]
     },
     "15.2.1258.16": {
@@ -2877,7 +2877,7 @@
         "release_date": "February 13, 2024",
         "build": "15.2.1544.4",
         "urls": [
-            "https://www.microsoft.com/download/details.aspx?familyID=9fbd842e-828a-408a-b562-5632a8a827ab"
+            "https://www.microsoft.com/download/details.aspx?id=105878"
         ]
     },
     "15.2.1544.9": {
