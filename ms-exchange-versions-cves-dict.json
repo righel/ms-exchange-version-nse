@@ -4878,6 +4878,14 @@
             },
             {
                 "cvss": 4.3,
+                "cvss-time": "2023-12-31T20:15:00",
+                "cwe": "NVD-CWE-Other",
+                "id": "CVE-2020-16969",
+                "last-modified": "2023-12-31T20:15:00",
+                "summary": "<p>An information disclosure vulnerability exists in how Microsoft Exchange validates tokens when handling certain messages. An attacker who successfully exploited the vulnerability could use this to gain further information from a user.</p>\n<p>To exploit the vulnerability, an attacker could include specially crafted OWA messages that could be loaded, without warning or filtering, from the attacker-controlled URL. This callback vector provides an information disclosure tactic used in web beacons and other types of tracking systems.</p>\n<p>The security update corrects the way that Exchange handles these token validations.</p>\n"
+            },
+            {
+                "cvss": 4.3,
                 "cvss-time": "2023-12-28T16:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-42305",
@@ -5056,6 +5064,14 @@
                 "id": "CVE-2020-17117",
                 "last-modified": "2023-12-30T00:15:00",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.0,
+                "cvss-time": "2023-12-31T19:15:00",
+                "cwe": "CWE-120",
+                "id": "CVE-2020-17084",
+                "last-modified": "2023-12-31T19:15:00",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 8.3,
@@ -5272,6 +5288,22 @@
                 "id": "CVE-2021-41349",
                 "last-modified": "2023-12-28T16:15:00",
                 "summary": "Microsoft Exchange Server Spoofing Vulnerability"
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2023-12-31T19:15:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2020-17085",
+                "last-modified": "2023-12-31T19:15:00",
+                "summary": "Microsoft Exchange Server Denial of Service Vulnerability"
+            },
+            {
+                "cvss": 3.5,
+                "cvss-time": "2023-12-31T19:15:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2020-17083",
+                "last-modified": "2023-12-31T19:15:00",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 6.5,
@@ -5998,6 +6030,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 10.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-787",
+                "id": "CVE-2019-0586",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka \"Microsoft Exchange Memory Corruption Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
                 "cvss": 7.5,
                 "cvss-time": "2024-02-15T20:18:00",
                 "cwe": "CWE-918",
@@ -6028,6 +6068,14 @@
                 "id": "CVE-2021-27065",
                 "last-modified": "2024-07-25T17:34:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-732",
+                "id": "CVE-2019-0588",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "An information disclosure vulnerability exists when the Microsoft Exchange PowerShell API grants calendar contributors more view permissions than intended, aka \"Microsoft Exchange Information Disclosure Vulnerability.\" This affects Microsoft Exchange Server."
             }
         ]
     },
@@ -7562,6 +7610,14 @@
                 "id": "CVE-2020-17141",
                 "last-modified": "2023-12-30T00:15:00",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2023-12-31T20:15:00",
+                "cwe": "NVD-CWE-Other",
+                "id": "CVE-2020-16969",
+                "last-modified": "2023-12-31T20:15:00",
+                "summary": "<p>An information disclosure vulnerability exists in how Microsoft Exchange validates tokens when handling certain messages. An attacker who successfully exploited the vulnerability could use this to gain further information from a user.</p>\n<p>To exploit the vulnerability, an attacker could include specially crafted OWA messages that could be loaded, without warning or filtering, from the attacker-controlled URL. This callback vector provides an information disclosure tactic used in web beacons and other types of tracking systems.</p>\n<p>The security update corrects the way that Exchange handles these token validations.</p>\n"
             },
             {
                 "cvss": 4.0,
