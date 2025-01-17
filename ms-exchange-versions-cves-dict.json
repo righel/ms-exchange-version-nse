@@ -1509,6 +1509,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 10.0,
+                "cvss-time": "2024-07-26T19:26:00",
+                "cwe": "CWE-918",
+                "id": "CVE-2021-34473",
+                "last-modified": "2024-07-26T19:26:00",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
                 "cvss": 8.3,
                 "cvss-time": "2023-12-21T01:15:00",
                 "cwe": "NVD-CWE-noinfo",
@@ -1539,6 +1547,14 @@
                 "id": "CVE-2022-21969",
                 "last-modified": "2023-12-21T01:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": "2024-02-13T17:20:00",
+                "cwe": "CWE-287",
+                "id": "CVE-2021-34523",
+                "last-modified": "2024-02-13T17:20:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 7.2,
@@ -1611,6 +1627,14 @@
                 "id": "CVE-2021-34470",
                 "last-modified": "2023-12-28T23:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            },
+            {
+                "cvss": 5.0,
+                "cvss-time": "2024-07-24T16:45:00",
+                "cwe": "CWE-287",
+                "id": "CVE-2021-33766",
+                "last-modified": "2024-07-24T16:45:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 4.3,
@@ -1738,6 +1762,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 10.0,
+                "cvss-time": "2024-07-26T19:26:00",
+                "cwe": "CWE-918",
+                "id": "CVE-2021-34473",
+                "last-modified": "2024-07-26T19:26:00",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
                 "cvss": 8.3,
                 "cvss-time": "2023-12-21T01:15:00",
                 "cwe": "NVD-CWE-noinfo",
@@ -1768,6 +1800,14 @@
                 "id": "CVE-2022-21969",
                 "last-modified": "2023-12-21T01:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.5,
+                "cvss-time": "2024-02-13T17:20:00",
+                "cwe": "CWE-287",
+                "id": "CVE-2021-34523",
+                "last-modified": "2024-02-13T17:20:00",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
                 "cvss": 7.2,
@@ -1808,6 +1848,14 @@
                 "id": "CVE-2021-34470",
                 "last-modified": "2023-12-28T23:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            },
+            {
+                "cvss": 5.0,
+                "cvss-time": "2024-07-24T16:45:00",
+                "cwe": "CWE-287",
+                "id": "CVE-2021-33766",
+                "last-modified": "2024-07-24T16:45:00",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 4.3,
@@ -3256,14 +3304,6 @@
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             },
             {
-                "cvss": 5.1,
-                "cvss-time": "2020-08-24T17:37:00",
-                "cwe": "NVD-CWE-noinfo",
-                "id": "CVE-2019-1136",
-                "last-modified": "2020-08-24T17:37:00",
-                "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'."
-            },
-            {
                 "cvss": 5.0,
                 "cvss-time": "2024-07-24T16:45:00",
                 "cwe": "CWE-287",
@@ -3297,27 +3337,11 @@
             },
             {
                 "cvss": 4.0,
-                "cvss-time": "2020-05-04T14:14:00",
-                "cwe": "CWE-200",
-                "id": "CVE-2019-1084",
-                "last-modified": "2020-05-04T14:14:00",
-                "summary": "An information disclosure vulnerability exists when Exchange allows creation of entities with Display Names having non-printable characters. An authenticated attacker could exploit this vulnerability by creating entities with invalid display names, which, when added to conversations, remain invisible. This security update addresses the issue by validating display names upon creation in Microsoft Exchange, and by rendering invalid display names correctly in Microsoft Outlook clients., aka 'Microsoft Exchange Information Disclosure Vulnerability'."
-            },
-            {
-                "cvss": 4.0,
                 "cvss-time": "2023-12-31T19:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2020-17085",
                 "last-modified": "2023-12-31T19:15:00",
                 "summary": "Microsoft Exchange Server Denial of Service Vulnerability"
-            },
-            {
-                "cvss": 3.5,
-                "cvss-time": "2020-04-09T13:19:00",
-                "cwe": "CWE-79",
-                "id": "CVE-2019-1137",
-                "last-modified": "2020-04-09T13:19:00",
-                "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             },
             {
                 "cvss": 3.5,
@@ -3757,14 +3781,6 @@
                 "id": "CVE-2022-21969",
                 "last-modified": "2023-12-21T01:15:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 7.5,
-                "cvss-time": "2019-11-14T19:34:00",
-                "cwe": "CWE-502",
-                "id": "CVE-2019-1373",
-                "last-modified": "2019-11-14T19:34:00",
-                "summary": "A remote code execution vulnerability exists in Microsoft Exchange through the deserialization of metadata via PowerShell, aka 'Microsoft Exchange Remote Code Execution Vulnerability'."
             },
             {
                 "cvss": 7.5,
@@ -4321,14 +4337,6 @@
             },
             {
                 "cvss": 9.0,
-                "cvss-time": "2024-02-13T17:23:00",
-                "cwe": "CWE-287",
-                "id": "CVE-2020-0688",
-                "last-modified": "2024-02-13T17:23:00",
-                "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Memory Corruption Vulnerability'."
-            },
-            {
-                "cvss": 9.0,
                 "cvss-time": "2023-12-29T01:15:00",
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2021-28482",
@@ -4414,14 +4422,6 @@
                 "id": "CVE-2022-21978",
                 "last-modified": "2025-01-02T19:15:00",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
-            },
-            {
-                "cvss": 6.8,
-                "cvss-time": "2021-07-21T11:39:00",
-                "cwe": "NVD-CWE-noinfo",
-                "id": "CVE-2020-0692",
-                "last-modified": "2021-07-21T11:39:00",
-                "summary": "An elevation of privilege vulnerability exists in Microsoft Exchange Server, aka 'Microsoft Exchange Server Elevation of Privilege Vulnerability'."
             },
             {
                 "cvss": 6.8,
@@ -4955,14 +4955,6 @@
                 "id": "CVE-2021-33766",
                 "last-modified": "2024-07-24T16:45:00",
                 "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
-                "cvss": 4.3,
-                "cvss-time": "2023-12-31T20:15:00",
-                "cwe": "NVD-CWE-Other",
-                "id": "CVE-2020-16969",
-                "last-modified": "2023-12-31T20:15:00",
-                "summary": "<p>An information disclosure vulnerability exists in how Microsoft Exchange validates tokens when handling certain messages. An attacker who successfully exploited the vulnerability could use this to gain further information from a user.</p>\n<p>To exploit the vulnerability, an attacker could include specially crafted OWA messages that could be loaded, without warning or filtering, from the attacker-controlled URL. This callback vector provides an information disclosure tactic used in web beacons and other types of tracking systems.</p>\n<p>The security update corrects the way that Exchange handles these token validations.</p>\n"
             },
             {
                 "cvss": 4.3,
@@ -6110,6 +6102,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 10.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-787",
+                "id": "CVE-2019-0586",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka \"Microsoft Exchange Memory Corruption Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
                 "cvss": 7.5,
                 "cvss-time": "2024-02-15T20:18:00",
                 "cwe": "CWE-918",
@@ -6140,6 +6140,14 @@
                 "id": "CVE-2021-27065",
                 "last-modified": "2024-07-25T17:34:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-732",
+                "id": "CVE-2019-0588",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "An information disclosure vulnerability exists when the Microsoft Exchange PowerShell API grants calendar contributors more view permissions than intended, aka \"Microsoft Exchange Information Disclosure Vulnerability.\" This affects Microsoft Exchange Server."
             }
         ]
     },
@@ -6252,6 +6260,14 @@
                 "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka \"Microsoft Exchange Memory Corruption Vulnerability.\" This affects Microsoft Exchange Server."
             },
             {
+                "cvss": 10.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-787",
+                "id": "CVE-2018-8302",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka \"Microsoft Exchange Memory Corruption Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
                 "cvss": 9.3,
                 "cvss-time": "2019-10-03T00:03:00",
                 "cwe": "CWE-20",
@@ -6313,6 +6329,14 @@
                 "cwe": "NVD-CWE-noinfo",
                 "id": "CVE-2018-8604",
                 "last-modified": "2019-10-03T00:03:00",
+                "summary": "A tampering vulnerability exists when Microsoft Exchange Server fails to properly handle profile data, aka \"Microsoft Exchange Server Tampering Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2018-8374",
+                "last-modified": "2020-08-24T17:37:00",
                 "summary": "A tampering vulnerability exists when Microsoft Exchange Server fails to properly handle profile data, aka \"Microsoft Exchange Server Tampering Vulnerability.\" This affects Microsoft Exchange Server."
             }
         ]
@@ -6513,6 +6537,14 @@
                 "id": "CVE-2019-0588",
                 "last-modified": "2020-08-24T17:37:00",
                 "summary": "An information disclosure vulnerability exists when the Microsoft Exchange PowerShell API grants calendar contributors more view permissions than intended, aka \"Microsoft Exchange Information Disclosure Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2019-10-03T00:03:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2018-8604",
+                "last-modified": "2019-10-03T00:03:00",
+                "summary": "A tampering vulnerability exists when Microsoft Exchange Server fails to properly handle profile data, aka \"Microsoft Exchange Server Tampering Vulnerability.\" This affects Microsoft Exchange Server."
             }
         ]
     },
@@ -6818,12 +6850,36 @@
                 "id": "CVE-2019-1266",
                 "last-modified": "2020-08-24T17:37:00",
                 "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web App (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'."
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-05-04T14:14:00",
+                "cwe": "CWE-200",
+                "id": "CVE-2019-1084",
+                "last-modified": "2020-05-04T14:14:00",
+                "summary": "An information disclosure vulnerability exists when Exchange allows creation of entities with Display Names having non-printable characters. An authenticated attacker could exploit this vulnerability by creating entities with invalid display names, which, when added to conversations, remain invisible. This security update addresses the issue by validating display names upon creation in Microsoft Exchange, and by rendering invalid display names correctly in Microsoft Outlook clients., aka 'Microsoft Exchange Information Disclosure Vulnerability'."
+            },
+            {
+                "cvss": 3.5,
+                "cvss-time": "2020-04-09T13:19:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-1137",
+                "last-modified": "2020-04-09T13:19:00",
+                "summary": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server, aka 'Microsoft Exchange Server Spoofing Vulnerability'."
             }
         ]
     },
     "15.1.1713.9": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
         "cves": [
+            {
+                "cvss": 7.8,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2019-1233",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A denial of service vulnerability exists in Microsoft Exchange Server software when the software fails to properly handle objects in memory, aka 'Microsoft Exchange Denial of Service Vulnerability'."
+            },
             {
                 "cvss": 7.5,
                 "cvss-time": "2024-02-15T20:18:00",
@@ -6855,6 +6911,14 @@
                 "id": "CVE-2021-27065",
                 "last-modified": "2024-07-25T17:34:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 4.3,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-79",
+                "id": "CVE-2019-1266",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web App (OWA) fails to properly handle web requests, aka 'Microsoft Exchange Spoofing Vulnerability'."
             }
         ]
     },
