@@ -5844,6 +5844,14 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
         "cves": [
             {
+                "cvss": 10.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "CWE-787",
+                "id": "CVE-2018-8302",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A remote code execution vulnerability exists in Microsoft Exchange software when the software fails to properly handle objects in memory, aka \"Microsoft Exchange Memory Corruption Vulnerability.\" This affects Microsoft Exchange Server."
+            },
+            {
                 "cvss": 7.5,
                 "cvss-time": "2024-02-15T20:18:00",
                 "cwe": "CWE-918",
@@ -5866,6 +5874,14 @@
                 "id": "CVE-2021-26858",
                 "last-modified": "2024-07-25T17:53:00",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 4.0,
+                "cvss-time": "2020-08-24T17:37:00",
+                "cwe": "NVD-CWE-noinfo",
+                "id": "CVE-2018-8374",
+                "last-modified": "2020-08-24T17:37:00",
+                "summary": "A tampering vulnerability exists when Microsoft Exchange Server fails to properly handle profile data, aka \"Microsoft Exchange Server Tampering Vulnerability.\" This affects Microsoft Exchange Server."
             }
         ]
     },
