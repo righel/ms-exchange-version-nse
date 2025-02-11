@@ -3309,5 +3309,15 @@
                 "https://support.microsoft.com/help/5049233"
             ]
         }
+    ],
+    "15.2.1748": [
+        {
+            "name": "Exchange Server 2019 CU15 (2025H1)",
+            "release_date": "February 10, 2025",
+            "build": "15.2.1748.10",
+            "urls": [
+                "https://www.microsoft.com/download/details.aspx?id=106402"
+            ]
+        }
     ]
 }
