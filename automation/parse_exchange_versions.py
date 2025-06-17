@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import requests
+import re
 import lxml.html as lh
 import json
 import sys
@@ -67,13 +68,24 @@ def parse_ms_docs_versions():
 
         # If row is not of size 4, the //tr data is not from our table
         if len(row) != 4 or row[0].text_content() == "" or row[0].text_content() == "Product name":
+            print("error parsing version %s" % row[0].text_content().strip())
             continue
 
         # grab release details url if exists
         url = None
         if len(row[0]) > 0 and row[0][0].tag == 'a':
             url = row[0][0].attrib['href'].strip()
-
+            
+            
+        build = row[2].text_content().strip()
+        
+        # check build number format and dots
+        res = re.match(r'^(\d+\.)+\d+$', build)
+        if not res:
+            # if build number is not in format x.x.x.x, then skip it
+            print("error parsing version %s" % build)
+            continue
+            
         # cells in row
         # 0: Product name -> name
         # 1: Release date -> release_date
@@ -82,7 +94,7 @@ def parse_ms_docs_versions():
         v = {
             'name': row[0].text_content().strip(),
             'release_date': row[1].text_content().strip(),
-            'build': row[2].text_content().strip(),
+            'build': build,
             'urls': [url] if url else [],
         }
 
@@ -168,6 +180,9 @@ if __name__ == '__main__':
     parse_ms_docs_versions()
 
     parse_eightwone_versions()
+
+    with open("test_unique_versions.json", "w") as output:
+        json.dump(unique_versions, output, indent=4)
 
     unique_versions = {k: unique_versions[k] for k in sorted(
         unique_versions, key=LooseVersion)}
