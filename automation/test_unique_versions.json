@@ -1,4 +1,12 @@
 {
+    "15.2.2562.17": {
+        "name": "Exchange Server SE RTM",
+        "release_date": "July 1, 2025",
+        "build": "15.2.2562.17",
+        "urls": [
+            "https://www.microsoft.com/download/details.aspx?id=108244"
+        ]
+    },
     "15.2.1748.26": {
         "name": "Exchange Server 2019 CU15 May25HU",
         "release_date": "May 29, 2025",

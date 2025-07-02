@@ -2999,5 +2999,13 @@
         "urls": [
             "https://support.microsoft.com/help/5057651"
         ]
+    },
+    "15.2.2562.17": {
+        "name": "Exchange Server SE RTM",
+        "release_date": "July 1, 2025",
+        "build": "15.2.2562.17",
+        "urls": [
+            "https://www.microsoft.com/download/details.aspx?id=108244"
+        ]
     }
 }
