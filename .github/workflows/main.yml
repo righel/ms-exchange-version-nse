@@ -9,8 +9,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
       - name: Install python deps
@@ -22,6 +26,6 @@ jobs:
           python update_main_exchange_versions_cves.py ../ms-exchange-unique-versions-dict.json ../ms-exchange-versions-cves-dict.json
           python update_patches_exchange_versions_cves.py ../ms-exchange-versions-dict.json ../ms-exchange-versions-cves-dict.json
           python process_ms_cve_security_advisories_cves.py ../ms-exchange-versions-cves-dict.json
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: automatic update
