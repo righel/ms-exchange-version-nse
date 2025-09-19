@@ -28,7 +28,7 @@ cves_dict = json.loads(cves)
 
 
 def generate_ms_exchange_cpe(version):
-    y = re.search('(\d{4})', version["name"])
+    y = re.search(r'(\d{4})', version["name"])
     if y:
         year = y.group(1)
     else:
@@ -36,7 +36,7 @@ def generate_ms_exchange_cpe(version):
         return None
 
     # grab cumulative update
-    cu = re.search('CU(\d+)', version["name"])
+    cu = re.search(r'CU(\d+)', version["name"])
     if cu:
         cumulative = "cumulative_update_%s" % cu.group(1)
     else:
@@ -63,19 +63,35 @@ for version in versions_dict:
         if cpe:
             cves_dict[version]["cves"] = []
             # get cves
-            r = requests.get("https://cvepremium.circl.lu/api/cvefor/%s" % cpe)
+            r = requests.get("https://vulnerability.circl.lu/api/vulnerability/cpesearch/%s" % cpe)
             if r.status_code == 200:
                 data = json.loads(r.text)
 
-                for cve in data:
-                    cves_dict[version]["cves"].append({
-                        "cvss": cve.get("cvss", cve.get("cvss3")),
-                        "cvss-time": cve.get("cvss-time"),
-                        "cwe": cve["cwe"],
-                        "id": cve["id"],
-                        "last-modified": cve["last-modified"],
-                        "summary": cve["summary"],
-                    })
+                for vuln in data['cvelistv5']:
+                    if vuln["dataType"] == "CVE_RECORD":
+                        cve = {
+                            "id": vuln["cveMetadata"]["cveId"],
+                            "last-modified": vuln["cveMetadata"]["dateUpdated"],
+                        }
+
+                        if "cna" in vuln["containers"]:
+                            cve["summary"] = vuln["containers"]["cna"].get("title", "")
+
+                            # cvss
+                            for item in vuln["containers"]["cna"].get("metrics", []):
+                                if item.get("format", "") == "CVSS":
+                                    if "cvssV3_1" in item:
+                                        cve["cvss"] = item["cvssV3_1"].get("baseScore", "")
+                                        break
+
+                            # cwe
+                            for item in vuln["containers"]["cna"].get("problemTypes", []):
+                                for desc in item.get("descriptions", []):
+                                    if desc.get("type", "") == "CWE":
+                                        cve["cwe"] = desc.get("cweId", "")
+                                        break
+
+                        cves_dict[version]["cves"].append(cve)
 
             time.sleep(1)
 
