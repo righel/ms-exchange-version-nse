@@ -56,7 +56,7 @@ def find_build_by_product_name(product_name, versions):
     if product_name == "Microsoft Exchange Server 2010 Service Pack 3":
         return "14.3.123"
 
-    y = re.search('(\d{4})', product_name)
+    y = re.search(r'(\d{4})', product_name)
     if y:
         year = y.group(1)
     else:
@@ -64,7 +64,7 @@ def find_build_by_product_name(product_name, versions):
         return None
 
     # grab cumulative update
-    cu = re.search('Cumulative Update (\d+)', product_name)
+    cu = re.search(r'Cumulative Update (\d+)', product_name)
     if cu:
         cumulative = "CU%s" % cu.group(1)
     else:
