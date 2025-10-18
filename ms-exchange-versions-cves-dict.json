@@ -377,14 +377,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -410,14 +410,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -439,14 +439,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -468,14 +468,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -497,14 +497,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -530,14 +530,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -559,16 +559,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -618,16 +618,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -741,16 +741,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -777,14 +777,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -806,16 +806,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -969,16 +969,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -1005,14 +1005,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1034,16 +1034,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -1127,16 +1127,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -1163,14 +1163,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1192,16 +1192,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -1289,16 +1289,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -1320,14 +1320,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1349,16 +1349,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -1396,16 +1396,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -1427,14 +1427,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1456,16 +1456,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -1503,16 +1503,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9.1,
@@ -1534,14 +1534,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1563,16 +1563,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -1733,14 +1733,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1762,14 +1762,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1791,14 +1791,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1824,14 +1824,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1853,14 +1853,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1882,14 +1882,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1915,14 +1915,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1944,14 +1944,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -1973,14 +1973,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2002,14 +2002,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2031,14 +2031,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2060,14 +2060,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2089,14 +2089,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2126,14 +2126,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2155,14 +2155,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2184,14 +2184,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2213,14 +2213,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2271,14 +2271,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2305,14 +2305,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2327,6 +2327,11 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
         "cves": [
             {
+                "id": "CVE-2020-0688",
+                "last-modified": "2025-07-30T01:45:48.529Z",
+                "summary": ""
+            },
+            {
                 "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-07-30T01:38:18.133Z",
@@ -2334,14 +2339,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2372,14 +2377,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2394,6 +2399,11 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
         "cves": [
             {
+                "id": "CVE-2020-0688",
+                "last-modified": "2025-07-30T01:45:48.529Z",
+                "summary": ""
+            },
+            {
                 "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-07-30T01:38:18.133Z",
@@ -2401,14 +2411,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2430,14 +2440,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2459,14 +2469,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2486,20 +2496,50 @@
         "cves": [
             {
                 "cvss": 9.1,
+                "id": "CVE-2020-17142",
+                "last-modified": "2025-08-28T22:23:29.005Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 8.4,
+                "id": "CVE-2020-17141",
+                "last-modified": "2025-08-28T22:23:28.369Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2020-17132",
+                "last-modified": "2025-08-28T22:23:23.877Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 6.6,
+                "id": "CVE-2020-17117",
+                "last-modified": "2025-08-28T22:23:22.006Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-07-30T01:38:18.133Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2518,16 +2558,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2555,14 +2595,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2577,16 +2617,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2614,14 +2654,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2636,16 +2676,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2673,14 +2713,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2695,16 +2735,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2732,14 +2772,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2758,16 +2798,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2795,14 +2835,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2817,16 +2857,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2854,14 +2894,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2876,16 +2916,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -2913,14 +2953,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2936,20 +2976,50 @@
         "cves": [
             {
                 "cvss": 9.1,
+                "id": "CVE-2020-17142",
+                "last-modified": "2025-08-28T22:23:29.005Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 8.4,
+                "id": "CVE-2020-17141",
+                "last-modified": "2025-08-28T22:23:28.369Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2020-17132",
+                "last-modified": "2025-08-28T22:23:23.877Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 6.6,
+                "id": "CVE-2020-17117",
+                "last-modified": "2025-08-28T22:23:22.006Z",
+                "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-07-30T01:38:18.133Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2971,14 +3041,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -2997,12 +3067,49 @@
                 "id": "CVE-2021-31207",
                 "last-modified": "2025-07-30T01:38:10.562Z",
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
     "15.1.2176.14": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            }
+        ]
     },
     "15.1.2176.2": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
@@ -3015,14 +3122,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -3038,16 +3145,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -3068,14 +3175,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -3091,16 +3198,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -3120,16 +3227,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -3147,6 +3254,24 @@
                 "id": "CVE-2021-31196",
                 "last-modified": "2025-07-30T01:38:07.100Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -3170,16 +3295,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -3203,6 +3328,24 @@
                 "id": "CVE-2021-31196",
                 "last-modified": "2025-07-30T01:38:07.100Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -3877,14 +4020,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -3906,14 +4049,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -3935,14 +4078,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -3984,14 +4127,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4017,14 +4160,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4046,14 +4189,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4075,14 +4218,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4129,14 +4272,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4167,14 +4310,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4201,14 +4344,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4239,14 +4382,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4273,14 +4416,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4302,14 +4445,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4331,14 +4474,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4357,16 +4500,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4394,14 +4537,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4420,16 +4563,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4457,14 +4600,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4479,16 +4622,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4516,14 +4659,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4538,16 +4681,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4575,14 +4718,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4597,16 +4740,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4634,14 +4777,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4660,16 +4803,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4697,14 +4840,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4719,16 +4862,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4756,14 +4899,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4778,16 +4921,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4815,14 +4958,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4837,16 +4980,16 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
         "cves": [
             {
-                "cvss": 8.8,
-                "id": "CVE-2020-17143",
-                "last-modified": "2025-08-28T22:23:29.506Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2020-17142",
                 "last-modified": "2025-08-28T22:23:29.005Z",
                 "summary": "Microsoft Exchange Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 8.8,
+                "id": "CVE-2020-17143",
+                "last-modified": "2025-08-28T22:23:29.506Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 8.4,
@@ -4874,14 +5017,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4903,14 +5046,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4931,16 +5074,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -4958,12 +5101,49 @@
                 "id": "CVE-2021-31207",
                 "last-modified": "2025-07-30T01:38:10.562Z",
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
+            },
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
     "15.2.792.15": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
-        "cves": []
+        "cves": [
+            {
+                "cvss": 9.1,
+                "id": "CVE-2021-34473",
+                "last-modified": "2025-07-30T01:38:06.546Z",
+                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
+            },
+            {
+                "cvss": 9,
+                "id": "CVE-2021-34523",
+                "last-modified": "2025-07-30T01:38:06.414Z",
+                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
+            }
+        ]
     },
     "15.2.792.3": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
@@ -4976,14 +5156,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -4999,16 +5179,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -5029,14 +5209,14 @@
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-26858",
-                "last-modified": "2025-07-30T01:38:17.737Z",
+                "id": "CVE-2021-27065",
+                "last-modified": "2025-07-30T01:38:17.255Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
                 "cvss": 7.8,
-                "id": "CVE-2021-27065",
-                "last-modified": "2025-07-30T01:38:17.255Z",
+                "id": "CVE-2021-26858",
+                "last-modified": "2025-07-30T01:38:17.737Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
@@ -5052,16 +5232,16 @@
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -5087,16 +5267,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -5116,16 +5296,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -5155,16 +5335,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
@@ -5190,16 +5370,16 @@
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
             },
             {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-34473",
                 "last-modified": "2025-07-30T01:38:06.546Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
+            },
+            {
+                "cvss": 7.3,
+                "id": "CVE-2021-33766",
+                "last-modified": "2025-07-30T01:38:06.818Z",
+                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             },
             {
                 "cvss": 9,
