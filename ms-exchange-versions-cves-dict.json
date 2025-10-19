@@ -5101,49 +5101,12 @@
                 "id": "CVE-2021-31207",
                 "last-modified": "2025-07-30T01:38:10.562Z",
                 "summary": "Microsoft Exchange Server Security Feature Bypass Vulnerability"
-            },
-            {
-                "cvss": 9.1,
-                "id": "CVE-2021-34473",
-                "last-modified": "2025-07-30T01:38:06.546Z",
-                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
-                "cvss": 9,
-                "id": "CVE-2021-34523",
-                "last-modified": "2025-07-30T01:38:06.414Z",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
     "15.2.792.15": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
-        "cves": [
-            {
-                "cvss": 9.1,
-                "id": "CVE-2021-34473",
-                "last-modified": "2025-07-30T01:38:06.546Z",
-                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
-                "cvss": 9,
-                "id": "CVE-2021-34523",
-                "last-modified": "2025-07-30T01:38:06.414Z",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
-            }
-        ]
+        "cves": []
     },
     "15.2.792.3": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
@@ -5265,24 +5228,6 @@
                 "id": "CVE-2021-31196",
                 "last-modified": "2025-07-30T01:38:07.100Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 9.1,
-                "id": "CVE-2021-34473",
-                "last-modified": "2025-07-30T01:38:06.546Z",
-                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
-                "cvss": 9,
-                "id": "CVE-2021-34523",
-                "last-modified": "2025-07-30T01:38:06.414Z",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
@@ -5294,24 +5239,6 @@
                 "id": "CVE-2021-31196",
                 "last-modified": "2025-07-30T01:38:07.100Z",
                 "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 9.1,
-                "id": "CVE-2021-34473",
-                "last-modified": "2025-07-30T01:38:06.546Z",
-                "summary": "Microsoft Exchange Server Remote Code Execution Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2025-07-30T01:38:06.818Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
-            },
-            {
-                "cvss": 9,
-                "id": "CVE-2021-34523",
-                "last-modified": "2025-07-30T01:38:06.414Z",
-                "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
             }
         ]
     },
