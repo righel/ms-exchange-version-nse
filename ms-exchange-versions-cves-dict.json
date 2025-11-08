@@ -2099,11 +2099,6 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
         "cves": [
             {
-                "id": "CVE-2020-0688",
-                "last-modified": "2025-10-21T23:35:51.234Z",
-                "summary": ""
-            },
-            {
                 "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-10-21T23:25:53.200Z",
@@ -3574,6 +3569,11 @@
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
         "cves": [
             {
+                "id": "CVE-2020-0688",
+                "last-modified": "2025-10-21T23:35:51.234Z",
+                "summary": ""
+            },
+            {
                 "cvss": 9.1,
                 "id": "CVE-2021-26855",
                 "last-modified": "2025-10-21T23:25:53.200Z",
@@ -3712,6 +3712,11 @@
     "15.2.529.8": {
         "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
         "cves": [
+            {
+                "id": "CVE-2020-0688",
+                "last-modified": "2025-10-21T23:35:51.234Z",
+                "summary": ""
+            },
             {
                 "cvss": 9.1,
                 "id": "CVE-2021-26855",
