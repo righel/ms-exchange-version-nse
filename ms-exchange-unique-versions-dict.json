@@ -458,19 +458,19 @@
         "urls": []
     },
     "8.3.417.1": {
-        "name": "Update Rollup 17 forExchange Server 2007 SP3",
+        "name": "Update Rollup 17 for Exchange Server 2007 SP3",
         "release_date": "June 17, 2015",
         "build": "8.3.417.1",
         "urls": []
     },
     "8.3.445.0": {
-        "name": "Update Rollup 18 forExchange Server 2007 SP3",
+        "name": "Update Rollup 18 for Exchange Server 2007 SP3",
         "release_date": "December, 2015",
         "build": "8.3.445.0",
         "urls": []
     },
     "8.3.459.0": {
-        "name": "Update Rollup 19 forExchange Server 2007 SP3",
+        "name": "Update Rollup 19 for Exchange Server 2007 SP3",
         "release_date": "March 15, 2016",
         "build": "8.3.459.0",
         "urls": []
@@ -2266,6 +2266,14 @@
             "https://support.microsoft.com/help/5071873"
         ]
     },
+    "15.1.2507.66": {
+        "name": "Exchange Server 2016 CU23 Feb26SU",
+        "release_date": "February 10, 2026",
+        "build": "15.1.2507.66",
+        "urls": [
+            "https://support.microsoft.com/help/5074995"
+        ]
+    },
     "15.2.191.1": {
         "name": "Exchange Version 2019  Preview",
         "release_date": "July, 2018",
@@ -3040,6 +3048,14 @@
             "https://support.microsoft.com/help/5071874"
         ]
     },
+    "15.2.1544.39": {
+        "name": "Exchange Server 2019 CU14 Feb26SU",
+        "release_date": "February 10, 2026",
+        "build": "15.2.1544.39",
+        "urls": [
+            "https://support.microsoft.com/help/5074994"
+        ]
+    },
     "15.2.1748.10": {
         "name": "Exchange Server 2019 CU15 (2025H1)",
         "release_date": "February 10, 2025",
@@ -3096,6 +3112,14 @@
             "https://support.microsoft.com/help/5071875"
         ]
     },
+    "15.2.1748.43": {
+        "name": "Exchange Server 2019 CU15 Feb26SU",
+        "release_date": "February 10, 2026",
+        "build": "15.2.1748.43",
+        "urls": [
+            "https://support.microsoft.com/help/5074993"
+        ]
+    },
     "15.2.2562.17": {
         "name": "Exchange Server SE RTM",
         "release_date": "July 1, 2025",
@@ -3134,6 +3158,14 @@
         "build": "15.2.2562.35",
         "urls": [
             "https://support.microsoft.com/help/5071876"
+        ]
+    },
+    "15.2.2562.37": {
+        "name": "Exchange Server SE RTM Feb26SU",
+        "release_date": "February 10, 2026",
+        "build": "15.2.2562.37",
+        "urls": [
+            "https://support.microsoft.com/help/5074992"
         ]
     }
 }
