@@ -3167,5 +3167,13 @@
         "urls": [
             "https://support.microsoft.com/help/5074992"
         ]
+    },
+    "15.2.2562.41": {
+        "name": "Exchange Server SE RTM May26HU",
+        "release_date": "May 7, 2026",
+        "build": "15.2.2562.41",
+        "urls": [
+            "https://support.microsoft.com/help/5081755"
+        ]
     }
 }
