@@ -2604,6 +2604,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5074995"
             ]
+        },
+        {
+            "name": "Exchange Version 2016 CU23 SU22",
+            "release_date": "June, 2026",
+            "build": "15.1.2507.69",
+            "urls": [
+                "https://support.microsoft.com/help/5094144"
+            ]
         }
     ],
     "15.2.191": [
@@ -3420,6 +3428,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5074994"
             ]
+        },
+        {
+            "name": "Exchange Version 2019 CU14 SU11",
+            "release_date": "June, 2026",
+            "build": "15.2.1544.41",
+            "urls": [
+                "https://support.microsoft.com/help/5094142"
+            ]
         }
     ],
     "15.2.1748": [
@@ -3486,6 +3502,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5074993"
             ]
+        },
+        {
+            "name": "Exchange Version 2019 CU15 SU8",
+            "release_date": "June, 2026",
+            "build": "15.2.1748.46",
+            "urls": [
+                "https://support.microsoft.com/help/5094140"
+            ]
         }
     ],
     "15.2.2562": [
@@ -3543,6 +3567,14 @@
             "build": "15.2.2562.41",
             "urls": [
                 "https://support.microsoft.com/help/5081755"
+            ]
+        },
+        {
+            "name": "Exchange Version SE R TM SU7",
+            "release_date": "June, 2026",
+            "build": "15.2.2562.43",
+            "urls": [
+                "https://support.microsoft.com/help/5094139"
             ]
         }
     ]

@@ -1186,7 +1186,7 @@
         "14.3.509": {
             "product": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 31",
             "productId": "11816",
-            "releaseDate": "2020-12-08T08:00:00Z"
+            "releaseDate": "2020-12-08T00:00:00-08:00"
         }
     },
     "CVE-2021-1730": {
