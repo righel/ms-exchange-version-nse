@@ -181,8 +181,8 @@ for version in versions_cves.keys():
         if cve["id"] in cves_affected_products_dict.keys():
             product_version = version[:version.rfind(".")]
             if product_version in cves_affected_products_dict[cve["id"]].keys():
-                patch_date = datetime.strptime(
-                    cves_affected_products_dict[cve["id"]][product_version]["releaseDate"], '%Y-%m-%dT%H:%M:%SZ')
+                patch_date = datetime.fromisoformat(
+                    cves_affected_products_dict[cve["id"]][product_version]["releaseDate"].replace("Z", "+00:00"))
 
                 # if version release date is older than the patch, still vulnerable
                 if version_release_date.date() < patch_date.date():
