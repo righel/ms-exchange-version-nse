@@ -3612,6 +3612,28 @@
             "releaseDate": "2026-05-14T07:00:00-07:00"
         }
     },
+    "CVE-2026-45500": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.1544": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "productId": "12293",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.1748": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 15",
+            "productId": "12502",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.2562": {
+            "product": "Microsoft Exchange Server Subscription Edition RTM",
+            "productId": "16792",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        }
+    },
     "CVE-2026-45501": {
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
@@ -3679,6 +3701,28 @@
         }
     },
     "CVE-2026-45504": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.1544": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "productId": "12293",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.1748": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 15",
+            "productId": "12502",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        },
+        "15.2.2562": {
+            "product": "Microsoft Exchange Server Subscription Edition RTM",
+            "productId": "16792",
+            "releaseDate": "2026-06-09T07:00:00-07:00"
+        }
+    },
+    "CVE-2026-45583": {
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
