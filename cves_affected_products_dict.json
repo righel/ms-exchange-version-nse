@@ -3854,6 +3854,28 @@
             "releaseDate": "2026-07-14T07:00:00-07:00"
         }
     },
+    "CVE-2026-62910": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1544": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "productId": "12293",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1748": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 15",
+            "productId": "12502",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.2562": {
+            "product": "Microsoft Exchange Server Subscription Edition RTM",
+            "productId": "16792",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        }
+    },
     "CVE-2026-62911": {
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
@@ -3898,7 +3920,51 @@
             "releaseDate": "2026-08-11T07:00:00-07:00"
         }
     },
+    "CVE-2026-62913": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1544": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "productId": "12293",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1748": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 15",
+            "productId": "12502",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.2562": {
+            "product": "Microsoft Exchange Server Subscription Edition RTM",
+            "productId": "16792",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        }
+    },
     "CVE-2026-62914": {
+        "15.1.2507": {
+            "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "productId": "12039",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1544": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "productId": "12293",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.1748": {
+            "product": "Microsoft Exchange Server 2019 Cumulative Update 15",
+            "productId": "12502",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        },
+        "15.2.2562": {
+            "product": "Microsoft Exchange Server Subscription Edition RTM",
+            "productId": "16792",
+            "releaseDate": "2026-08-11T07:00:00-07:00"
+        }
+    },
+    "CVE-2026-62915": {
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
