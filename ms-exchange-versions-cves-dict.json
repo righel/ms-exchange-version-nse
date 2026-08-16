@@ -2156,12 +2156,6 @@
                 "id": "CVE-2021-33768",
                 "last-modified": "2026-08-10T15:11:36.947Z",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2026-08-10T15:11:36.358Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             }
         ]
     },
@@ -2194,12 +2188,6 @@
                 "id": "CVE-2021-33768",
                 "last-modified": "2026-08-10T15:11:36.947Z",
                 "summary": "Microsoft Exchange Server Elevation of Privilege Vulnerability"
-            },
-            {
-                "cvss": 7.3,
-                "id": "CVE-2021-33766",
-                "last-modified": "2026-08-10T15:11:36.358Z",
-                "summary": "Microsoft Exchange Server Information Disclosure Vulnerability"
             }
         ]
     },
