@@ -1227,27 +1227,27 @@
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-26427": {
@@ -1281,537 +1281,537 @@
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-26855": {
         "15.0.1395": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 21",
             "productId": "11527",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1473": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 22",
             "productId": "11619",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1415": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 8",
             "productId": "11492",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1466": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 9",
             "productId": "11508",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1531": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 10",
             "productId": "11548",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1591": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 11",
             "productId": "11601",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1713": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 13",
             "productId": "11681",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1847": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 14",
             "productId": "11705",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1913": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 15",
             "productId": "11732",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1979": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 16",
             "productId": "11790",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2044": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 17",
             "productId": "11791",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.221": {
             "product": "Microsoft Exchange Server 2019",
             "productId": "11591",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.330": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 1",
             "productId": "11621",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.397": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 2",
             "productId": "11680",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.464": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 3",
             "productId": "11704",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.529": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 4",
             "productId": "11731",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.595": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 5",
             "productId": "11788",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.659": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 6",
             "productId": "11789",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-26857": {
         "14.3.123": {
             "product": "Microsoft Exchange Server 2010 Service Pack 3",
             "productId": "10476",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1395": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 21",
             "productId": "11527",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1473": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 22",
             "productId": "11619",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.847": {
             "product": "Microsoft Exchange Server 2013 Service Pack 1",
             "productId": "10650",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1415": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 8",
             "productId": "11492",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1466": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 9",
             "productId": "11508",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1531": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 10",
             "productId": "11548",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1591": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 11",
             "productId": "11601",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1713": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 13",
             "productId": "11681",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1847": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 14",
             "productId": "11705",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1913": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 15",
             "productId": "11732",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1979": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 16",
             "productId": "11790",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2044": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 17",
             "productId": "11791",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.221": {
             "product": "Microsoft Exchange Server 2019",
             "productId": "11591",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.330": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 1",
             "productId": "11621",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.397": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 2",
             "productId": "11680",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.464": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 3",
             "productId": "11704",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.529": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 4",
             "productId": "11731",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.595": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 5",
             "productId": "11788",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.659": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 6",
             "productId": "11789",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-26858": {
         "15.0.1395": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 21",
             "productId": "11527",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1473": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 22",
             "productId": "11619",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1415": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 8",
             "productId": "11492",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1466": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 9",
             "productId": "11508",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1531": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 10",
             "productId": "11548",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1591": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 11",
             "productId": "11601",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1713": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 13",
             "productId": "11681",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1847": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 14",
             "productId": "11705",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1913": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 15",
             "productId": "11732",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1979": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 16",
             "productId": "11790",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2044": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 17",
             "productId": "11791",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.221": {
             "product": "Microsoft Exchange Server 2019",
             "productId": "11591",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.330": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 1",
             "productId": "11621",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.397": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 2",
             "productId": "11680",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.464": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 3",
             "productId": "11704",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.529": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 4",
             "productId": "11731",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.595": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 5",
             "productId": "11788",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.659": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 6",
             "productId": "11789",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-27065": {
         "15.0.1395": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 21",
             "productId": "11527",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1473": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 22",
             "productId": "11619",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.0.847": {
             "product": "Microsoft Exchange Server 2013 Service Pack 1",
             "productId": "10650",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1415": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 8",
             "productId": "11492",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1466": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 9",
             "productId": "11508",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1531": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 10",
             "productId": "11548",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1591": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 11",
             "productId": "11601",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1713": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 13",
             "productId": "11681",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1847": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 14",
             "productId": "11705",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1913": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 15",
             "productId": "11732",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.1979": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 16",
             "productId": "11790",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2044": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 17",
             "productId": "11791",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.221": {
             "product": "Microsoft Exchange Server 2019",
             "productId": "11591",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.330": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 1",
             "productId": "11621",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.397": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 2",
             "productId": "11680",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.464": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 3",
             "productId": "11704",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.529": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 4",
             "productId": "11731",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.595": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 5",
             "productId": "11788",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.659": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 6",
             "productId": "11789",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-27078": {
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2106": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 18",
             "productId": "11793",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.1.2176": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 19",
             "productId": "11856",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.721": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 7",
             "productId": "11792",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         },
         "15.2.792": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 8",
             "productId": "11857",
-            "releaseDate": "2021-03-02T08:00:00Z"
+            "releaseDate": "2021-03-02T08:00:00-08:00"
         }
     },
     "CVE-2021-28480": {
@@ -2253,27 +2253,27 @@
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.1.2308": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 21",
             "productId": "11906",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.1.2375": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 22",
             "productId": "11956",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.922": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 10",
             "productId": "11908",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         }
     },
     "CVE-2021-41350": {
@@ -2302,49 +2302,49 @@
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.1.2308": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 21",
             "productId": "11906",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.1.2375": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 22",
             "productId": "11956",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.922": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 10",
             "productId": "11908",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         }
     },
     "CVE-2021-42321": {
         "15.1.2308": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 21",
             "productId": "11906",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.1.2375": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 22",
             "productId": "11956",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.922": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 10",
             "productId": "11908",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2021-11-09T08:00:00Z"
+            "releaseDate": "2021-11-09T00:00:00-08:00"
         }
     },
     "CVE-2022-21846": {
@@ -2822,66 +2822,66 @@
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.1118": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
             "productId": "12038",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         }
     },
     "CVE-2023-21706": {
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.1118": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
             "productId": "12038",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         }
     },
     "CVE-2023-21707": {
         "15.0.1497": {
             "product": "Microsoft Exchange Server 2013 Cumulative Update 23",
             "productId": "11682",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.1118": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
             "productId": "12038",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         }
     },
     "CVE-2023-21709": {
@@ -2905,17 +2905,17 @@
         "15.1.2507": {
             "product": "Microsoft Exchange Server 2016 Cumulative Update 23",
             "productId": "12039",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.1118": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 12",
             "productId": "12038",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         },
         "15.2.986": {
             "product": "Microsoft Exchange Server 2019 Cumulative Update 11",
             "productId": "11957",
-            "releaseDate": "2023-02-14T08:00:00Z"
+            "releaseDate": "2023-02-14T00:00:00-08:00"
         }
     },
     "CVE-2023-21745": {
