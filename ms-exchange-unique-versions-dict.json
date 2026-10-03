@@ -2306,6 +2306,14 @@
             "https://support.microsoft.com/help/5121611"
         ]
     },
+    "15.1.2507.75": {
+        "name": "Exchange Server 2016 CU23 Sep26SUv2",
+        "release_date": "October 2, 2026",
+        "build": "15.1.2507.75",
+        "urls": [
+            "https://support.microsoft.com/help/5129958"
+        ]
+    },
     "15.2.191.1": {
         "name": "Exchange Version 2019  Preview",
         "release_date": "July, 2018",
@@ -3120,6 +3128,14 @@
             "https://support.microsoft.com/help/5121610"
         ]
     },
+    "15.2.1544.48": {
+        "name": "Exchange Server 2019 CU14 Sep26SUv2",
+        "release_date": "October 2, 2026",
+        "build": "15.2.1544.48",
+        "urls": [
+            "https://support.microsoft.com/help/5129957"
+        ]
+    },
     "15.2.1748.10": {
         "name": "Exchange Server 2019 CU15 (2025H1)",
         "release_date": "February 10, 2025",
@@ -3216,6 +3232,14 @@
             "https://support.microsoft.com/help/5121609"
         ]
     },
+    "15.2.1748.53": {
+        "name": "Exchange Server 2019 CU15 Sep26SUv2",
+        "release_date": "October 2, 2026",
+        "build": "15.2.1748.53",
+        "urls": [
+            "https://support.microsoft.com/help/5129956"
+        ]
+    },
     "15.2.2562.17": {
         "name": "Exchange Server SE RTM",
         "release_date": "July 1, 2025",
@@ -3302,6 +3326,14 @@
         "build": "15.2.2562.49",
         "urls": [
             "https://support.microsoft.com/help/5121608"
+        ]
+    },
+    "15.2.2562.53": {
+        "name": "Exchange Server SE RTM Sep26SUv2",
+        "release_date": "October 2, 2026",
+        "build": "15.2.2562.53",
+        "urls": [
+            "https://support.microsoft.com/help/5129955"
         ]
     }
 }

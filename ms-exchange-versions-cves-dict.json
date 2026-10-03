@@ -1996,6 +1996,10 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": []
     },
+    "15.1.2507.75": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.1.2507.9": {
         "cpe": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
         "cves": []
@@ -2188,6 +2192,10 @@
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
         "cves": []
     },
+    "15.2.1544.48": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+        "cves": []
+    },
     "15.2.1544.9": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
         "cves": []
@@ -2237,6 +2245,10 @@
         "cves": []
     },
     "15.2.1748.51": {
+        "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_15:*:*:*:*:*:*",
+        "cves": []
+    },
+    "15.2.1748.53": {
         "cpe": "cpe:/a:microsoft:exchange_server:2019:cumulative_update_15:*:*:*:*:*:*",
         "cves": []
     },
@@ -2362,6 +2374,10 @@
         "cves": []
     },
     "15.2.2562.49": {
+        "cpe": null,
+        "cves": []
+    },
+    "15.2.2562.53": {
         "cpe": null,
         "cves": []
     },
