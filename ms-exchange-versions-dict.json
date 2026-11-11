@@ -3684,6 +3684,14 @@
             "urls": [
                 "https://support.microsoft.com/help/5128895"
             ]
+        },
+        {
+            "name": "Exchange Server SE RTM Nov26SU",
+            "release_date": "November 10, 2026",
+            "build": "15.2.2562.57",
+            "urls": [
+                "https://support.microsoft.com/help/5133453"
+            ]
         }
     ]
 }

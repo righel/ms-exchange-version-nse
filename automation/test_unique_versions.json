@@ -1,4 +1,12 @@
 {
+    "15.2.2562.57": {
+        "name": "Exchange Server SE RTM Nov26SU",
+        "release_date": "November 10, 2026",
+        "build": "15.2.2562.57",
+        "urls": [
+            "https://support.microsoft.com/help/5133453"
+        ]
+    },
     "15.2.2562.56": {
         "name": "Exchange Server SE RTM Oct26SU",
         "release_date": "October 13, 2026",
